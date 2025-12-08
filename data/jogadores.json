@@ -1,0 +1,2654 @@
+[
+  {
+    "id": "gerbito",
+    "nome_curto": "Gerbito",
+    "nome_completo": "Virgil Gerbito Virtonen",
+
+    "descricao_curta": "Virgil Gerbito Virtonen, mais conhecido como Gerbito, é um jogador que atua pelo Norte44 e pela Seleção da Finlândia, jogando como atacante ou ponta.",
+
+    "legenda_imagem": "Gerbito atuando pelo Norte44 em 2024.",
+
+    "data_nascimento_iso": "2001-06-16",
+    "data_nascimento_texto": "16 de junho de 2001",
+    "local_nascimento": "Helsinki, Uusimaa, Finlândia",
+    "nacionalidade": "Finlandês",
+    "pe": "Canhoto",
+    "altura": "1,72 m",
+    "apelido": "Bito,\"Suomen Messi\"",
+
+    "clube_atual": "Norte44",
+    "numero": "11",
+    "posicao": "Atacante",
+    "outras_posicoes": ["Ponta Direita"],
+
+    "clubes_juventude": ["2008–2016 — Norte44"],
+
+    "clubes_profissionais": [
+      {
+        "anos": "2016–",
+        "clube": "Norte44",
+        "jogos_gols": "541 (494)"
+      }
+    ],
+
+    "selecao_nacional": [
+      {
+        "anos": "2015–2017",
+        "selecao": "Finlândia (base)",
+        "jogos_gols": "23 (18)"
+      },
+      {
+        "anos": "2017–",
+        "selecao": "Finlândia",
+        "jogos_gols": "107 (74)"
+      }
+    ]
+  },
+
+  {
+    "id": "niang",
+
+    "nome_curto": "Niang",
+    "nome_completo": "Niang Kim Ahn",
+
+    "descricao_curta": "Niang Kim Ahn é um futebolista sul-coreano que atua como atacante e centroavante pelo Norte44 e pela Seleção da Coreia do Sul.",
+    "legenda_imagem": "Niang comemorando gol pelo Norte44.",
+
+    "data_nascimento_iso": "2001-10-30",
+    "data_nascimento_texto": "30 de outubro de 2001",
+    "local_nascimento": "Incheon, Gyeonggi, Coreia do Sul",
+    "nacionalidade": "Sul-coreana",
+    "pe": "Destro",
+    "altura": "1,87 m",
+    "apelido": "",
+
+    "clube_atual": "Norte44",
+    "numero": "9",
+    "posicao": "Atacante e Centroavante",
+    "outras_posicoes": [],
+
+    "clubes_juventude": ["2009–2018 — Ulsan Hyundai", "2018–2020 — Norte44"],
+
+    "clubes_profissionais": [
+      {
+        "anos": "2020–",
+        "clube": "Norte44",
+        "jogos_gols": "—"
+      }
+    ],
+
+    "selecao_nacional": [
+      {
+        "anos": "2015–2021",
+        "selecao": "Coreia do Sul (base)",
+        "jogos_gols": "—"
+      },
+      {
+        "anos": "2021–",
+        "selecao": "Coreia do Sul",
+        "jogos_gols": "—"
+      }
+    ]
+  },
+
+  {
+    "id": "roberto-fernandez",
+
+    "nome_curto": "Roberto Fernández",
+    "nome_completo": "Roberto Fernández Etxeberria",
+
+    "descricao_curta": "Roberto Fernández Etxeberria é um futebolista espanhol que atua como goleiro pelo Norte44 e pela Seleção da Espanha.",
+    "legenda_imagem": "Roberto Fernández atuando pelo Norte44 em 2024.",
+
+    "data_nascimento_iso": "1994-03-20",
+    "data_nascimento_texto": "20 de março de 1994",
+    "local_nascimento": "San Sebastián, País Basco, Espanha",
+    "nacionalidade": "Espanhola",
+    "pe": "Destro",
+    "altura": "1,93 m",
+    "apelido": "",
+
+    "clube_atual": "Norte44",
+    "numero": "1",
+    "posicao": "Goleiro",
+    "outras_posicoes": [],
+
+    "clubes_juventude": ["2004–2006 — Arenas Club", "2007–2011 — Norte44"],
+
+    "clubes_profissionais": [
+      {
+        "anos": "2011–",
+        "clube": "Norte44",
+        "jogos_gols": "—"
+      }
+    ],
+
+    "selecao_nacional": [
+      {
+        "anos": "2012–2013",
+        "selecao": "Espanha (base)",
+        "jogos_gols": "—"
+      },
+      {
+        "anos": "2016–",
+        "selecao": "Espanha",
+        "jogos_gols": "—"
+      }
+    ]
+  },
+  {
+    "id": "rair",
+
+    "nome_curto": "Rair",
+    "nome_completo": "Rair Silva Fernandes",
+
+    "descricao_curta": "Rair Silva Fernandes é um ex-futebolista português que atuava como lateral-direito. Defendeu clubes como União de Leiria, Braga, Real Sociedad e Norte44, além de representar a Seleção de Portugal entre 2012 e 2023. Seu último clube foi o Norte44.",
+    "legenda_imagem": "Rair em sua última temporada pelo Norte44.",
+
+    "data_nascimento_iso": "1991-01-15",
+    "data_nascimento_texto": "15 de janeiro de 1991",
+    "local_nascimento": "Lisboa, Lisboa, Portugal",
+    "nacionalidade": "Portuguesa",
+    "pe": "Destro",
+    "altura": "1,87 m",
+    "apelido": "",
+
+    "clube_atual": "Aposentado",
+    "numero": "2",
+    "posicao": "Lateral-direito",
+    "outras_posicoes": [],
+
+    "clubes_juventude": ["2001–2008 — União de Leiria"],
+
+    "clubes_profissionais": [
+      {
+        "anos": "2008–2010",
+        "clube": "União de Leiria",
+        "jogos_gols": "—"
+      },
+      {
+        "anos": "2010–2012",
+        "clube": "Braga",
+        "jogos_gols": "—"
+      },
+      {
+        "anos": "2012–2014",
+        "clube": "Real Sociedad",
+        "jogos_gols": "—"
+      },
+      {
+        "anos": "2014–2024",
+        "clube": "Norte44",
+        "jogos_gols": "—"
+      }
+    ],
+
+    "selecao_nacional": [
+      {
+        "anos": "2012–2023",
+        "selecao": "Portugal",
+        "jogos_gols": "—"
+      }
+    ]
+  },
+  {
+    "id": "shi-u",
+
+    "nome_curto": "Shi-U",
+    "nome_completo": "Ye Shi-U",
+
+    "descricao_curta": "Ye Shi-U é um futebolista finlandês-sul-coreano que atua como zagueiro pelo Norte44 e pela Seleção da Coreia do Sul.",
+    "legenda_imagem": "Shi-U em ação pelo Norte44 na temporada 2024–25.",
+
+    "data_nascimento_iso": "1994-09-18",
+    "data_nascimento_texto": "18 de setembro de 1994",
+    "local_nascimento": "Lahti, Päijät-Häme, Finlândia",
+    "nacionalidade": "Sul-coreana e Finlandesa",
+    "pe": "Ambidestro",
+    "altura": "1,88 m",
+    "apelido": "",
+
+    "clube_atual": "Norte44",
+    "numero": "3",
+    "posicao": "Zagueiro",
+    "outras_posicoes": ["Volante", "Lateral-direito"],
+
+    "clubes_juventude": ["2004–2009 — Norte44"],
+
+    "clubes_profissionais": [
+      {
+        "anos": "2009–",
+        "clube": "Norte44",
+        "jogos_gols": "—"
+      }
+    ],
+
+    "selecao_nacional": [
+      {
+        "anos": "2009–2011",
+        "selecao": "Coreia do Sul (base)",
+        "jogos_gols": "—"
+      },
+      {
+        "anos": "2011–",
+        "selecao": "Coreia do Sul",
+        "jogos_gols": "—"
+      }
+    ]
+  },
+  {
+    "id": "henrique",
+
+    "nome_curto": "Henrique",
+    "nome_completo": "Henrique Silva Serafim",
+
+    "descricao_curta": "Henrique Silva Serafim é um futebolista brasileiro-finlandês que atua como zagueiro pelo Norte44 e pela Seleção da Finlândia.",
+    "legenda_imagem": "Henrique em partida pelo Norte44 em 2024.",
+
+    "data_nascimento_iso": "2003-04-09",
+    "data_nascimento_texto": "9 de abril de 2003",
+    "local_nascimento": "Florianópolis, Santa Catarina, Brasil",
+    "nacionalidade": "Brasileira e Finlandesa",
+    "pe": "Destro",
+    "altura": "1,90 m",
+    "apelido": "",
+
+    "clube_atual": "Norte44",
+    "numero": "4",
+    "posicao": "Zagueiro",
+    "outras_posicoes": ["Lateral-direito", "Volante"],
+
+    "clubes_juventude": ["2009–2011 — Figueirense", "2011–2021 — Norte44"],
+
+    "clubes_profissionais": [
+      {
+        "anos": "2021–",
+        "clube": "Norte44",
+        "jogos_gols": "—"
+      }
+    ],
+
+    "selecao_nacional": [
+      {
+        "anos": "2020–2023",
+        "selecao": "Finlândia (base)",
+        "jogos_gols": "—"
+      },
+      {
+        "anos": "2023–",
+        "selecao": "Finlândia",
+        "jogos_gols": "—"
+      }
+    ]
+  },
+  {
+    "id": "heikki",
+    "nome_curto": "Heikki",
+    "nome_completo": "Kasper Heikkinen Rautio Virta",
+
+    "descricao_curta": "Kasper Heikkinen Rautio Virta, mais conhecido como Heikki, é um futebolista finlandês que atua como atacante pelo Norte44 e está emprestado ao Aston Villa.",
+    "legenda_imagem": "Heikki atuando pelo Norte44 em 2025",
+
+    "data_nascimento_iso": "2007-04-05",
+    "data_nascimento_texto": "5 de abril de 2007",
+    "local_nascimento": "Lahti, Päijänne Tavastia, Finlândia",
+    "nacionalidade": "Finlandês",
+    "pe": "Destro",
+    "altura": "1,81 m",
+
+    "clube_atual": "Aston Villa",
+    "numero": "10",
+    "posicao": "Atacante",
+    "outras_posicoes": [],
+
+    "apelido": "Heikki",
+
+    "clubes_juventude": ["Norte44 (2014–2024)"],
+
+    "clubes_profissionais": [
+      {
+        "anos": "2024–Presente",
+        "clube": "Norte44",
+        "jogos_gols": ""
+      },
+      {
+        "anos": "2025",
+        "clube": "Aston Villa",
+        "jogos_gols": "",
+        "emprestimo": true
+      }
+    ],
+
+    "selecao_nacional": [
+      {
+        "anos": "2022–Presente",
+        "selecao": "Finlândia (Base)",
+        "jogos_gols": ""
+      }
+    ]
+  },
+  {
+    "id": "herrera",
+    "nome_curto": "Herrera",
+    "nome_completo": "Mikel Herrera Berridi",
+
+    "descricao_curta": "Mikel Herrera Berridi foi um futebolista espanhol que atuou como lateral esquerdo. Defendeu o Norte44 entre 2011 e 2024 e representou a Seleção da Espanha de 2013 a 2023.",
+    "legenda_imagem": "Herrera atuando pelo Norte44 em 2023",
+
+    "data_nascimento_iso": "1989-02-02",
+    "data_nascimento_texto": "2 de fevereiro de 1989",
+    "local_nascimento": "Bilbao, País Basco, Espanha",
+    "nacionalidade": "Espanhola",
+    "pe": "Canhoto",
+    "altura": "1,94 m",
+
+    "clube_atual": "Aposentado",
+    "numero": "5",
+    "posicao": "Lateral esquerdo",
+    "outras_posicoes": ["Lateral direito"],
+
+    "apelido": "",
+
+    "clubes_juventude": ["Eibar (2003–2007)"],
+
+    "clubes_profissionais": [
+      { "anos": "2007–2010", "clube": "Eibar", "jogos_gols": "" },
+      { "anos": "2010–2011", "clube": "Osasuna", "jogos_gols": "" },
+      { "anos": "2011–2024", "clube": "Norte44", "jogos_gols": "" }
+    ],
+
+    "selecao_nacional": [
+      { "anos": "2013–2023", "selecao": "Espanha", "jogos_gols": "" }
+    ]
+  },
+  {
+    "id": "roope",
+    "nome_curto": "Roope",
+    "nome_completo": "Roope Tamminen",
+
+    "descricao_curta": "Roope Tamminen é um futebolista finlandês que atua como meia e defende o Norte44 e a Seleção da Finlândia.",
+    "legenda_imagem": "Roope Caco em 2024 pelo Norte44",
+
+    "data_nascimento_iso": "1999-03-25",
+    "data_nascimento_texto": "25 de março de 1999",
+    "local_nascimento": "Vantaa, Uusimaa, Finlândia",
+    "nacionalidade": "Finlandesa",
+    "pe": "Destro",
+    "altura": "1,83 m",
+
+    "clube_atual": "Norte44",
+    "numero": "6",
+    "posicao": "Meia",
+    "outras_posicoes": ["Meia atacante"],
+
+    "apelido": "",
+
+    "clubes_juventude": ["Norte44 (2007–2016)"],
+
+    "clubes_profissionais": [
+      { "anos": "2016–Presente", "clube": "Norte44", "jogos_gols": "" }
+    ],
+
+    "selecao_nacional": [
+      { "anos": "2014–2021", "selecao": "Finlândia (base)", "jogos_gols": "" },
+      { "anos": "2021–Presente", "selecao": "Finlândia", "jogos_gols": "" }
+    ]
+  },
+  {
+    "id": "juri",
+    "nome_curto": "Juri",
+    "nome_completo": "Juri Heung Yoon",
+
+    "descricao_curta": "Juri Heung Yoon é um futebolista sul-coreano que atua como ponta direita e atacante pelo Norte44 e pela seleção da Coreia do Sul.",
+    "legenda_imagem": "Juri em ação pelo Norte44",
+
+    "data_nascimento_iso": "2003-05-15",
+    "data_nascimento_texto": "15 de maio de 2003",
+    "local_nascimento": "Busan, Gyeongsang do Sul, Coreia do Sul",
+    "nacionalidade": "Sul-coreana",
+    "pe": "Canhoto",
+    "altura": "1,78 m",
+
+    "clube_atual": "Norte44",
+    "numero": "7",
+    "posicao": "Ponta e atacante",
+    "outras_posicoes": ["Centroavante", "Meia atacante"],
+
+    "apelido": "",
+
+    "clubes_juventude": ["FC Seoul (2009–2020)"],
+
+    "clubes_profissionais": [
+      { "anos": "2020–2021", "clube": "Tigers", "jogos_gols": "" },
+      { "anos": "2021–Presente", "clube": "Norte44", "jogos_gols": "" }
+    ],
+
+    "selecao_nacional": [
+      {
+        "anos": "2015–2021",
+        "selecao": "Coreia do Sul (base)",
+        "jogos_gols": ""
+      },
+      { "anos": "2021–Presente", "selecao": "Coreia do Sul", "jogos_gols": "" }
+    ]
+  },
+  {
+    "id": "pallis",
+    "nome_curto": "Pallis",
+    "nome_completo": "Christian Pallis",
+
+    "descricao_curta": "Christian Pallis é um futebolista australo-finlandês que atua como meia ou volante pelo Norte44 e pela seleção da Austrália.",
+    "legenda_imagem": "Christian Pallis pelo Norte44",
+
+    "data_nascimento_iso": "1998-09-22",
+    "data_nascimento_texto": "22 de setembro de 1998",
+    "local_nascimento": "Espoo, Uusimaa, Finlândia",
+    "nacionalidade": "Australiana e Finlandesa",
+    "pe": "Destro",
+    "altura": "1,88 m",
+
+    "clube_atual": "Norte44",
+    "numero": "8",
+    "posicao": "Meia e volante",
+    "outras_posicoes": [],
+
+    "apelido": "",
+
+    "clubes_juventude": ["Norte44 (2009–2015)"],
+
+    "clubes_profissionais": [
+      { "anos": "2015–Presente", "clube": "Norte44", "jogos_gols": "" }
+    ],
+
+    "selecao_nacional": [
+      { "anos": "2013–2015", "selecao": "Finlândia (base)", "jogos_gols": "" },
+      { "anos": "2015–Presente", "selecao": "Austrália", "jogos_gols": "" }
+    ]
+  },
+  {
+    "id": "kaio",
+    "nome_curto": "Kaio",
+    "nome_completo": "Kaio Silva Choi",
+
+    "descricao_curta": "Kaio Silva Choi é um futebolista sul-coreano-brasileiro que atua como meia e volante pelo Norte44 e pela seleção da Coreia do Sul.",
+    "legenda_imagem": "Kaio em ação pelo Norte44",
+
+    "data_nascimento_iso": "1996-01-08",
+    "data_nascimento_texto": "8 de janeiro de 1996",
+    "local_nascimento": "Daegu, Gyeongsang do Norte, Coreia do Sul",
+    "nacionalidade": "Sul-coreana e Brasileira",
+    "pe": "Canhoto",
+    "altura": "1,78 m",
+
+    "clube_atual": "Norte44",
+    "numero": "12",
+    "posicao": "Meia e volante",
+    "outras_posicoes": [],
+
+    "apelido": "",
+
+    "clubes_juventude": ["Ulsan Hyundai (2006–2014)", "Norte44 (2014–2015)"],
+
+    "clubes_profissionais": [
+      { "anos": "2015–2017", "clube": "Norte44", "jogos_gols": "" },
+      {
+        "anos": "2017–2019",
+        "clube": "Ulsan Hyundai",
+        "jogos_gols": "",
+        "emprestimo": true
+      },
+      { "anos": "2019–Presente", "clube": "Norte44", "jogos_gols": "" }
+    ],
+
+    "selecao_nacional": [
+      { "anos": "2018–Presente", "selecao": "Coreia do Sul", "jogos_gols": "" }
+    ]
+  },
+  {
+    "id": "orro",
+    "nome_curto": "Mark Orro",
+    "nome_completo": "Mark Orro Väinö",
+
+    "descricao_curta": "Mark Orro Väinö é um futebolista finlandês que atua como goleiro pelo Norte44 e pela seleção da Finlândia.",
+    "legenda_imagem": "Mark Orro defendendo o Norte44",
+
+    "data_nascimento_iso": "1997-08-17",
+    "data_nascimento_texto": "17 de agosto de 1997",
+    "local_nascimento": "Tampere, Pirkanmaa, Finlândia",
+    "nacionalidade": "Finlandesa",
+    "pe": "Destro",
+    "altura": "1,89 m",
+
+    "clube_atual": "Norte44",
+    "numero": "13",
+    "posicao": "Goleiro",
+    "outras_posicoes": [],
+
+    "apelido": "",
+
+    "clubes_juventude": [
+      "Tampere United (2012–2013)",
+      "Borussia Dortmund (2013–2014)",
+      "Norte44 (2014–2017)"
+    ],
+
+    "clubes_profissionais": [
+      { "anos": "2017–Presente", "clube": "Norte44", "jogos_gols": "" }
+    ],
+
+    "selecao_nacional": [
+      { "anos": "2012–2019", "selecao": "Finlândia (base)", "jogos_gols": "" },
+      { "anos": "2019–Presente", "selecao": "Finlândia", "jogos_gols": "" }
+    ]
+  },
+  {
+    "id": "kenny",
+    "nome_curto": "Kenny",
+    "nome_completo": "Knin Kenny O'Sullivan",
+
+    "descricao_curta": "Knin Kenny O'Sullivan é um futebolista irlandês que atua como centroavante pelo Norte44 e pela seleção da Irlanda.",
+    "legenda_imagem": "Kenny comemorando gol pelo Norte44",
+
+    "data_nascimento_iso": "1994-04-03",
+    "data_nascimento_texto": "3 de abril de 1994",
+    "local_nascimento": "Dublin, Leinster, Irlanda",
+    "nacionalidade": "Irlandesa",
+    "pe": "Destro",
+    "altura": "1,94 m",
+
+    "clube_atual": "Norte44",
+    "numero": "14",
+    "posicao": "Centroavante",
+    "outras_posicoes": [],
+
+    "apelido": "",
+
+    "clubes_juventude": [
+      "St. Patrick's Athletic (2007–2010)",
+      "Norte44 (2010–2011)"
+    ],
+
+    "clubes_profissionais": [
+      { "anos": "2011–Presente", "clube": "Norte44", "jogos_gols": "" }
+    ],
+
+    "selecao_nacional": [
+      { "anos": "2012–Presente", "selecao": "Irlanda", "jogos_gols": "" }
+    ]
+  },
+  {
+    "id": "martian",
+    "nome_curto": "Martian",
+    "nome_completo": "Eric Steven Martian",
+
+    "descricao_curta": "Eric Steven Martian é um futebolista norte-americano que atua como lateral direito e joga atualmente no Tottenham, emprestado pelo Norte44, além de defender a seleção dos Estados Unidos.",
+    "legenda_imagem": "Martian atuando pelo Norte44 antes do empréstimo ao Tottenham",
+
+    "data_nascimento_iso": "2003-07-09",
+    "data_nascimento_texto": "9 de julho de 2003",
+    "local_nascimento": "Nova York, Nova York, Estados Unidos",
+    "nacionalidade": "Americana",
+    "pe": "Destro",
+    "altura": "1,75 m",
+
+    "clube_atual": "Tottenham",
+    "numero": "27",
+    "posicao": "Lateral direito",
+    "outras_posicoes": [],
+
+    "apelido": "",
+
+    "clubes_juventude": ["Norte44 (2016–2021)"],
+
+    "clubes_profissionais": [
+      { "anos": "2021–Presente", "clube": "Norte44", "jogos_gols": "" },
+      {
+        "anos": "2025",
+        "clube": "Tottenham",
+        "jogos_gols": "",
+        "emprestimo": true
+      }
+    ],
+
+    "selecao_nacional": [
+      { "anos": "2020–Presente", "selecao": "Estados Unidos", "jogos_gols": "" }
+    ]
+  },
+  {
+    "id": "kurzakov",
+    "nome_curto": "Kurzakov",
+    "nome_completo": "Michael Kurzakov Hämäläinen",
+
+    "descricao_curta": "Michael Kurzakov Hämäläinen é um futebolista finlandês-russo que atua como atacante e ponta esquerda pelo Norte44 e pela seleção da Finlândia.",
+    "legenda_imagem": "Kurzakov em partida pelo Norte44",
+
+    "data_nascimento_iso": "2002-09-15",
+    "data_nascimento_texto": "15 de setembro de 2002",
+    "local_nascimento": "Helsinki, Uusimaa, Finlândia",
+    "nacionalidade": "Finlandesa e Russa",
+    "pe": "Destro",
+    "altura": "1,80 m",
+
+    "clube_atual": "Norte44",
+    "numero": "16",
+    "posicao": "Atacante e ponta esquerda",
+    "outras_posicoes": ["Meia atacante"],
+
+    "apelido": "",
+
+    "clubes_juventude": ["Norte44 (2015–2021)"],
+
+    "clubes_profissionais": [
+      { "anos": "2021–Presente", "clube": "Norte44", "jogos_gols": "-" }
+    ],
+
+    "selecao_nacional": [
+      { "anos": "2017", "selecao": "Finlândia (base)", "jogos_gols": "-" },
+      { "anos": "2022–Presente", "selecao": "Finlândia", "jogos_gols": "—" }
+    ]
+  },
+  {
+    "id": "hervisty",
+    "nome_curto": "Hervisty",
+    "nome_completo": "Hervisty Järvinen",
+
+    "descricao_curta": "Hervisty Järvinen é um futebolista finlandês que atua como atacante e ponta pelo Norte44 e pela seleção da Finlândia.",
+    "legenda_imagem": "Hervisty atuando pelo Norte44 com a camisa 10",
+
+    "data_nascimento_iso": "1994-11-03",
+    "data_nascimento_texto": "3 de novembro de 1994",
+    "local_nascimento": "Helsinki, Uusimaa, Finlândia",
+    "nacionalidade": "Finlandês",
+    "pe": "Ambidestro",
+    "altura": "1,90 m",
+
+    "clube_atual": "Norte44",
+    "numero": "10",
+    "posicao": "Atacante e ponta",
+    "outras_posicoes": ["Centroavante", "Meia atacante"],
+
+    "apelido": "",
+
+    "clubes_juventude": ["Brtlty City (2000)", "Norte44 (2000–2008)"],
+
+    "clubes_profissionais": [
+      { "anos": "2008–Presente", "clube": "Norte44", "jogos_gols": "" }
+    ],
+
+    "selecao_nacional": [
+      { "anos": "2007–2010", "selecao": "Finlândia (base)", "jogos_gols": "" },
+      { "anos": "2010–Presente", "selecao": "Finlândia", "jogos_gols": "" }
+    ]
+  },
+  {
+    "id": "rafael_alvarez",
+    "nome_curto": "Rafael Alvarez",
+    "nome_completo": "Rafael Alvarez Fernández",
+
+    "descricao_curta": "Rafael Alvarez Fernández é um futebolista espanhol que atua como atacante e ponta pelo Manchester City e pela seleção da Espanha.",
+    "legenda_imagem": "Rafael Alvarez em jogo pelo Manchester City",
+
+    "data_nascimento_iso": "1998-03-15",
+    "data_nascimento_texto": "15 de março de 1998",
+    "local_nascimento": "Madrid, Espanha",
+    "nacionalidade": "Espanhola",
+    "pe": "Canhoto",
+    "altura": "1,82 m",
+
+    "clube_atual": "Manchester City",
+    "numero": "24",
+    "posicao": "Atacante e ponta",
+    "outras_posicoes": [],
+
+    "apelido": "",
+
+    "clubes_juventude": ["Rayo Vallecano (2008–2010)", "Norte44 (2010–2018)"],
+
+    "clubes_profissionais": [
+      {
+        "anos": "2018",
+        "clube": "Real Madrid",
+        "jogos_gols": "",
+        "emprestimo": true
+      },
+      { "anos": "2018–2025", "clube": "Norte44", "jogos_gols": "" },
+      { "anos": "2025–Presente", "clube": "Manchester City", "jogos_gols": "" }
+    ],
+
+    "selecao_nacional": [
+      { "anos": "2014–2020", "selecao": "Espanha (base)", "jogos_gols": "" },
+      { "anos": "2020–Presente", "selecao": "Espanha", "jogos_gols": "" }
+    ]
+  },
+  {
+    "id": "nick",
+    "nome_curto": "Nick",
+    "nome_completo": "Nick Mäkinen",
+
+    "descricao_curta": "Nick Mäkinen é um futebolista finlandês que atua como atacante pelo Norte44 e é um dos maiores ídolos da história do clube.",
+    "legenda_imagem": "Nick em sua fase veterana pelo Norte44",
+
+    "data_nascimento_iso": "1982-10-29",
+    "data_nascimento_texto": "29 de outubro de 1982",
+    "local_nascimento": "Tampere, Pirkanmaa, Finlândia",
+    "nacionalidade": "Finlandês",
+    "pe": "Ambidestro",
+    "altura": "1,92 m",
+
+    "clube_atual": "Norte44",
+    "numero": "29",
+    "posicao": "Atacante",
+    "outras_posicoes": ["Centroavante", "Meia atacante"],
+
+    "apelido": "",
+
+    "clubes_juventude": ["Tampere United (1990–1995)", "Norte44 (1995–1998)"],
+
+    "clubes_profissionais": [
+      { "anos": "1998–Presente", "clube": "Norte44", "jogos_gols": "" }
+    ],
+
+    "selecao_nacional": [
+      { "anos": "1998–2021", "selecao": "Finlândia", "jogos_gols": "" }
+    ]
+  },
+  {
+    "id": "henrik",
+    "nome_curto": "Shwn",
+    "nome_completo": "Henrik Shwn Korhonen",
+
+    "descricao_curta": "Henrik Shwn Korhonen é um futebolista finlandês que atua como goleiro pelo Norte44 e pela seleção da Finlândia.",
+    "legenda_imagem": "Henrik Shwn em partida pelo Norte44",
+
+    "data_nascimento_iso": "2004-07-15",
+    "data_nascimento_texto": "15 de julho de 2004",
+    "local_nascimento": "Tampere, Pirkanmaa, Finlândia",
+    "nacionalidade": "Finlandês",
+    "pe": "Canhoto",
+    "altura": "1,89 m",
+
+    "clube_atual": "Norte44",
+    "numero": "34",
+    "posicao": "Goleiro",
+    "outras_posicoes": [],
+
+    "apelido": "",
+
+    "clubes_juventude": ["Norte44 (2014–2017)"],
+
+    "clubes_profissionais": [
+      { "anos": "2017–Presente", "clube": "Norte44", "jogos_gols": "" }
+    ],
+
+    "selecao_nacional": [
+      { "anos": "2014–2017", "selecao": "Finlândia (base)", "jogos_gols": "" },
+      { "anos": "2022–Presente", "selecao": "Finlândia", "jogos_gols": "" }
+    ]
+  },
+  {
+    "id": "watterson",
+    "nome_curto": "Watterson",
+    "nome_completo": "Kasper Watterson Niemi",
+
+    "descricao_curta": "Kasper Watterson Niemi foi um futebolista finlandês que atuou como meia e meia atacante pelo Norte44 e defendeu a seleção da Finlândia entre 2007 e 2022.",
+    "legenda_imagem": "Watterson em seus últimos anos de carreira pelo Norte44",
+
+    "data_nascimento_iso": "1989-02-04",
+    "data_nascimento_texto": "4 de fevereiro de 1989",
+    "local_nascimento": "Jyväskylä, Keski-Suomi, Finlândia",
+    "nacionalidade": "Finlandês",
+    "pe": "Canhoto",
+    "altura": "1,92 m",
+
+    "clube_atual": "Aposentado",
+    "numero": "17",
+    "posicao": "Meia e meia atacante",
+    "outras_posicoes": [],
+
+    "apelido": "",
+
+    "clubes_juventude": ["Norte44 (1999–2007)"],
+
+    "clubes_profissionais": [
+      { "anos": "2007–2024", "clube": "Norte44", "jogos_gols": "" }
+    ],
+
+    "selecao_nacional": [
+      { "anos": "2007–2022", "selecao": "Finlândia", "jogos_gols": "" }
+    ]
+  },
+  {
+    "id": "burn",
+    "nome_curto": "Burn",
+    "nome_completo": "Daniel Eero Burnainen",
+
+    "descricao_curta": "Daniel Eero Burnainen é um futebolista finlandês que atua como zagueiro pelo Norte44 e pela seleção da Finlândia.",
+    "legenda_imagem": "Burn, o gigante da zaga do Norte44",
+
+    "data_nascimento_iso": "1987-08-12",
+    "data_nascimento_texto": "12 de agosto de 1987",
+    "local_nascimento": "Tampere, Pirkanmaa, Finlândia",
+    "nacionalidade": "Finlandês",
+    "pe": "Canhoto",
+    "altura": "2,05 m",
+
+    "clube_atual": "Norte44",
+    "numero": "15",
+    "posicao": "Zagueiro",
+    "outras_posicoes": [],
+
+    "apelido": "Burn",
+
+    "clubes_juventude": ["Norte44 (1997–2005)"],
+
+    "clubes_profissionais": [
+      { "anos": "2005", "clube": "Norte44", "jogos_gols": "" },
+      {
+        "anos": "2005–2007",
+        "clube": "Fulham",
+        "jogos_gols": "",
+        "emprestimo": true
+      },
+      { "anos": "2007–2015", "clube": "Norte44", "jogos_gols": "" },
+      { "anos": "2015–2018", "clube": "Brtlty City", "jogos_gols": "" },
+      { "anos": "2018–2020", "clube": "Tigers", "jogos_gols": "" },
+      {
+        "anos": "2020",
+        "clube": "Norte44",
+        "jogos_gols": "",
+        "emprestimo": true
+      },
+      { "anos": "2020–Presente", "clube": "Norte44", "jogos_gols": "" }
+    ],
+
+    "selecao_nacional": [
+      { "anos": "2007–Presente", "selecao": "Finlândia", "jogos_gols": "" }
+    ]
+  },
+  {
+    "id": "luis_henrique",
+    "nome_curto": "Luis Henrique",
+    "nome_completo": "Luis Henrique Järvinen",
+
+    "descricao_curta": "Luis Henrique Järvinen foi um futebolista finlandês que atuou como meia atacante e atacante pelo Norte44 e representou a seleção da Finlândia entre 2004 e 2018.",
+    "legenda_imagem": "Luis Henrique em seus últimos anos pelo Norte44",
+
+    "data_nascimento_iso": "1985-09-07",
+    "data_nascimento_texto": "7 de setembro de 1985",
+    "local_nascimento": "Helsinki, Uusimaa, Finlândia",
+    "nacionalidade": "Finlandês",
+    "pe": "Ambidestro",
+    "altura": "1,88 m",
+
+    "clube_atual": "Aposentado",
+    "numero": "21",
+    "posicao": "Meia atacante e atacante",
+    "outras_posicoes": [],
+
+    "apelido": "",
+
+    "clubes_juventude": ["Norte44 (1993–2003)"],
+
+    "clubes_profissionais": [
+      { "anos": "2003–2025", "clube": "Norte44", "jogos_gols": "" }
+    ],
+
+    "selecao_nacional": [
+      { "anos": "2004–2018", "selecao": "Finlândia", "jogos_gols": "" }
+    ]
+  },
+  {
+    "id": "joan_arnaiz",
+    "nome_curto": "Joan Arnaiz",
+    "nome_completo": "Joan Arnaiz Martin",
+
+    "descricao_curta": "Joan Arnaiz Martin é um futebolista hispano-finlandês que atua como lateral direito e zagueiro pelo Norte44 e pela seleção da Finlândia.",
+    "legenda_imagem": "Joan Arnaiz defendendo o Norte44 pela lateral direita",
+
+    "data_nascimento_iso": "2000-03-15",
+    "data_nascimento_texto": "15 de março de 2000",
+    "local_nascimento": "Madrid, Comunidade de Madrid, Espanha",
+    "nacionalidade": "Espanhol e Finlandês",
+    "pe": "Destro",
+    "altura": "1,84 m",
+
+    "clube_atual": "Norte44",
+    "numero": "2",
+    "posicao": "Lateral direito",
+    "outras_posicoes": ["zagueiro"],
+
+    "apelido": "",
+
+    "clubes_juventude": ["Norte44 (2010–2018)"],
+
+    "clubes_profissionais": [
+      { "anos": "2018–Presente", "clube": "Norte44", "jogos_gols": "" }
+    ],
+
+    "selecao_nacional": [
+      { "anos": "2010–2018", "selecao": "Finlândia (base)", "jogos_gols": "" },
+      { "anos": "2018–Presente", "selecao": "Finlândia", "jogos_gols": "" }
+    ]
+  },
+  {
+    "id": "leroy_nick",
+    "nome_curto": "Leroy Nick",
+    "nome_completo": "Leroy Nick Karjalainen",
+
+    "descricao_curta": "Leroy Nick Karjalainen é um futebolista finlandês que atua como meia direita pelo Norte44 e pela seleção da Finlândia.",
+    "legenda_imagem": "Leroy Nick atuando aberto pela direita no Norte44",
+
+    "data_nascimento_iso": "1999-07-12",
+    "data_nascimento_texto": "12 de julho de 1999",
+    "local_nascimento": "Helsinki, Uusimaa, Finlândia",
+    "nacionalidade": "Finlandês",
+    "pe": "Canhoto",
+    "altura": "1,82 m",
+
+    "clube_atual": "Norte44",
+    "numero": "22",
+    "posicao": "Meia direita",
+    "outras_posicoes": ["Lateral direito", "Lateral esquerdo"],
+
+    "apelido": "",
+
+    "clubes_juventude": ["Norte44 (2009–2017)"],
+
+    "clubes_profissionais": [
+      { "anos": "2017", "clube": "Norte44", "jogos_gols": "" },
+      {
+        "anos": "2017–2018",
+        "clube": "Real Madrid",
+        "jogos_gols": "",
+        "emprestimo": true
+      },
+      { "anos": "2018–Presente", "clube": "Norte44", "jogos_gols": "" }
+    ],
+
+    "selecao_nacional": [
+      { "anos": "2009–2017", "selecao": "Finlândia (base)", "jogos_gols": "" },
+      { "anos": "2021–Presente", "selecao": "Finlândia", "jogos_gols": "" }
+    ]
+  },
+  {
+    "id": "lucas",
+    "nome_curto": "Lucas",
+    "nome_completo": "Lucas Ferreira",
+
+    "descricao_curta": "Lucas Ferreira foi um futebolista português que atuou como zagueiro por Braga e Norte44, além de ter defendido a seleção de Portugal entre 2015 e 2023.",
+    "legenda_imagem": "Lucas Ferreira em sua passagem pelo Norte44",
+
+    "data_nascimento_iso": "1990-03-15",
+    "data_nascimento_texto": "15 de março de 1990",
+    "local_nascimento": "Braga, Braga, Portugal",
+    "nacionalidade": "Português",
+    "pe": "Destro",
+    "altura": "1,86 m",
+
+    "clube_atual": "Aposentado",
+    "numero": "32",
+    "posicao": "Zagueiro",
+    "outras_posicoes": [],
+
+    "apelido": "",
+
+    "clubes_juventude": [
+      "Vitória de Guimarães (2000–2003)",
+      "Braga (2003–2006)"
+    ],
+
+    "clubes_profissionais": [
+      { "anos": "2006–2016", "clube": "Braga", "jogos_gols": "" },
+      { "anos": "2016–2025", "clube": "Norte44", "jogos_gols": "" }
+    ],
+
+    "selecao_nacional": [
+      { "anos": "2015–2023", "selecao": "Portugal", "jogos_gols": "" }
+    ]
+  },
+  {
+    "id": "javier_martinez",
+    "nome_curto": "Javier Martínez",
+    "nome_completo": "Javier Martinez Arrieta Larrañaga",
+    "descricao_curta": "Javier Martinez Arrieta Larrañaga é um futebolista francês que atua como zagueiro pelo Norte44 e pela seleção da França.",
+    "data_nascimento_iso": "2005-04-10",
+    "data_nascimento_texto": "10 de abril de 2005",
+    "local_nascimento": "País Basco, Aquitânia, França",
+    "nacionalidade": "Francês",
+    "altura": "1,87 m",
+    "pe": "Canhoto",
+    "apelido": "",
+    "clube_atual": "Norte44",
+    "numero": 24,
+    "posicao": "Zagueiro",
+    "outras_posicoes": [],
+    "clubes_juventude": ["AS Bayonne (2016 - 2021)", "Norte44 (2021 - 2023)"],
+    "clubes_profissionais": [
+      {
+        "anos": "2023 - Presente",
+        "clube": "Norte44",
+        "jogos_gols": ""
+      }
+    ],
+    "selecao_nacional": [
+      {
+        "anos": "2021 - 2023",
+        "selecao": "França (base)",
+        "jogos_gols": ""
+      },
+      {
+        "anos": "2024 - Presente",
+        "selecao": "França",
+        "jogos_gols": ""
+      }
+    ],
+    "legenda_imagem": "Javier Martínez pelo Norte44."
+  },
+  {
+    "id": "raul_renoir",
+    "nome_curto": "Raul Renoir",
+    "nome_completo": "Raul Renoir Litmanen",
+    "descricao_curta": "Raul Renoir Litmanen, conhecido como Raul Renoir, é um futebolista finlandês que atua como meia e lateral esquerdo pelo Norte44 e pela seleção da Finlândia.",
+    "data_nascimento_iso": "2002-03-15",
+    "data_nascimento_texto": "15 de março de 2002",
+    "local_nascimento": "Tampere, Pirkanmaa, Finlândia",
+    "nacionalidade": "Finlandês",
+    "altura": "1,87 m",
+    "pe": "Ambidestro",
+    "apelido": "",
+    "clube_atual": "Norte44",
+    "numero": 5,
+    "posicao": "Lateral Esquerdo",
+    "outras_posicoes": ["Meia"],
+    "clubes_juventude": ["Norte44 (2010 - 2018)"],
+    "clubes_profissionais": [
+      {
+        "anos": "2018 - Presente",
+        "clube": "Norte44",
+        "jogos_gols": ""
+      }
+    ],
+    "selecao_nacional": [
+      {
+        "anos": "2017 - 2018",
+        "selecao": "Finlândia (base)",
+        "jogos_gols": ""
+      },
+      {
+        "anos": "2022 - Presente",
+        "selecao": "Finlândia",
+        "jogos_gols": ""
+      }
+    ],
+    "legenda_imagem": "Raul Renoir pelo Norte44."
+  },
+  {
+    "id": "jokin_martinez",
+    "nome_curto": "Jokin Martinez",
+    "nome_completo": "Jokin Martinez Garmendia Etxebarria",
+    "descricao_curta": "Jokin Martinez Garmendia Etxebarria é um futebolista espanhol que atua como meia pelo Norte44 e pela seleção da Espanha.",
+    "data_nascimento_iso": "2005-08-22",
+    "data_nascimento_texto": "22 de agosto de 2005",
+    "local_nascimento": "Bilbao, País Basco, Espanha",
+    "nacionalidade": "Espanhol",
+    "altura": "1,73 m",
+    "pe": "Destro",
+    "apelido": "",
+    "clube_atual": "Norte44",
+    "numero": 21,
+    "posicao": "Meia",
+    "outras_posicoes": [],
+    "clubes_juventude": [
+      "Atlético Bilbao (2010 - 2015)",
+      "Norte44 (2015 - 2023)"
+    ],
+    "clubes_profissionais": [
+      {
+        "anos": "2023 - Presente",
+        "clube": "Norte44",
+        "jogos_gols": ""
+      }
+    ],
+    "selecao_nacional": [
+      {
+        "anos": "2015 - 2018",
+        "selecao": "Espanha (base)",
+        "jogos_gols": ""
+      },
+      {
+        "anos": "2023 - Presente",
+        "selecao": "Espanha",
+        "jogos_gols": ""
+      }
+    ],
+    "legenda_imagem": "Jokin Martinez pelo Norte44."
+  },
+  {
+    "id": "ji_chiho",
+    "nome_curto": "Ji Chi-Ho",
+    "nome_completo": "Jung Ji Chi-Ho",
+    "descricao_curta": "Jung Ji Chi-Ho é um futebolista coreano que atua como volante e zagueiro pelo Norte44 e pela seleção da Coreia do Sul.",
+    "data_nascimento_iso": "2003-05-05",
+    "data_nascimento_texto": "5 de maio de 2003",
+    "local_nascimento": "Seul, Coreia do Sul",
+    "nacionalidade": "Coreano",
+    "altura": "1,88 m",
+    "pe": "Destro",
+    "apelido": "",
+    "clube_atual": "Norte44",
+    "numero": 26,
+    "posicao": "Volante",
+    "outras_posicoes": ["Zagueiro"],
+    "clubes_juventude": ["Seoul FC (2010 - 2013)", "Norte44 (2013 - 2020)"],
+    "clubes_profissionais": [
+      {
+        "anos": "2020 - Presente",
+        "clube": "Norte44",
+        "jogos_gols": ""
+      },
+      {
+        "anos": "2022 - 2023",
+        "clube": "Finland Klubi",
+        "jogos_gols": "",
+        "emprestimo": true
+      }
+    ],
+    "selecao_nacional": [
+      {
+        "anos": "2015 - 2018",
+        "selecao": "Coreia do Sul (base)",
+        "jogos_gols": ""
+      },
+      {
+        "anos": "2023 - Presente",
+        "selecao": "Coreia do Sul",
+        "jogos_gols": ""
+      }
+    ],
+    "legenda_imagem": "Ji Chi-Ho pelo Norte44."
+  },
+  {
+    "id": "leon_harvei",
+    "nome_curto": "Leon Harvei",
+    "nome_completo": "Leon Harvei Aalto",
+    "descricao_curta": "Leon Harvei Aalto é um futebolista finlandês que atua como meia atacante e meia pelo Norte44 e pela seleção da Finlândia.",
+    "data_nascimento_iso": "2000-03-15",
+    "data_nascimento_texto": "15 de março de 2000",
+    "local_nascimento": "Tampere, Pirkanmaa, Finlândia",
+    "nacionalidade": "Finlandês",
+    "altura": "1,89 m",
+    "pe": "Canhoto",
+    "apelido": "",
+    "clube_atual": "Norte44",
+    "numero": 17,
+    "posicao": "Meia Atacante",
+    "outras_posicoes": ["Meia"],
+    "clubes_juventude": ["Brtlty City (2010 - 2020)"],
+    "clubes_profissionais": [
+      {
+        "anos": "2020 - 2021",
+        "clube": "Helsinki Rangers",
+        "jogos_gols": ""
+      },
+      {
+        "anos": "2021 - Presente",
+        "clube": "Norte44",
+        "jogos_gols": ""
+      }
+    ],
+    "selecao_nacional": [
+      {
+        "anos": "2022 - Presente",
+        "selecao": "Finlândia",
+        "jogos_gols": ""
+      }
+    ],
+    "legenda_imagem": "Leon Harvei pelo Norte44."
+  },
+  {
+    "id": "arthur_skipper",
+    "nome_curto": "Arthur Skipper",
+    "nome_completo": "Arthur Skipper Jensen",
+    "descricao_curta": "Arthur Skipper Jensen é um futebolista finlandês-dinamarquês que atua como zagueiro no Brighton & Hove Albion, emprestado pelo Norte44, e pela seleção da Finlândia.",
+    "data_nascimento_iso": "2004-04-02",
+    "data_nascimento_texto": "2 de abril de 2004",
+    "local_nascimento": "Helsinki, Uusimaa, Finlândia",
+    "nacionalidade": "Finlandês e Dinamarquês",
+    "altura": "1,94 m",
+    "pe": "Destro",
+    "apelido": "",
+    "clube_atual": "Norte44",
+    "numero": 25,
+    "posicao": "Zagueiro",
+    "outras_posicoes": [],
+    "clubes_juventude": ["Vejle (2014 - 2017)", "Norte44 (2017 - 2022)"],
+    "clubes_profissionais": [
+      {
+        "anos": "2022 - Presente",
+        "clube": "Norte44",
+        "jogos_gols": ""
+      },
+      {
+        "anos": "2022 - 2024",
+        "clube": "Tampere United",
+        "jogos_gols": "",
+        "emprestimo": true
+      },
+      {
+        "anos": "2025",
+        "clube": "Brighton & Hove Albion",
+        "jogos_gols": "",
+        "emprestimo": true
+      }
+    ],
+    "selecao_nacional": [
+      {
+        "anos": "2021 - 2024",
+        "selecao": "Finlândia (base)",
+        "jogos_gols": ""
+      },
+      {
+        "anos": "2024 - Presente",
+        "selecao": "Finlândia",
+        "jogos_gols": ""
+      }
+    ],
+    "legenda_imagem": "Arthur Skipper pelo Norte44."
+  },
+  {
+    "id": "jake_tuominen",
+    "nome_curto": "Jake Tuominen",
+    "nome_completo": "Jake Tuominen",
+    "descricao_curta": "Jake Tuominen é um futebolista finlandês que atua como meia e volante pelo Norte44 e pela seleção da Finlândia.",
+    "data_nascimento_iso": "2001-11-08",
+    "data_nascimento_texto": "8 de novembro de 2001",
+    "local_nascimento": "Turku, Varsinais-Suomi, Finlândia",
+    "nacionalidade": "Finlandês",
+    "altura": "1,80 m",
+    "pe": "Canhoto",
+    "apelido": "",
+    "clube_atual": "Norte44",
+    "numero": 18,
+    "posicao": "Meia",
+    "outras_posicoes": ["Volante", "Lateral Esquerdo", "Zagueiro"],
+    "clubes_juventude": ["Norte44 (2011 - 2021)"],
+    "clubes_profissionais": [
+      {
+        "anos": "2021 - Presente",
+        "clube": "Norte44",
+        "jogos_gols": ""
+      },
+      {
+        "anos": "2021 - 2022",
+        "clube": "Pohjoinen Adidas",
+        "jogos_gols": "",
+        "emprestimo": true
+      },
+      {
+        "anos": "2022 - 2024",
+        "clube": "Tampere United",
+        "jogos_gols": "",
+        "emprestimo": true
+      }
+    ],
+    "selecao_nacional": [
+      {
+        "anos": "2018 - 2022",
+        "selecao": "Finlândia (base)",
+        "jogos_gols": ""
+      },
+      {
+        "anos": "2024 - Presente",
+        "selecao": "Finlândia",
+        "jogos_gols": ""
+      }
+    ],
+    "legenda_imagem": "Jake Tuominen pelo Norte44."
+  },
+  {
+    "id": "alex_eskildsen_jr",
+    "nome_curto": "Alex Eskildsen",
+    "nome_completo": "Aleksandar Juhani Eskildsen",
+    "descricao_curta": "Aleksandar Juhani Eskildsen, conhecido como Alex Eskildsen, é um futebolista finlandês-dinamarquês que atua como atacante e centroavante pelo Norte44 e pela seleção da Finlândia.",
+    "data_nascimento_iso": "2004-02-16",
+    "data_nascimento_texto": "16 de fevereiro de 2004",
+    "local_nascimento": "Central White, Uusimaa, Finlândia",
+    "nacionalidade": "Finlandês e Dinamarquês",
+    "altura": "1,90 m",
+    "pe": "Destro",
+    "apelido": "Eskildsen Jr.",
+    "clube_atual": "Norte44",
+    "numero": 19,
+    "posicao": "Centroavante",
+    "outras_posicoes": ["Atacante"],
+    "clubes_juventude": ["Norte44 (2012 - 2022)"],
+    "clubes_profissionais": [
+      {
+        "anos": "2022 - Presente",
+        "clube": "Norte44",
+        "jogos_gols": ""
+      },
+      {
+        "anos": "2022 - 2023",
+        "clube": "LC United",
+        "jogos_gols": "11 (2)",
+        "emprestimo": true
+      },
+      {
+        "anos": "2023 - 2024",
+        "clube": "Tampere United",
+        "jogos_gols": "35 (26)",
+        "emprestimo": true
+      }
+    ],
+    "selecao_nacional": [
+      {
+        "anos": "2020 - 2023",
+        "selecao": "Finlândia (base)",
+        "jogos_gols": ""
+      },
+      {
+        "anos": "2023 - Presente",
+        "selecao": "Finlândia",
+        "jogos_gols": ""
+      }
+    ],
+    "legenda_imagem": "Alex Eskildsen. pelo Norte44."
+  },
+  {
+    "id": "pedro_campus",
+    "nome_curto": "Pedro Campus",
+    "nome_completo": "Pedro Augusto Campus",
+    "descricao_curta": "Pedro Augusto Campus é um futebolista brasileiro-finlandês que atua como centroavante pelo Tampere United e pela seleção da Finlândia.",
+    "data_nascimento_iso": "2000-03-07",
+    "data_nascimento_texto": "7 de março de 2000",
+    "local_nascimento": "São Paulo, São Paulo, Brasil",
+    "nacionalidade": "Brasileiro e Finlandês",
+    "altura": "2,02 m",
+    "pe": "Destro",
+    "apelido": "",
+    "clube_atual": "Tampere United",
+    "numero": 19,
+    "posicao": "Centroavante",
+    "outras_posicoes": [],
+    "clubes_juventude": ["Norte44 (2008 - 2021)"],
+    "clubes_profissionais": [
+      {
+        "anos": "2021 - 2025",
+        "clube": "Norte44",
+        "jogos_gols": ""
+      },
+      {
+        "anos": "2025 - Presente",
+        "clube": "Tampere United",
+        "jogos_gols": ""
+      }
+    ],
+    "selecao_nacional": [
+      {
+        "anos": "2016 - 2020",
+        "selecao": "Finlândia (base)",
+        "jogos_gols": ""
+      },
+      {
+        "anos": "2022 - Presente",
+        "selecao": "Finlândia",
+        "jogos_gols": ""
+      }
+    ],
+    "legenda_imagem": "Pedro Campus pelo Tampere United."
+  },
+  {
+    "id": "alex_draki",
+    "nome_curto": "Alex Draki",
+    "nome_completo": "Alexandros Draki",
+    "descricao_curta": "Alexandros Draki é um futebolista grego que atua como lateral esquerdo pelo Norte44 e pela seleção da Grécia.",
+    "data_nascimento_iso": "1997-04-12",
+    "data_nascimento_texto": "12 de abril de 1997",
+    "local_nascimento": "Atenas, Ática, Grécia",
+    "nacionalidade": "Grego",
+    "altura": "1,78 m",
+    "pe": "Canhoto",
+    "apelido": "",
+    "clube_atual": "Norte44",
+    "numero": 23,
+    "posicao": "Lateral Esquerdo",
+    "outras_posicoes": [],
+    "clubes_juventude": [
+      "AEK Atenas (2005 - 2013)",
+      "Schalke 04 (2013 - 2015)"
+    ],
+    "clubes_profissionais": [
+      {
+        "anos": "2015 - 2017",
+        "clube": "Schalke 04",
+        "jogos_gols": ""
+      },
+      {
+        "anos": "2017",
+        "clube": "Borussia Dortmund",
+        "jogos_gols": ""
+      },
+      {
+        "anos": "2017 - Presente",
+        "clube": "Norte44",
+        "jogos_gols": ""
+      }
+    ],
+    "selecao_nacional": [
+      {
+        "anos": "2014 - 2017",
+        "selecao": "Grécia (base)",
+        "jogos_gols": ""
+      },
+      {
+        "anos": "2018 - Presente",
+        "selecao": "Grécia",
+        "jogos_gols": ""
+      }
+    ],
+    "legenda_imagem": "Alex Draki pelo Norte44."
+  },
+  {
+    "id": "bertinella",
+    "nome_curto": "Bertinella",
+    "nome_completo": "Danielle Bertinella",
+    "descricao_curta": "Danielle Bertinella, conhecido como Bertinella, é um futebolista ítalo-finlandês que atua como meia-atacante pelo Tigers e pela seleção da Finlândia.",
+    "data_nascimento_iso": "1995-06-30",
+    "data_nascimento_texto": "30 de junho de 1995",
+    "local_nascimento": "Brescia, Lombardia, Itália",
+    "nacionalidade": "Italiano e Finlandês",
+    "altura": "1,75 m",
+    "pe": "Destro",
+    "apelido": "Bertinella",
+    "clube_atual": "Tigers",
+    "numero": 15,
+    "posicao": "Meia-Atacante",
+    "outras_posicoes": [],
+    "clubes_juventude": ["Brescia (2003 - 2007)", "Norte44 (2007 - 2012)"],
+    "clubes_profissionais": [
+      {
+        "anos": "2012 - 2017",
+        "clube": "Norte44",
+        "jogos_gols": ""
+      },
+      {
+        "anos": "2017 - Presente",
+        "clube": "Tigers",
+        "jogos_gols": ""
+      }
+    ],
+    "selecao_nacional": [
+      {
+        "anos": "2010 - 2015",
+        "selecao": "Itália (base)",
+        "jogos_gols": ""
+      },
+      {
+        "anos": "2018 - Presente",
+        "selecao": "Finlândia",
+        "jogos_gols": ""
+      }
+    ],
+    "legenda_imagem": "Bertinella pelo Tigers."
+  },
+  {
+    "id": "baird",
+    "nome_curto": "Baird",
+    "nome_completo": "Baird Koskinen",
+    "descricao_curta": "Baird Koskinen, conhecido como Baird, é um futebolista finlandês que atua como meia pelo Tigers.",
+    "data_nascimento_iso": "1982-04-12",
+    "data_nascimento_texto": "12 de abril de 1982",
+    "local_nascimento": "Helsinki, Uusimaa, Finlândia",
+    "nacionalidade": "Finlandês",
+    "altura": "1,81 m",
+    "pe": "Destro",
+    "apelido": "Iniesta",
+    "clube_atual": "Tigers",
+    "numero": 8,
+    "posicao": "Meia",
+    "outras_posicoes": [],
+    "clubes_juventude": ["Norte44 (1994 - 2000)"],
+    "clubes_profissionais": [
+      {
+        "anos": "2000 - 2019",
+        "clube": "Norte44",
+        "jogos_gols": ""
+      },
+      {
+        "anos": "2019 - Presente",
+        "clube": "Tigers",
+        "jogos_gols": ""
+      }
+    ],
+    "selecao_nacional": [
+      {
+        "anos": "2003 - 2020",
+        "selecao": "Finlândia",
+        "jogos_gols": ""
+      }
+    ],
+    "legenda_imagem": "Baird pelo Tigers."
+  },
+  {
+    "id": "ciro",
+    "nome_curto": "Ciro",
+    "nome_completo": "Ciro Costa",
+    "descricao_curta": "Ciro Costa é um ex-futebolista português que atuava como zagueiro, seu último clube foi o Norte44.",
+    "data_nascimento_iso": "1990-03-15",
+    "data_nascimento_texto": "15 de março de 1990",
+    "local_nascimento": "Lisboa, Lisboa, Portugal",
+    "nacionalidade": "Português",
+    "altura": "1,84 m",
+    "pe": "Destro",
+    "apelido": "",
+    "clube_atual": "Aposentado",
+    "numero": 33,
+    "posicao": "Zagueiro",
+    "outras_posicoes": [],
+    "clubes_juventude": ["Estoril (2000 - 2005)"],
+    "clubes_profissionais": [
+      {
+        "anos": "2005 - 2008",
+        "clube": "Estoril",
+        "jogos_gols": ""
+      },
+      {
+        "anos": "2008 - 2017",
+        "clube": "Gogos Sport",
+        "jogos_gols": ""
+      },
+      {
+        "anos": "2017 - 2024",
+        "clube": "Norte44",
+        "jogos_gols": ""
+      }
+    ],
+    "selecao_nacional": [
+      {
+        "anos": "2014 - 2021",
+        "selecao": "Portugal",
+        "jogos_gols": ""
+      }
+    ],
+    "legenda_imagem": "Ciro em sua passagem pelo Norte44."
+  },
+  {
+    "id": "gebirge",
+    "nome_curto": "Gebirge",
+    "nome_completo": "Gebirge Hakinen",
+    "descricao_curta": "Gebirge Hakinen é um ex-futebolista finlandês que atuava como zagueiro, com passagens por Norte44, Barcelona e Chelsea.",
+    "data_nascimento_iso": "1981-06-08",
+    "data_nascimento_texto": "8 de junho de 1981",
+    "local_nascimento": "Helsinki, Uusimaa, Finlândia",
+    "nacionalidade": "Finlandês",
+    "altura": "1,88 m",
+    "pe": "Destro",
+    "apelido": "Gebirge",
+    "clube_atual": "Aposentado",
+    "numero": 4,
+    "posicao": "Zagueiro",
+    "outras_posicoes": [],
+    "clubes_juventude": ["Norte44 (1990 - 2000)"],
+    "clubes_profissionais": [
+      {
+        "anos": "2000 - 2010",
+        "clube": "Norte44",
+        "jogos_gols": ""
+      },
+      {
+        "anos": "2010 - 2012",
+        "clube": "Barcelona",
+        "jogos_gols": ""
+      },
+      {
+        "anos": "2012 - 2016",
+        "clube": "Chelsea",
+        "jogos_gols": ""
+      },
+      {
+        "anos": "2016 - 2020",
+        "clube": "Norte44",
+        "jogos_gols": ""
+      }
+    ],
+    "selecao_nacional": [
+      {
+        "anos": "1999 - 2015",
+        "selecao": "Finlândia",
+        "jogos_gols": ""
+      }
+    ],
+    "legenda_imagem": "Gebirge Hakinen em sua segunda passagem pelo Norte44."
+  },
+  {
+    "id": "deeso",
+    "nome_curto": "Deeso",
+    "nome_completo": "Juho Deeso Kallio",
+    "descricao_curta": "Juho Deeso Kallio, conhecido como Deeso, é um futebolista finlandês que atua como goleiro pelo Tigers.",
+    "data_nascimento_iso": "1987-08-12",
+    "data_nascimento_texto": "12 de agosto de 1987",
+    "local_nascimento": "Tampere, Pirkanmaa, Finlândia",
+    "nacionalidade": "Finlandês",
+    "altura": "1,87 m",
+    "pe": "Canhoto",
+    "apelido": "Deeso",
+    "clube_atual": "Tigers",
+    "numero": 13,
+    "posicao": "Goleiro",
+    "outras_posicoes": [],
+    "clubes_juventude": ["Gogos Sport (1995 - 2003)"],
+    "clubes_profissionais": [
+      {
+        "anos": "2003 - 2010",
+        "clube": "Gogos Sport",
+        "jogos_gols": ""
+      },
+      {
+        "anos": "2010 - 2015",
+        "clube": "Norte44",
+        "jogos_gols": ""
+      },
+      {
+        "anos": "2015 - Presente",
+        "clube": "Tigers",
+        "jogos_gols": ""
+      }
+    ],
+    "selecao_nacional": [
+      {
+        "anos": "2012 - 2015",
+        "selecao": "Finlândia",
+        "jogos_gols": ""
+      }
+    ],
+    "legenda_imagem": "Deeso defendendo o Tigers."
+  },
+  {
+    "id": "ganaz",
+    "nome_curto": "Ganaz",
+    "nome_completo": "Ferrard Ganaz",
+    "descricao_curta": "Ferrard Ganaz é um futebolista finlandês que atua como zagueiro pelo Tigers.",
+    "data_nascimento_iso": "1989-02-14",
+    "data_nascimento_texto": "14 de fevereiro de 1989",
+    "local_nascimento": "Helsinki, Uusimaa, Finlândia",
+    "nacionalidade": "Finlandês",
+    "altura": "1,80 m",
+    "pe": "Destro",
+    "apelido": "Ganaz",
+    "clube_atual": "Tigers",
+    "numero": 3,
+    "posicao": "Zagueiro",
+    "outras_posicoes": [],
+    "clubes_juventude": ["Gogos Sport (1998 - 2005)"],
+    "clubes_profissionais": [
+      {
+        "anos": "2005 - 2008",
+        "clube": "Tempere United",
+        "jogos_gols": ""
+      },
+      {
+        "anos": "2008 - 2011",
+        "clube": "Brtlty City",
+        "jogos_gols": ""
+      },
+      {
+        "anos": "2011 - 2018",
+        "clube": "Norte44",
+        "jogos_gols": ""
+      },
+      {
+        "anos": "2018 - Atual",
+        "clube": "Tigers",
+        "jogos_gols": ""
+      }
+    ],
+    "selecao_nacional": [
+      {
+        "anos": "2012 - 2018",
+        "selecao": "Finlândia",
+        "jogos_gols": ""
+      }
+    ],
+    "legenda_imagem": "Ganaz pelo Tigers."
+  },
+  {
+    "id": "horacio",
+    "nome_curto": "Horacio",
+    "nome_completo": "Horacio Valtonen",
+    "descricao_curta": "Horacio Valtonen é um ex-futebolista finlandês que atuava como meia-atacante, ídolo histórico do Norte44.",
+    "data_nascimento_iso": "1981-01-12",
+    "data_nascimento_texto": "12 de janeiro de 1981",
+    "local_nascimento": "Helsinki, Uusimaa, Finlândia",
+    "nacionalidade": "Finlandês",
+    "altura": "1,74 m",
+    "pe": "Destro",
+    "apelido": "Horacio",
+    "clube_atual": "Aposentado",
+    "numero": 11,
+    "posicao": "Meia Atacante",
+    "outras_posicoes": [],
+    "clubes_juventude": ["Norte44 (1989 - 1998)"],
+    "clubes_profissionais": [
+      {
+        "anos": "1998 - 2018",
+        "clube": "Norte44",
+        "jogos_gols": ""
+      },
+      {
+        "anos": "2020 - 2021",
+        "clube": "Helsinki Rangers",
+        "jogos_gols": ""
+      },
+      {
+        "anos": "2022 - 2024",
+        "clube": "Tampere United",
+        "jogos_gols": ""
+      }
+    ],
+    "selecao_nacional": [
+      {
+        "anos": "1997 - 2007",
+        "selecao": "Finlândia (base)",
+        "jogos_gols": ""
+      },
+      {
+        "anos": "2008 - 2019",
+        "selecao": "Finlândia",
+        "jogos_gols": ""
+      }
+    ],
+    "legenda_imagem": "Horacio Valtonen em ação pelo Norte44."
+  },
+  {
+    "id": "young",
+    "nome_curto": "Young",
+    "nome_completo": "Young Park Ji",
+    "descricao_curta": "Young Park Ji é um futebolista sul-coreano que atua como atacante pelo Tigers e pela seleção da Coreia do Sul.",
+    "data_nascimento_iso": "1992-03-05",
+    "data_nascimento_texto": "5 de março de 1992",
+    "local_nascimento": "Seoul, Seul, Coreia do Sul",
+    "nacionalidade": "Sul-coreano",
+    "altura": "1,83 m",
+    "pe": "Destro",
+    "apelido": "Young",
+    "clube_atual": "Tigers",
+    "numero": 10,
+    "posicao": "Atacante",
+    "outras_posicoes": ["Ponta", "Centroavante"],
+    "clubes_juventude": ["HM Jeonbuk (2002 - 2011)"],
+    "clubes_profissionais": [
+      {
+        "anos": "2011 - 2013",
+        "clube": "HM Jeonbuk",
+        "jogos_gols": ""
+      },
+      {
+        "anos": "2013 - 2018",
+        "clube": "Norte44",
+        "jogos_gols": ""
+      },
+      {
+        "anos": "2018 - 2019",
+        "clube": "Finland Club",
+        "jogos_gols": ""
+      },
+      {
+        "anos": "2019 - Presente",
+        "clube": "Tigers",
+        "jogos_gols": ""
+      }
+    ],
+    "selecao_nacional": [
+      {
+        "anos": "2007 - 2012",
+        "selecao": "Coreia do Sul (base)",
+        "jogos_gols": ""
+      },
+      {
+        "anos": "2013 - Presente",
+        "selecao": "Coreia do Sul",
+        "jogos_gols": ""
+      }
+    ],
+    "legenda_imagem": "Young Park Ji pelo Tigers."
+  },
+  {
+    "id": "stearman",
+    "nome_curto": "Stearman",
+    "nome_completo": "Riikka Stearman",
+    "descricao_curta": "Riikka Stearman é um futebolista finlandês que atua como zagueiro pelo Tampere United e pela seleção da Finlândia.",
+    "data_nascimento_iso": "1992-03-15",
+    "data_nascimento_texto": "15 de março de 1992",
+    "local_nascimento": "Helsinki, Uusimaa, Finlândia",
+    "nacionalidade": "Finlandês",
+    "altura": "1,91 m",
+    "pe": "Destro",
+    "apelido": "",
+    "clube_atual": "Tampere United",
+    "numero": 3,
+    "posicao": "Zagueiro",
+    "outras_posicoes": [],
+    "clubes_juventude": ["FC Kiisto (2000 - 2003)", "Norte44 (2003 - 2011)"],
+    "clubes_profissionais": [
+      {
+        "anos": "2011 - 2014",
+        "clube": "FC Kiisto",
+        "jogos_gols": ""
+      },
+      {
+        "anos": "2014 - 2019",
+        "clube": "Norte44",
+        "jogos_gols": ""
+      },
+      {
+        "anos": "2019 - 2023",
+        "clube": "Tigers",
+        "jogos_gols": ""
+      },
+      {
+        "anos": "2023 - Presente",
+        "clube": "Tampere United",
+        "jogos_gols": ""
+      }
+    ],
+    "selecao_nacional": [
+      {
+        "anos": "2008 - 2012",
+        "selecao": "Finlândia (base)",
+        "jogos_gols": ""
+      },
+      {
+        "anos": "2016 - Presente",
+        "selecao": "Finlândia",
+        "jogos_gols": ""
+      }
+    ],
+    "legenda_imagem": "Riikka Stearman pelo Tampere United."
+  },
+  {
+    "id": "tiba",
+    "nome_curto": "Tiba",
+    "nome_completo": "Ikami Tiba",
+    "descricao_curta": "Ikami Tiba, conhecido como Tiba, é um futebolista finlandês que atua como centroavante pelo LC United.",
+    "data_nascimento_iso": "1984-04-22",
+    "data_nascimento_texto": "22 de abril de 1984",
+    "local_nascimento": "Tampere, Pirkanmaa, Finlândia",
+    "nacionalidade": "Finlandês",
+    "altura": "1,88 m",
+    "pe": "Canhoto",
+    "apelido": "Tiba",
+    "clube_atual": "LC United",
+    "numero": 9,
+    "posicao": "Centroavante",
+    "outras_posicoes": [],
+    "clubes_juventude": ["Norte44 (1994 - 2001)"],
+    "clubes_profissionais": [
+      {
+        "anos": "2001 - 2016",
+        "clube": "Norte44",
+        "jogos_gols": ""
+      },
+      {
+        "anos": "2016 - 2019",
+        "clube": "Gogos Sport",
+        "jogos_gols": ""
+      },
+      {
+        "anos": "2019 - Presente",
+        "clube": "LC United",
+        "jogos_gols": ""
+      }
+    ],
+    "selecao_nacional": [
+      {
+        "anos": "2002 - 2014",
+        "selecao": "Finlândia",
+        "jogos_gols": ""
+      }
+    ],
+    "legenda_imagem": "Tiba pelo LC United."
+  },
+  {
+    "id": "toto",
+    "nome_curto": "Toto",
+    "nome_completo": "Toto Laine",
+    "descricao_curta": "Toto Laine é um futebolista finlandês que atua como centroavante pelo Tigers.",
+    "data_nascimento_iso": "1980-01-10",
+    "data_nascimento_texto": "10 de janeiro de 1980",
+    "local_nascimento": "Helsinki, Uusimaa, Finlândia",
+    "nacionalidade": "Finlandês",
+    "pe": "Destro",
+    "altura": "1,77 m",
+    "apelido": "Toto",
+    "clube_atual": "Tigers",
+    "numero": 9,
+    "posicao": "Centroavante",
+    "outras_posicoes": [],
+    "clubes_juventude": ["Norte44 (1988 - 1998)"],
+    "clubes_profissionais": [
+      {
+        "anos": "1998 - 2017",
+        "clube": "Norte44",
+        "jogos_gols": ""
+      },
+      {
+        "anos": "2017 - 2020",
+        "clube": "Tigers",
+        "jogos_gols": ""
+      },
+      {
+        "anos": "2020 - 2022",
+        "clube": "Brtlty City",
+        "jogos_gols": ""
+      },
+      {
+        "anos": "2022 - Presente",
+        "clube": "Tigers",
+        "jogos_gols": ""
+      }
+    ],
+    "selecao_nacional": [
+      {
+        "anos": "1998 - 2016",
+        "selecao": "Finlândia",
+        "jogos_gols": ""
+      }
+    ],
+    "legenda_imagem": "Toto Laine em ação pelo Tigers."
+  },
+  {
+    "id": "silba",
+    "nome_curto": "Silba",
+    "nome_completo": "Alejandro Silba Moreno",
+    "descricao_curta": "Alejandro Silba Moreno, conhecido como Silba, é um futebolista hispano-finlandês que atua como meio-campista pelo Tampere United e pela seleção da Finlândia.",
+    "data_nascimento_iso": "1989-06-07",
+    "data_nascimento_texto": "7 de junho de 1989",
+    "local_nascimento": "Orduña, País Basco, Espanha",
+    "nacionalidade": "Espanhol e Finlandês",
+    "pe": "Destro",
+    "altura": "1,80 m",
+    "apelido": "Silba",
+    "clube_atual": "Tampere United",
+    "numero": 8,
+    "posicao": "Meia e Volante",
+    "outras_posicoes": [],
+    "clubes_juventude": [
+      "Real Sociedad (1997 - 2004)",
+      "Norte44 (2004 - 2008)"
+    ],
+    "clubes_profissionais": [
+      {
+        "anos": "2008 - 2014",
+        "clube": "Norte44",
+        "jogos_gols": ""
+      },
+      {
+        "anos": "2014 - 2016",
+        "clube": "Atlético Madrid",
+        "jogos_gols": ""
+      },
+      {
+        "anos": "2016 - 2017",
+        "clube": "Manchester City",
+        "jogos_gols": ""
+      },
+      {
+        "anos": "2017 - 2018",
+        "clube": "Real Sociedad",
+        "jogos_gols": ""
+      },
+      {
+        "anos": "2018 - 2023",
+        "clube": "LC United",
+        "jogos_gols": ""
+      },
+      {
+        "anos": "2023 - Presente",
+        "clube": "Tampere United",
+        "jogos_gols": ""
+      }
+    ],
+    "selecao_nacional": [
+      {
+        "anos": "2004 - 2008",
+        "selecao": "Espanha (base)",
+        "jogos_gols": ""
+      },
+      {
+        "anos": "2019 - Presente",
+        "selecao": "Finlândia",
+        "jogos_gols": ""
+      }
+    ],
+    "legenda_imagem": "Silba pelo Tampere United."
+  },
+  {
+    "id": "mikhail",
+    "nome_curto": "Mikhail",
+    "nome_completo": "Mikhail Ruslov",
+    "descricao_curta": "Mikhail Ruslov é um futebolista russo que atua como atacante e ponta-direita pelo Tigers e pela seleção da Rússia.",
+    "data_nascimento_iso": "1997-08-12",
+    "data_nascimento_texto": "12 de agosto de 1997",
+    "local_nascimento": "São Petersburgo, Rússia",
+    "nacionalidade": "Russo",
+    "pe": "Ambidestro",
+    "altura": "1,82 m",
+    "apelido": "",
+    "clube_atual": "Tigers",
+    "numero": 11,
+    "posicao": "Atacante e Ponta direita",
+    "outras_posicoes": [],
+    "clubes_juventude": ["Zenit (2007 - 2012)", "Tigers (2012 - 2015)"],
+    "clubes_profissionais": [
+      {
+        "anos": "2015 - Presente",
+        "clube": "Tigers",
+        "jogos_gols": ""
+      },
+      {
+        "anos": "2016 - 2017",
+        "clube": "Zenit",
+        "jogos_gols": "",
+        "emprestimo": true
+      },
+      {
+        "anos": "2018 - 2019",
+        "clube": "Norte44",
+        "jogos_gols": "",
+        "emprestimo": true
+      }
+    ],
+    "selecao_nacional": [
+      {
+        "anos": "2013 - 2017",
+        "selecao": "Rússia (base)",
+        "jogos_gols": ""
+      },
+      {
+        "anos": "2017 - Presente",
+        "selecao": "Rússia",
+        "jogos_gols": ""
+      }
+    ],
+    "legenda_imagem": "Mikhail Ruslov comemorando gol pelo Tigers."
+  },
+  {
+    "id": "wisdom",
+    "nome_curto": "Wisdom",
+    "nome_completo": "Hervas Wisdom",
+    "descricao_curta": "Hervas Wisdom é um futebolista finlandês que atua como lateral-esquerdo pelo Tampere United e pela seleção da Finlândia.",
+    "data_nascimento_iso": "1996-03-14",
+    "data_nascimento_texto": "14 de março de 1996",
+    "local_nascimento": "Tampere, Finlândia",
+    "nacionalidade": "Finlandês",
+    "pe": "Canhoto",
+    "altura": "1,84 m",
+    "apelido": "Wisdom",
+    "clube_atual": "Tampere United",
+    "numero": 6,
+    "posicao": "Lateral esquerdo",
+    "outras_posicoes": [],
+    "clubes_juventude": ["Tampere United (2006 - 2015)"],
+    "clubes_profissionais": [
+      {
+        "anos": "2015 - 2020",
+        "clube": "Tampere United",
+        "jogos_gols": ""
+      },
+      {
+        "anos": "2020 - 2023",
+        "clube": "Finland Klubi",
+        "jogos_gols": ""
+      },
+      {
+        "anos": "2023 - Presente",
+        "clube": "Tampere United",
+        "jogos_gols": ""
+      }
+    ],
+    "selecao_nacional": [
+      {
+        "anos": "2014 - 2015",
+        "selecao": "Finlândia (base)",
+        "jogos_gols": ""
+      },
+      {
+        "anos": "2017 - Presente",
+        "selecao": "Finlândia",
+        "jogos_gols": ""
+      }
+    ],
+    "legenda_imagem": "Wisdom em partida pelo Tampere United."
+  },
+  {
+    "id": "matthisen",
+    "nome_curto": "Matthisen",
+    "nome_completo": "Andrea Matthisen",
+    "descricao_curta": "Andrea Matthisen é um futebolista finlandês que atua como lateral-direito pelo LC United e pela seleção da Finlândia.",
+    "data_nascimento_iso": "1994-01-22",
+    "data_nascimento_texto": "22 de janeiro de 1994",
+    "local_nascimento": "Helsinki, Uusimaa, Finlândia",
+    "nacionalidade": "Finlandês",
+    "pe": "Destro",
+    "altura": "1,85 m",
+    "apelido": "",
+    "clube_atual": "LC United",
+    "numero": 2,
+    "posicao": "Lateral direito",
+    "outras_posicoes": [],
+    "clubes_juventude": ["LC United (2002 - 2014)"],
+    "clubes_profissionais": [
+      {
+        "anos": "2014 - Presente",
+        "clube": "LC United",
+        "jogos_gols": ""
+      }
+    ],
+    "selecao_nacional": [
+      {
+        "anos": "2013 - 2017",
+        "selecao": "Finlândia (base)",
+        "jogos_gols": ""
+      },
+      {
+        "anos": "2017 - Presente",
+        "selecao": "Finlândia",
+        "jogos_gols": ""
+      }
+    ],
+    "legenda_imagem": "Andrea Matthisen pelo LC United."
+  },
+  {
+    "id": "iversen",
+    "nome_curto": "Iversen",
+    "nome_completo": "Christopher Iversen",
+    "descricao_curta": "Christopher Iversen é um futebolista finlandês-dinamarquês que atua como atacante e ponta pelo Liverpool e pela seleção da Finlândia.",
+    "data_nascimento_iso": "1989-09-05",
+    "data_nascimento_texto": "5 de setembro de 1989",
+    "local_nascimento": "Helsinki, Uusimaa, Finlândia",
+    "nacionalidade": "Finlandês e Dinamarquês",
+    "pe": "Destro",
+    "altura": "1,83 m",
+    "apelido": "Iversen",
+    "clube_atual": "Liverpool",
+    "numero": 10,
+    "posicao": "Atacante e Ponta",
+    "outras_posicoes": ["Meia Atacante"],
+    "clubes_juventude": ["Helsinki Rangers (1999 - 2005)"],
+    "clubes_profissionais": [
+      {
+        "anos": "2005 - 2007",
+        "clube": "Helsinki Rangers",
+        "jogos_gols": ""
+      },
+      {
+        "anos": "2007 - 2011",
+        "clube": "Pohjoinen Adidas",
+        "jogos_gols": ""
+      },
+      {
+        "anos": "2011 - 2023",
+        "clube": "LC United",
+        "jogos_gols": ""
+      },
+      {
+        "anos": "2023 - 2024",
+        "clube": "Tampere United",
+        "jogos_gols": ""
+      },
+      {
+        "anos": "2024",
+        "clube": "Norte44",
+        "jogos_gols": "",
+        "emprestimo": true
+      },
+      {
+        "anos": "2024 - Presente",
+        "clube": "Liverpool",
+        "jogos_gols": ""
+      }
+    ],
+    "selecao_nacional": [
+      {
+        "anos": "2004 - 2007",
+        "selecao": "Finlândia (base)",
+        "jogos_gols": ""
+      },
+      {
+        "anos": "2007 - Presente",
+        "selecao": "Finlândia",
+        "jogos_gols": ""
+      }
+    ],
+    "legenda_imagem": "Christopher Iversen comemorando gol pelo Liverpool."
+  },
+  {
+    "id": "ljung",
+    "nome_curto": "Ljung",
+    "nome_completo": "Jasper Ljung",
+    "descricao_curta": "Jasper Ljung é um futebolista finlandês que atua como goleiro pelo Tampere United e pela seleção da Finlândia.",
+    "data_nascimento_iso": "1994-08-19",
+    "data_nascimento_texto": "19 de agosto de 1994",
+    "local_nascimento": "Tampere, Pirkanmaa, Finlândia",
+    "nacionalidade": "Finlandês",
+    "pe": "Destro",
+    "altura": "1,87 m",
+    "apelido": "Ljung",
+    "clube_atual": "Tampere United",
+    "numero": 1,
+    "posicao": "Goleiro",
+    "outras_posicoes": [],
+    "clubes_juventude": [
+      "Tampere United (2002 - 2009)",
+      "LC United (2009 - 2012)"
+    ],
+    "clubes_profissionais": [
+      {
+        "anos": "2012 - 2016",
+        "clube": "LC United",
+        "jogos_gols": ""
+      },
+      {
+        "anos": "2016 - 2019",
+        "clube": "Tampere United",
+        "jogos_gols": ""
+      },
+      {
+        "anos": "2019 - 2022",
+        "clube": "LC United",
+        "jogos_gols": ""
+      },
+      {
+        "anos": "2022 - Presente",
+        "clube": "Tampere United",
+        "jogos_gols": ""
+      }
+    ],
+    "selecao_nacional": [
+      {
+        "anos": "2012 - 2014",
+        "selecao": "Finlândia (base)",
+        "jogos_gols": ""
+      },
+      {
+        "anos": "2016 - Presente",
+        "selecao": "Finlândia",
+        "jogos_gols": ""
+      }
+    ],
+    "legenda_imagem": "Jasper Ljung defendendo pelo Tampere United."
+  },
+  {
+    "id": "kazemaru",
+    "nome_curto": "Kazemaru",
+    "nome_completo": "Ichirouta Kazemaru",
+    "descricao_curta": "Ichirouta Kazemaru é um futebolista japonês que atua como ala-direito pelo Tampere United e pela seleção do Japão.",
+    "data_nascimento_iso": "1990-11-14",
+    "data_nascimento_texto": "14 de novembro de 1990",
+    "local_nascimento": "Tóquio, Tóquio, Japão",
+    "nacionalidade": "Japonês",
+    "pe": "Canhoto",
+    "altura": "1,83 m",
+    "apelido": "Kazu",
+    "clube_atual": "Tampere United",
+    "numero": 22,
+    "posicao": "Ala direita",
+    "outras_posicoes": ["Lateral e Ponta Direita"],
+    "clubes_juventude": ["FC Tokyo (2002 - 2007)"],
+    "clubes_profissionais": [
+      {
+        "anos": "2007 - 2008",
+        "clube": "FC Tokyo",
+        "jogos_gols": ""
+      },
+      {
+        "anos": "2008 - 2009",
+        "clube": "Norte44",
+        "jogos_gols": ""
+      },
+      {
+        "anos": "2009 - 2012",
+        "clube": "Real Madrid",
+        "jogos_gols": ""
+      },
+      {
+        "anos": "2012 - 2015",
+        "clube": "FC Tokyo",
+        "jogos_gols": ""
+      },
+      {
+        "anos": "2015 - 2016",
+        "clube": "Tottenham",
+        "jogos_gols": ""
+      },
+      {
+        "anos": "2016 - 2017",
+        "clube": "Arsenal",
+        "jogos_gols": ""
+      },
+      {
+        "anos": "2017 - 2022",
+        "clube": "Tigers",
+        "jogos_gols": ""
+      },
+      {
+        "anos": "2022 - Presente",
+        "clube": "Tampere United",
+        "jogos_gols": ""
+      }
+    ],
+    "selecao_nacional": [
+      {
+        "anos": "2016 - Presente",
+        "selecao": "Japão",
+        "jogos_gols": ""
+      }
+    ],
+    "legenda_imagem": "Kazemaru pelo Tampere United."
+  },
+  {
+    "id": "isak_kosko",
+    "nome_curto": "Isak Kosko",
+    "nome_completo": "Isak Kosko",
+    "descricao_curta": "Isak Kosko é um futebolista finlandês que atua como ala e lateral-esquerdo pelo Barcelona, emprestado pelo Norte44.",
+    "data_nascimento_iso": "2004-03-15",
+    "data_nascimento_texto": "15 de março de 2004",
+    "local_nascimento": "Oulu, Pohjois-Pohjanmaa, Finlândia",
+    "nacionalidade": "Finlandês",
+    "pe": "Canhoto",
+    "altura": "1,77 m",
+    "apelido": "",
+    "clube_atual": "Barcelona",
+    "numero": 2,
+    "posicao": "Ala esquerdo",
+    "outras_posicoes": ["Lateral esquerdo"],
+    "clubes_juventude": ["Norte44 (2014 - 2023)"],
+    "clubes_profissionais": [
+      {
+        "anos": "2023 - Presente",
+        "clube": "Norte44",
+        "jogos_gols": ""
+      },
+      {
+        "anos": "2023 - 2024",
+        "clube": "Tampere United",
+        "jogos_gols": "",
+        "emprestimo": true
+      },
+
+      {
+        "anos": "2025",
+        "clube": "Barcelona",
+        "jogos_gols": "",
+        "emprestimo": true
+      }
+    ],
+    "selecao_nacional": [
+      {
+        "anos": "2020 - 2023",
+        "selecao": "Finlândia (base)",
+        "jogos_gols": ""
+      },
+      {
+        "anos": "2023 - Presente",
+        "selecao": "Finlândia",
+        "jogos_gols": ""
+      }
+    ],
+    "legenda_imagem": "Isak Kosko em ação pelo Norte44."
+  },
+  {
+    "id": "jamie_rasanen",
+    "nome_curto": "Jamie Rasanen",
+    "nome_completo": "Jamie Hass Rasanen Laitinen",
+    "descricao_curta": "Jamie Hass Rasanen Laitinen é um jovem futebolista finlandês que atua como meia pelo Stuttgart, emprestado pelo Norte44, e integra as categorias de base da seleção da Finlândia.",
+    "data_nascimento_iso": "2006-08-12",
+    "data_nascimento_texto": "12 de agosto de 2006",
+    "local_nascimento": "Kuopio, Savônia do Norte, Finlândia",
+    "nacionalidade": "Finlandês",
+    "pe": "Direito",
+    "altura": "2,02 m",
+    "apelido": "Jamie",
+    "clube_atual": "Stuttgart",
+    "numero": 8,
+    "posicao": "Meia e Meia Atacante",
+    "outras_posicoes": [],
+    "clubes_juventude": ["Norte44 (2014 - 2024)"],
+    "clubes_profissionais": [
+      {
+        "anos": "2024 - Presente",
+        "clube": "Norte44",
+        "jogos_gols": ""
+      },
+      {
+        "anos": "2025",
+        "clube": "Stuttgart",
+        "jogos_gols": "",
+        "emprestimo": true
+      }
+    ],
+    "selecao_nacional": [
+      {
+        "anos": "2023 - Presente",
+        "selecao": "Finlândia (base)",
+        "jogos_gols": ""
+      }
+    ],
+    "legenda_imagem": "Jamie Rasanen pelo Norte44."
+  },
+  {
+    "id": "emil_korpela",
+    "nome_curto": "Emil Korpela",
+    "nome_completo": "Emil Korpela Heino",
+    "descricao_curta": "Emil Korpela Heino é um jovem futebolista finlandês que atua como zagueiro pelo Norte44 e pela seleção da Finlândia.",
+    "data_nascimento_iso": "2007-02-10",
+    "data_nascimento_texto": "10 de fevereiro de 2007",
+    "local_nascimento": "Jyvaskyla, Keski-Suomi, Finlândia",
+    "nacionalidade": "Finlandês",
+    "pe": "Canhoto",
+    "altura": "1,98 m",
+    "apelido": "",
+    "clube_atual": "Norte44",
+    "numero": 32,
+    "posicao": "Zagueiro",
+    "outras_posicoes": [],
+    "clubes_juventude": ["Norte44 (2015 - 2024)"],
+    "clubes_profissionais": [
+      {
+        "anos": "2024 - Presente",
+        "clube": "Norte44",
+        "jogos_gols": ""
+      }
+    ],
+    "selecao_nacional": [
+      {
+        "anos": "2023 - 2025",
+        "selecao": "Finlândia (base)",
+        "jogos_gols": ""
+      },
+      {
+        "anos": "2025 - Presente",
+        "selecao": "Finlândia",
+        "jogos_gols": ""
+      }
+    ],
+    "legenda_imagem": "Emil Korpela pelo Norte44."
+  },
+  {
+    "id": "mita_jarvinen",
+    "nome_curto": "Mita Järvinen",
+    "nome_completo": "Mitomi-Ville Makki Järvinen Kallio",
+    "descricao_curta": "Mitomi-Ville Makki Järvinen Kallio, conhecido como Mita Järvinen, é um jovem futebolista finlandês que atua como ponta-direita pelo Norte44 e integra as categorias de base da seleção da Finlândia.",
+    "data_nascimento_iso": "2007-04-16",
+    "data_nascimento_texto": "16 de abril de 2007",
+    "local_nascimento": "Tampere, Pirkanmaa, Finlândia",
+    "nacionalidade": "Finlandês",
+    "pe": "Canhoto",
+    "altura": "1,75 m",
+    "apelido": "Mita",
+    "clube_atual": "Norte44",
+    "numero": 20,
+    "posicao": "Ponta Direita",
+    "outras_posicoes": [],
+    "clubes_juventude": ["Norte44 (2013 - 2025)"],
+    "clubes_profissionais": [
+      {
+        "anos": "2025 - Presente",
+        "clube": "Norte44",
+        "jogos_gols": ""
+      }
+    ],
+    "selecao_nacional": [
+      {
+        "anos": "2022 - Presente",
+        "selecao": "Finlândia (base)",
+        "jogos_gols": ""
+      }
+    ],
+    "legenda_imagem": "Mita Järvinen pelo Norte44."
+  },
+  {
+    "id": "jarvin",
+    "nome_curto": "Jarvin",
+    "nome_completo": "Kristian Järvinen",
+    "descricao_curta": "Kristian Järvinen, conhecido como Jarvin, é um futebolista finlandês que atua como atacante pelo FS Strikers FC.",
+    "data_nascimento_iso": "1993-04-20",
+    "data_nascimento_texto": "20 de abril de 1993",
+    "local_nascimento": "Helsinki, Uusimaa, Finlândia",
+    "nacionalidade": "Finlandês",
+    "pe": "Ambidestro",
+    "altura": "1,90 m",
+    "apelido": "Jarvin",
+    "clube_atual": "FS Strikers FC",
+    "numero": 9,
+    "posicao": "Atacante",
+    "outras_posicoes": [],
+    "clubes_juventude": ["Brtlty City (1996 – 1999)", "Norte44 (1999 – 2015)"],
+    "clubes_profissionais": [
+      {
+        "anos": "2015 – 2018",
+        "clube": "Norte44",
+        "jogos_gols": ""
+      },
+      {
+        "anos": "2015 – 2016",
+        "clube": "Brtlty City",
+        "jogos_gols": "",
+        "emprestimo": true
+      },
+      {
+        "anos": "2016 – 2017",
+        "clube": "Finland Klubi",
+        "jogos_gols": "",
+        "emprestimo": true
+      },
+      {
+        "anos": "2018",
+        "clube": "FC Kiisto",
+        "jogos_gols": "",
+        "emprestimo": true
+      },
+      {
+        "anos": "2018 - 2021",
+        "clube": "FC Kiisto",
+        "jogos_gols": ""
+      },
+      {
+        "anos": "2019 – 2020",
+        "clube": "SJK",
+        "jogos_gols": "",
+        "emprestimo": true
+      },
+      {
+        "anos": "2020 – 2021",
+        "clube": "Varkaus Eagles",
+        "jogos_gols": "",
+        "emprestimo": true
+      },
+      {
+        "anos": "2021",
+        "clube": "HJK Helsinki",
+        "jogos_gols": "",
+        "emprestimo": true
+      },
+      {
+        "anos": "2021",
+        "clube": "Norrporten 84",
+        "jogos_gols": "",
+        "emprestimo": true
+      },
+      {
+        "anos": "2021 – 2022",
+        "clube": "FS Strikers FC",
+        "jogos_gols": "",
+        "emprestimo": true
+      },
+      {
+        "anos": "2022 – Presente",
+        "clube": "FS Strikers FC",
+        "jogos_gols": ""
+      }
+    ],
+    "selecao_nacional": [
+      {
+        "anos": "2003 – 2008",
+        "selecao": "Finlândia (base)",
+        "jogos_gols": ""
+      }
+    ],
+    "legenda_imagem": "Kristian Järvinen em partida pelo FS Strikers FC."
+  },
+  {
+    "id": "benjamin_fur",
+    "nome_curto": "Benjamin Fur",
+    "nome_completo": "Benjamin Saarikko Fur",
+    "descricao_curta": "Benjamin Saarikko Fur é um futebolista finlandês que atua como ponta-esquerda pelo Norte44 e pela seleção da Finlândia.",
+    "data_nascimento_iso": "2002-02-17",
+    "data_nascimento_texto": "17 de fevereiro de 2002",
+    "local_nascimento": "Central White, Uusimaa, Finlândia",
+    "nacionalidade": "Finlandês",
+    "pe": "Destro",
+    "altura": "1,84 m",
+    "apelido": "",
+    "clube_atual": "Norte44",
+    "numero": 27,
+    "posicao": "Ponta Esquerda",
+    "outras_posicoes": ["Meia Atacante", "Atacante"],
+    "clubes_juventude": [
+      "FC Vaaranta Juniorit (2010 - 2012)",
+      "Central White (2012 - 2021)"
+    ],
+    "clubes_profissionais": [
+      {
+        "anos": "2021 - 2025",
+        "clube": "Central White",
+        "jogos_gols": ""
+      },
+      {
+        "anos": "2025",
+        "clube": "Norte44",
+        "jogos_gols": "",
+        "emprestimo": true
+      },
+      {
+        "anos": "2025 - Presente",
+        "clube": "Norte44",
+        "jogos_gols": ""
+      }
+    ],
+    "selecao_nacional": [
+      {
+        "anos": "2018 - 2023",
+        "selecao": "Finlândia (base)",
+        "jogos_gols": ""
+      },
+      {
+        "anos": "2025 - Presente",
+        "selecao": "Finlândia",
+        "jogos_gols": ""
+      }
+    ],
+    "legenda_imagem": "Benjamin Fur pelo Norte44."
+  }
+]

@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Jogador – Norte44 Wiki</title>
+    <link rel="stylesheet" href="css/jogador.css" />
+  </head>
+
+  <body>
+    <div class="page">
+      <!-- HEADER DO JOGADOR -->
+      <div class="header-jogador">
+        <!-- Texto à esquerda -->
+        <div class="info-topo">
+          <h1 id="nome">Nome do Jogador</h1>
+          <p id="descricao-curta">
+            Jogador que atua como atacante e defende o Norte44.
+          </p>
+        </div>
+
+        <!-- Imagem à direita -->
+        <div class="imagem-topo">
+          <div id="legenda-foto" class="legenda-imagem">Legenda da imagem</div>
+          <img id="foto-jogador" src="img/default.png" alt="Foto do jogador" />
+        </div>
+      </div>
+
+      <!-- FICHA DO JOGADOR -->
+      <!-- INFOBOX ESTILO WIKI -->
+      <div class="infobox">
+        <!-- SEÇÃO: INFORMAÇÕES PESSOAIS -->
+        <div class="infobox-section">
+          <div class="infobox-section-title">Informações pessoais</div>
+
+          <div class="infobox-row">
+            <span class="infobox-label">Nome completo</span>
+            <span id="nome-completo" class="infobox-value">—</span>
+          </div>
+
+          <div class="infobox-row">
+            <span class="infobox-label">Data de nascimento</span>
+            <span id="data-nascimento" class="infobox-value">—</span>
+          </div>
+
+          <div class="infobox-row">
+            <span class="infobox-label">Local de nascimento</span>
+            <span id="local-nascimento" class="infobox-value">—</span>
+          </div>
+
+          <div class="infobox-row">
+            <span class="infobox-label">Nacionalidade</span>
+            <span id="nacionalidade" class="infobox-value">—</span>
+          </div>
+
+          <div class="infobox-row">
+            <span class="infobox-label">Altura</span>
+            <span id="altura" class="infobox-value">—</span>
+          </div>
+
+          <div class="infobox-row">
+            <span class="infobox-label">Pé</span>
+            <span id="pe" class="infobox-value">—</span>
+          </div>
+
+          <div class="infobox-row" id="row-apelido">
+            <span class="infobox-label">Apelido</span>
+            <span id="apelido" class="infobox-value">—</span>
+          </div>
+        </div>
+
+        <!-- SEÇÃO: INFORMAÇÕES PROFISSIONAIS -->
+        <div class="infobox-section">
+          <div class="infobox-section-title">Informações profissionais</div>
+
+          <div class="infobox-row">
+            <span class="infobox-label">Clube atual</span>
+            <span id="clube-atual" class="infobox-value">—</span>
+          </div>
+
+          <div class="infobox-row">
+            <span class="infobox-label">Número</span>
+            <span id="numero" class="infobox-value">—</span>
+          </div>
+
+          <div class="infobox-row">
+            <span class="infobox-label">Posição</span>
+            <span id="posicao" class="infobox-value">—</span>
+          </div>
+
+          <div class="infobox-row" id="row-outras-posicoes">
+            <span class="infobox-label">Outras posições</span>
+            <span id="outras-posicoes" class="infobox-value">—</span>
+          </div>
+        </div>
+
+        <!-- SEÇÃO: CLUBES DE JUVENTUDE -->
+        <div class="infobox-section">
+          <div class="infobox-section-title">Clubes de juventude</div>
+          <ul id="clubes-juventude" class="infobox-list">
+            <!-- preenchido via JS -->
+          </ul>
+        </div>
+
+        <!-- SEÇÃO: CLUBES PROFISSIONAIS -->
+        <div class="infobox-section">
+          <div class="infobox-section-title">Clubes profissionais</div>
+
+          <table class="infobox-table">
+            <thead>
+              <tr>
+                <th>Anos</th>
+                <th>Clube</th>
+                <th>Jogos e gol(o)s</th>
+              </tr>
+            </thead>
+            <tbody id="clubes-profissionais-body">
+              <!-- linhas via JS -->
+            </tbody>
+          </table>
+        </div>
+
+        <!-- SEÇÃO: SELEÇÃO NACIONAL -->
+        <div class="infobox-section">
+          <div class="infobox-section-title">Seleção nacional</div>
+
+          <table class="infobox-table">
+            <thead>
+              <tr>
+                <th>Anos</th>
+                <th>Seleção</th>
+                <th>Jogos e gol(o)s</th>
+              </tr>
+            </thead>
+            <tbody id="selecao-nacional-body">
+              <!-- linhas via JS -->
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+
+    <script src="js/jogador.js"></script>
+  </body>
+</html>

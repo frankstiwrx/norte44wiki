@@ -1,0 +1,57 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f5f7;
+  margin: 0;
+  padding: 0;
+  color: #1d1d1d;
+}
+
+.page {
+  max-width: 900px;
+  margin: auto;
+  padding: 20px;
+}
+
+h1 {
+  margin-bottom: 15px;
+  border-bottom: 2px solid #a2a9b1;
+  padding-bottom: 5px;
+}
+
+#busca {
+  width: 100%;
+  padding: 8px 10px;
+  margin-bottom: 15px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+  font-size: 1rem;
+}
+
+#lista-jogadores {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+#lista-jogadores li {
+  padding: 8px 10px;
+  border-bottom: 1px solid #ddd;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+#lista-jogadores li a {
+  text-decoration: none;
+  color: #0645ad;
+  font-weight: bold;
+}
+
+#lista-jogadores li a:hover {
+  text-decoration: underline;
+}
+
+.item-info-extra {
+  font-size: 0.9rem;
+  color: #555;
+}
