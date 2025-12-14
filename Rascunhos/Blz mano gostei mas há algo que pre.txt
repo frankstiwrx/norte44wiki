@@ -1,0 +1,66 @@
+Blz mano gostei mas há algo que precisamos mudar aqui por exemplo o ideal:
+{
+  "anos": "2019–2022",
+  "selecao": "Finlândia",
+  "jogos_gols": "26 (7)"
+},
+{
+  "anos": "2023–",
+  "selecao": "Finlândia",
+  "jogos_gols": "28 (11)"
+}
+
+é unir e ficar assim:
+
+{
+  "anos": "2019–", 
+  "selecao": "Finlândia",
+  "jogos_gols": "54 (18)" 
+}
+
+e aqui:
+não faz sentido ele ser emprestado em 2017 porque ele esta sem clube em 2017 e op ideal é "emendar" anos no caso se transfere e conta tipo 2012-2013 e no outro clube 2013-2014 porque é temporada europeia e não anual"
+
+
+{
+  "anos": "2014–2016", 
+  "clube": "LC United",
+  "jogos_gols": "78 (28)"
+},
+{
+  "anos": "2017",
+  "clube": "Tampere United",
+  "jogos_gols": "58 (27)",
+  "emprestimo": true
+},
+{
+  "anos": "2018–2022",
+  "clube": "LC United",
+  "jogos_gols": "241 (116)"
+},
+{
+  "anos": "2023–",
+  "clube": "Norte44",
+  "jogos_gols": "311 (192)"
+}
+
+se a ideia aqui é que ele é do LC united e foi emprestado em 2017 para o tempere united então deveria ser assim:
+
+{
+  "anos": "2014–2022",
+  "clube": "LC United",
+  "jogos_gols": "319 (144)" 
+},
+{
+  "anos": "2017",
+  "clube": "Tampere United",
+  "jogos_gols": "58 (27)",
+  "emprestimo": true
+},
+
+{
+  "anos": "2022–",
+  "clube": "Norte44",
+  "jogos_gols": "311 (192)"
+} 
+

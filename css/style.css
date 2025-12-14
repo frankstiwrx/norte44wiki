@@ -1,9 +1,47 @@
+:root {
+  --bg: #f4f5f7;
+  --text: #1d1d1d;
+  --muted: #555;
+
+  --surface: #ffffff;
+  --surface-2: #ffffff;
+
+  --border: #a2a9b1;
+  --border-soft: #ddd;
+  --border-input: #ccc;
+
+  --link: #0645ad;
+
+  --section-title-bg: #cedff2;
+
+  --shadow: 0 0 0 rgba(0, 0, 0, 0);
+}
+
+html[data-theme="dark"] {
+  --bg: #101214;
+  --text: #e7e7e7;
+  --muted: #b6b6b6;
+
+  --surface: #161a1f;
+  --surface-2: #12161b;
+
+  --border: #3b424c;
+  --border-soft: #2a313a;
+  --border-input: #3b424c;
+
+  --link: #7db2ff;
+
+  --section-title-bg: #253348;
+
+  --shadow: 0 0 0 rgba(0, 0, 0, 0);
+}
+
 body {
   font-family: Arial, sans-serif;
-  background-color: #f4f5f7;
+  background-color: var(--bg);
   margin: 0;
   padding: 0;
-  color: #1d1d1d;
+  color: var(--text);
 }
 
 .page {
@@ -14,7 +52,7 @@ body {
 
 h1 {
   margin-bottom: 15px;
-  border-bottom: 2px solid #a2a9b1;
+  border-bottom: 2px solid var(--border);
   padding-bottom: 5px;
 }
 
@@ -23,8 +61,14 @@ h1 {
   padding: 8px 10px;
   margin-bottom: 15px;
   border-radius: 4px;
-  border: 1px solid #ccc;
+  border: 1px solid var(--border-input);
   font-size: 1rem;
+  background: var(--surface);
+  color: var(--text);
+}
+
+#busca::placeholder {
+  color: var(--muted);
 }
 
 #lista-jogadores {
@@ -35,7 +79,7 @@ h1 {
 
 #lista-jogadores li {
   padding: 8px 10px;
-  border-bottom: 1px solid #ddd;
+  border-bottom: 1px solid var(--border-soft);
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -43,7 +87,7 @@ h1 {
 
 #lista-jogadores li a {
   text-decoration: none;
-  color: #0645ad;
+  color: var(--link);
   font-weight: bold;
 }
 
@@ -53,7 +97,7 @@ h1 {
 
 .item-info-extra {
   font-size: 0.9rem;
-  color: #555;
+  color: var(--muted);
 }
 
 /* ===== RESPONSIVIDADE – LISTA DE JOGADORES ===== */
@@ -67,7 +111,7 @@ h1 {
   }
 
   #lista-jogadores li {
-    flex-direction: column; /* nome e info ficam um embaixo do outro */
+    flex-direction: column;
     align-items: flex-start;
     gap: 2px;
     padding: 8px 4px;
@@ -80,4 +124,26 @@ h1 {
   .item-info-extra {
     font-size: 0.85rem;
   }
+}
+
+.theme-toggle {
+  position: fixed;
+  top: 12px;
+  right: 12px;
+  z-index: 9999;
+
+  border: 1px solid var(--border);
+  background: var(--surface);
+  color: var(--text);
+
+  border-radius: 999px;
+  padding: 8px 10px;
+  cursor: pointer;
+
+  font-size: 16px;
+  line-height: 1;
+}
+
+.theme-toggle:hover {
+  filter: brightness(0.95);
 }

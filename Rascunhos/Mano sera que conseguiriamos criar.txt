@@ -1,0 +1,201 @@
+Mano será que conseguiríamos criar um software que já gerasse esses dados? tipo ano a ano? 
+ele usa as informações que eu te passei e faz perguntas:
+
+0. Posição?
+Atacante ->Faz muito gol?(Sim extraordinário Artilheiro Máximo/Sim/Não),
+ Ponta -> Faz muito gol?(Sim extraordinário Artilheiro Máximo/Sim/Não)
+Meia atacante -> Faz muito gol?(Sim muitos gols/Sim/Não), Meia (Faz muito gol?(Sim pisa na bastante na área/Sim/Sim mas poucos gols/Não), Volante -> Faz gol?(Sim/Não)
+Lateral Opções: Ofensivo (Fara mais gols), Defensivo (fara menos gols)
+Zagueiro -> Opções: (faz gol) ou (não faz gol)?
+Goleiro -> (não faz gol)
+
+1. Qual período que ele atuou ou está em atividade se sim ele não tera ano de fim de carreira ainda então sera feito mapeamento até 2025(ano atual)
+
+Ano x ate Ano y exemplo 2010 a 2015, ai ele vai gerar os números conforme os padroes
+
+Ano 2010 Papel no elenco - opções? (Recuperando de lesão:"Jogara poucos jogos mas com certa regularidade pois se recupera de lesão"/Compoe elenco/Reserva/Reserva Importante/Titular Absoluto/Tanque de Guerra:"Joga Quase todos os jogos, é um titular com 95% de aparições nos jogos")
+caracter do jogador - opções(Recem subiu da base :subopção(Subiu da base normalmente: jogara poucos jogos de inicio/Subiu da base fenômeno: jogara perfeitamente normal como se já fosse veterano com titularidade alta)/jogador comum: :tem confiança mas sofre de altos e baixos/bom jogador:nivel medio de segurança confiança/excelente jogador:muita confiança/craque do time:confiança inabalavel/jogador em decadencia física e tecnica/jogador quase aposentando)
+
+Ano 2011 Papel no elenco - opções? (Recuperando de lesão:"Jogara poucos jogos mas com certa regularidade pois se recupera de lesão"/Compoe elenco/Reserva/Reserva Importante/Titular Absoluto/Tanque de Guerra:"Joga Quase todos os jogos, é um titular com 95% de aparições nos jogos")
+opções(Recem subiu da base :subopção(Subiu da base normalmente: jogara poucos jogos de inicio/Subiu da base fenômeno: jogara perfeitamente normal como se já fosse veterano com titularidade alta)/jogador comum: :tem confiança mas sofre de altos e baixos/bom jogador:nivel medio de segurança confiança/excelente jogador:muita confiança/craque do time:confiança inabalavel/jogador em decadencia física e tecnica/jogador quase aposentando)
+
+Ano 2012 Papel no elenco - opções? (Recuperando de lesão:"Jogara poucos jogos mas com certa regularidade pois se recupera de lesão"/Compoe elenco/Reserva/Reserva Importante/Titular Absoluto/Tanque de Guerra:"Joga Quase todos os jogos, é um titular com 95% de aparições nos jogos") 
+opções(Recem subiu da base :subopção(Subiu da base normalmente: jogara poucos jogos de inicio/Subiu da base fenômeno: jogara perfeitamente normal como se já fosse veterano com titularidade alta)/jogador comum: :tem confiança mas sofre de altos e baixos/bom jogador:nivel medio de segurança confiança/excelente jogador:muita confiança/craque do time:confiança inabalavel/jogador em decadencia física e tecnica/jogador quase aposentando)
+
+Ano 2013 Papel no elenco - opções? (Recuperando de lesão:"Jogara poucos jogos mas com certa regularidade pois se recupera de lesão"/Compoe elenco/Reserva/Reserva Importante/Titular Absoluto/Tanque de Guerra:"Joga Quase todos os jogos, é um titular com 95% de aparições nos jogos")
+opções(Recem subiu da base :subopção(Subiu da base normalmente: jogara poucos jogos de inicio/Subiu da base fenômeno: jogara perfeitamente normal como se já fosse veterano com titularidade alta)/jogador comum: :tem confiança mas sofre de altos e baixos/bom jogador:nivel medio de segurança confiança/excelente jogador:muita confiança/craque do time:confiança inabalavel/jogador em decadencia física e tecnica/jogador quase aposentando)
+
+Ano 2014 Papel no elenco - opções? (Recuperando de lesão:"Jogara poucos jogos mas com certa regularidade pois se recupera de lesão"/Compoe elenco/Reserva/Reserva Importante/Titular Absoluto/Tanque de Guerra:"Joga Quase todos os jogos, é um titular com 95% de aparições nos jogos")
+opções(Recem subiu da base :subopção(Subiu da base normalmente: jogara poucos jogos de inicio/Subiu da base fenômeno: jogara perfeitamente normal como se já fosse veterano com titularidade alta)/jogador comum: :tem confiança mas sofre de altos e baixos/bom jogador:nivel medio de segurança confiança/excelente jogador:muita confiança/craque do time:confiança inabalavel/jogador em decadencia física e tecnica/jogador quase aposentando)
+
+Ano 2015 Papel no elenco - opções? (Recuperando de lesão:"Jogara poucos jogos mas com certa regularidade pois se recupera de lesão"/Compoe elenco/Reserva/Reserva Importante/Titular Absoluto/Tanque de Guerra:"Joga Quase todos os jogos, é um titular com 95% de aparições nos jogos")
+opções(Recem subiu da base :subopção(Subiu da base normalmente: jogara poucos jogos de inicio/Subiu da base fenômeno: jogara perfeitamente normal como se já fosse veterano com titularidade alta)/jogador comum: :tem confiança mas sofre de altos e baixos/bom jogador:nivel medio de segurança confiança/excelente jogador:muita confiança/craque do time:confiança inabalavel/jogador em decadencia física e tecnica/jogador quase aposentando)
+
+
+(qual período atuou na seleção de base?)
+
+Fez seleção de base? (sim/não)
+ainda está na seleção de base? (sim/não) -> se sim perguntar só o ano de inicio, se não perguntar só o ano de inicio e ano de fim
+
+
+
+seleção de base:
+caracter dele na seleção de base? (Jogador médio na base/Jogador Regular na base/Jogador excelente na base/Craque da base)
+
+Ano 2015 até 2017
+
+
+caracter dele na seleção? (Jogador péssimo em seleção: Numeros muito ruins/Jogador de clube: Numeros Ok, mas piores que os do clube/Jogador regular:Joga tão bem na seleção quanto no clube/jogador de seleção: joga até melhor que na seleção do que no clube)
+
+
+Ano 2015 Papel no elenco? (Estava lesionado e quase não foi convocado/Reserva/Reserva Importante/Titular Absoluto/Tanque de Guerra:"Joga Quase todos os jogos, é um titular com 95% de aparições nos jogos")
+caracter do jogador? (Jogador comum/Jogador confortável/Craque do time/aposentando da seleção)
+Ano 2016 Papel no elenco? (Estava lesionado e quase não foi convocado/Reserva/Reserva Importante/Titular Absoluto/Tanque de Guerra:"Joga Quase todos os jogos, é um titular com 95% de aparições nos jogos")
+caracter do jogador? (Jogador comum/Jogador confortável/Craque do time/aposentando da seleção)
+Ano 2017 Papel no elenco? (Estava lesionado e quase não foi convocado/Reserva/Reserva Importante/Titular Absoluto/Tanque de Guerra:"Joga Quase todos os jogos, é um titular com 95% de aparições nos jogos")
+caracter do jogador? (Jogador comum/Jogador confortável/Craque do time/aposentando da seleção)
+
+
+Ai ele pega os dados e faz
+perguntas 
+
+ano 2015 era qual time?
+era empréstimo? (Sim/Não)
+
+ano 2016 era qual time?
+era empréstimo? (Sim/Não)
+
+ano 2017 era qual time?
+era empréstimo? (Sim/Não)
+
+ano 2018 era qual time?
+era empréstimo? (Sim/Não)
+
+ano 2019 era qual time?
+era empréstimo? (Sim/Não)
+
+ano 2020 era qual time?
+era empréstimo? (Sim/Não)
+
+
+entrega os dados no formato:
+
+
+
+
+
+regras: perguntar se é empréstimo e se for incluir (emprestimo": true)
+mesmo clube em temporadas seguidas exemplo: 2012,2013,2014 contar números somados jogos e gols junto em passagem 2012-2014 , caso ele volte após passar por outro clube é reconhecido como outra passagem nova exemplo: 2018,2019 ai já é uma segunda passagem mesmo que seja pelo mesmo clube, os números se separam caso a passagem seja interrompida por uma temporada em outro clube, exceto quando o jogo é emprestado, quando o jogador é emprestado podem existir múltiplas passagens pelo mesmo clube , no caso o clube dono do jogador ai nesse caso o jogador terá passagens somadas por exemplo:
+
+Aqui esse jogador tem múltiplos empréstimos mas eles são bem descritos como empréstimos então se ele pertence ao norte44 durante 2015 e 2018:
+detalhe quando ele é emprestado a um clube e em seguida é comprado por esse clube a passagem se divide em passagem (emprestimo) e passagem no clube, como aqui no caso em 2018 ele foi para o kiisto por empréstimo e depois comprado pelo período 2018-2021 os números se dividem em dois , um conjunto partidas,gols para cada período como mostrado abaixo:
+
+{
+        "anos": "2015 – 2018",
+        "clube": "Norte44",
+        "jogos_gols": ""
+      },
+      {
+        "anos": "2015 – 2016",
+        "clube": "Brtlty City",
+        "jogos_gols": "",
+        "emprestimo": true
+      },
+      {
+        "anos": "2016 – 2017",
+        "clube": "Finland Klubi",
+        "jogos_gols": "",
+        "emprestimo": true
+      },
+      {
+        "anos": "2018",
+        "clube": "FC Kiisto",
+        "jogos_gols": "",
+        "emprestimo": true
+      },
+      {
+        "anos": "2018 - 2021",
+        "clube": "FC Kiisto",
+        "jogos_gols": ""
+      },
+      {
+        "anos": "2019 – 2020",
+        "clube": "SJK",
+        "jogos_gols": "",
+        "emprestimo": true
+      },
+      {
+        "anos": "2020 – 2021",
+        "clube": "Varkaus Eagles",
+        "jogos_gols": "",
+        "emprestimo": true
+      },
+      {
+        "anos": "2021",
+        "clube": "HJK Helsinki",
+        "jogos_gols": "",
+        "emprestimo": true
+      },
+      {
+        "anos": "2021",
+        "clube": "Norrporten 84",
+        "jogos_gols": "",
+        "emprestimo": true
+      },
+      {
+        "anos": "2021 – 2022",
+        "clube": "FS Strikers FC",
+        "jogos_gols": "",
+        "emprestimo": true
+      },
+      {
+        "anos": "2022 – Presente",
+        "clube": "FS Strikers FC",
+        "jogos_gols": ""
+      }
+
+
+(Numeros e nomes só por exemplo)
+
+{
+        "anos": "2022–",
+        "clube": "Norte44",
+        "jogos_gols": "102 (59)"
+      },
+      {
+        "anos": "2022–2023",
+        "clube": "LC United",
+        "jogos_gols": "11 (2)",
+        "emprestimo": true
+      },
+      {
+        "anos": "2023–2024",
+        "clube": "Tampere United",
+        "jogos_gols": "35 (26)",
+        "emprestimo": true
+      }
+
+
+(verifica as opções e elabora um plano de números condizente com as opções marcadas e entrega as linhas do json no formato abaixo:)
+
+
+Qual era a seleção de base?
+(recebe nome da seleção de base) e entrega os anos e gols da seleção de base somados: Jogos(gols)
+
+Qual era a seleção principal?
+(recebe nome da seleção de base) e entrega os anos e gols da seleção principal somados: Jogos(gols)
+
+(verifica as opções e elabora um plano de números condizente com as opções marcadas e entrega as linhas do json no formato abaixo:)
+
+{
+        "anos": "ano inicio–ano fim",
+        "selecao": "Nome da seleção (base)",
+        "jogos_gols": "numero de jogos (numero de gols)"
+      },
+      {
+        "anos": "ano inicio seleção principal–ano fim seleção principal/(opção fica vazia se ele ainda estiver na seleção ou seja fica só "ano inicio seleção principal–")",
+        "selecao": "Nome da seleçao",
+        "jogos_gols": "numero de jogos (numero de gols)"
+      }
+
+

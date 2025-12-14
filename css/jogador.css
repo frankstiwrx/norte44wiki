@@ -1,21 +1,63 @@
-/* CONTAINER GERAL (já existia algo assim) */
+:root {
+  --bg: #f4f5f7;
+  --text: #1d1d1d;
+  --muted: #555;
+
+  --surface: #ffffff;
+  --surface-2: #ffffff;
+
+  --border: #a2a9b1;
+  --border-soft: #d0d0d0;
+  --border-softer: #e0e0e0;
+
+  --section-title-bg: #cedff2;
+
+  --img-bg: #e8e8e8;
+  --img-border: #c7c7c7;
+
+  --shadow-header: 0 0 5px rgba(0, 0, 0, 0.09);
+  --shadow-box: 0 0 5px rgba(0, 0, 0, 0.08);
+}
+
+html[data-theme="dark"] {
+  --bg: #101214;
+  --text: #e7e7e7;
+  --muted: #b6b6b6;
+
+  --surface: #161a1f;
+  --surface-2: #12161b;
+
+  --border: #3b424c;
+  --border-soft: #2a313a;
+  --border-softer: #2a313a;
+
+  --section-title-bg: #253348;
+
+  --img-bg: #0f141a;
+  --img-border: #3b424c;
+
+  --shadow-header: 0 0 0 rgba(0, 0, 0, 0);
+  --shadow-box: 0 0 0 rgba(0, 0, 0, 0);
+}
+
+/* CONTAINER GERAL */
 .page {
   max-width: 900px;
   margin: auto;
   padding: 20px;
 }
 
-/* HEADER (já tinha) */
+/* HEADER */
 .header-jogador {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background: #ffffff;
+  background: var(--surface);
   padding: 20px;
   border-radius: 8px;
-  border: 1px solid #d0d0d0;
+  border: 1px solid var(--border-soft);
   margin-bottom: 25px;
-  box-shadow: 0 0 5px rgba(0, 0, 0, 0.09);
+  box-shadow: var(--shadow-header);
 }
 
 .info-topo {
@@ -25,56 +67,57 @@
 .info-topo h1 {
   font-size: 2em;
   margin-bottom: 10px;
-  border-bottom: 2px solid #a2a9b1;
+  border-bottom: 2px solid var(--border);
   padding-bottom: 5px;
+  color: var(--text);
 }
 
 .info-topo p {
   font-size: 1.1em;
-  color: #444;
+  color: var(--muted);
 }
 
 .imagem-topo img {
   width: 240px;
   height: auto;
   border-radius: 6px;
-  border: 1px solid #c7c7c7;
-  background: #e8e8e8;
+  border: 1px solid var(--img-border);
+  background: var(--img-bg);
 }
 
 /* INFOBOX ESTILO WIKI */
-
 .infobox {
-  background: #ffffff;
-  border: 1px solid #a2a9b1;
+  background: var(--surface);
+  border: 1px solid var(--border);
   border-radius: 4px;
-  box-shadow: 0 0 5px rgba(0, 0, 0, 0.08);
+  box-shadow: var(--shadow-box);
   font-size: 0.95rem;
   margin-top: 10px;
 }
 
 /* bloco de cada seção */
 .infobox-section {
-  border-top: 1px solid #d0d0d0;
+  border-top: 1px solid var(--border-soft);
 }
 
 .infobox-section:first-child {
   border-top: none;
 }
 
-/* título azul da seção (tipo Wikipédia) */
+/* título azul da seção */
 .infobox-section-title {
-  background-color: #cedff2;
+  background-color: var(--section-title-bg);
   padding: 6px 10px;
   font-weight: bold;
   text-align: center;
+  color: var(--text);
 }
 
 /* linhas label + valor */
 .infobox-row {
   display: flex;
-  padding: 8px 10px; /* antes 4px — agora com mais respiro */
-  border-top: 1px solid #e0e0e0;
+  padding: 8px 10px;
+  border-top: 1px solid var(--border-softer);
 }
 
 .infobox-row:first-of-type {
@@ -84,38 +127,37 @@
 .infobox-label {
   width: 150px;
   font-weight: bold;
+  color: var(--text);
 }
 
 .infobox-value {
   flex: 1;
+  color: var(--text);
 }
 
-/* listas (clubes de juventude) */
-/* linhas da categoria de base */
+/* listas (caso ainda use) */
 .infobox-list li {
   display: flex;
   align-items: center;
   padding: 3px 10px;
-  border-top: 1px solid #e0e0e0;
-  gap: 18px; /* distância entre anos e clube */
+  border-top: 1px solid var(--border-softer);
+  gap: 18px;
 }
 
 .infobox-list li:first-child {
   border-top: none;
 }
 
-/* Anos da base (não negrito) */
 .infobox-list .periodo {
-  font-weight: normal; /* tira o negrito */
-  white-space: nowrap; /* não quebra o "2008–2016" no meio */
+  font-weight: normal;
+  white-space: nowrap;
 }
 
-/* Nome do clube da base, logo depois dos anos */
 .infobox-list .clube {
   flex: 0 1 auto;
 }
 
-/* tabelas (clubes prof. / seleção) */
+/* tabelas (clubes prof. / seleção / base) */
 .infobox-table {
   width: 100%;
   border-collapse: collapse;
@@ -123,21 +165,23 @@
 }
 
 .infobox-table thead th {
-  background-color: #cedff2;
+  background-color: var(--section-title-bg);
   text-align: center;
-  padding: 4px;
-  border-bottom: 1px solid #a2a9b1;
+  padding: 6px 4px;
+  border-bottom: 1px solid var(--border);
+  color: var(--text);
 }
 
 .infobox-table tbody td {
   text-align: center;
-  padding: 12px 4px; /* mais espaço em cima e embaixo */
-  border-top: 1px solid #e0e0e0;
+  padding: 12px 4px;
+  border-top: 1px solid var(--border-softer);
+  color: var(--text);
 }
 
 .legenda-imagem {
   font-size: 0.85rem;
-  color: #666;
+  color: var(--muted);
   text-align: center;
   margin-bottom: 6px;
   font-style: italic;
@@ -150,7 +194,7 @@
   }
 
   .header-jogador {
-    flex-direction: column; /* texto em cima, imagem embaixo */
+    flex-direction: column;
     align-items: center;
     gap: 12px;
   }
@@ -164,7 +208,7 @@
   }
 
   .imagem-topo img {
-    width: 180px; /* imagem menor no celular */
+    width: 180px;
   }
 
   .infobox {
@@ -176,15 +220,16 @@
   }
 }
 
-/* TEXTO PRINCIPAL / BIO DO JOGADOR */
+/* BIO (se você ainda estiver usando algum dia) */
 .bio-jogador {
   margin-top: 20px;
-  background: #ffffff;
-  border: 1px solid #d0d0d0;
+  background: var(--surface);
+  border: 1px solid var(--border-soft);
   border-radius: 4px;
   padding: 15px 18px;
   font-size: 0.97rem;
   line-height: 1.5;
+  color: var(--text);
 }
 
 .bio-jogador p {
@@ -199,4 +244,27 @@
   margin-top: 10px;
   font-size: 0.98rem;
   line-height: 1.5;
+  color: var(--text);
+}
+
+.theme-toggle {
+  position: fixed;
+  top: 12px;
+  right: 12px;
+  z-index: 9999;
+
+  border: 1px solid var(--border);
+  background: var(--surface);
+  color: var(--text);
+
+  border-radius: 999px;
+  padding: 8px 10px;
+  cursor: pointer;
+
+  font-size: 16px;
+  line-height: 1;
+}
+
+.theme-toggle:hover {
+  filter: brightness(0.95);
 }

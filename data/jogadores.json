@@ -4,7 +4,7 @@
     "nome_curto": "Gerbito",
     "nome_completo": "Virgil Gerbito Virtonen",
 
-    "descricao_curta": "Virgil Gerbito Virtonen, mais conhecido como Gerbito, é um jogador que atua pelo Norte44 e pela Seleção da Finlândia, jogando como atacante ou ponta.",
+    "descricao_curta": "Virgil Gerbito Virtonen, mais conhecido como Gerbito, é um futebolista finlandês que atua como atacante e ponta pelo Norte44 e pela seleção da Finlândia.",
 
     "legenda_imagem": "Gerbito atuando pelo Norte44 em 2024.",
 
@@ -27,7 +27,7 @@
       {
         "anos": "2016–",
         "clube": "Norte44",
-        "jogos_gols": "541 (494)"
+        "jogos_gols": "711 (672)"
       }
     ],
 
@@ -73,7 +73,7 @@
       {
         "anos": "2020–",
         "clube": "Norte44",
-        "jogos_gols": "—"
+        "jogos_gols": "167 (72)"
       }
     ],
 
@@ -81,12 +81,12 @@
       {
         "anos": "2015–2021",
         "selecao": "Coreia do Sul (base)",
-        "jogos_gols": "—"
+        "jogos_gols": "41 (29)"
       },
       {
-        "anos": "2021–",
+        "anos": "2021– ",
         "selecao": "Coreia do Sul",
-        "jogos_gols": "—"
+        "jogos_gols": "42 (23)"
       }
     ]
   },
@@ -113,11 +113,11 @@
     "posicao": "Goleiro",
     "outras_posicoes": [],
 
-    "clubes_juventude": ["2004–2006 — Arenas Club", "2007–2011 — Norte44"],
+    "clubes_juventude": ["2004 – 2006 — Arenas Club", "2007 – 2011 — Norte44"],
 
     "clubes_profissionais": [
       {
-        "anos": "2011–",
+        "anos": "2011 – ",
         "clube": "Norte44",
         "jogos_gols": "—"
       }
@@ -125,12 +125,12 @@
 
     "selecao_nacional": [
       {
-        "anos": "2012–2013",
+        "anos": "2012 – 2013",
         "selecao": "Espanha (base)",
         "jogos_gols": "—"
       },
       {
-        "anos": "2016–",
+        "anos": "2016 –",
         "selecao": "Espanha",
         "jogos_gols": "—"
       }
@@ -262,7 +262,7 @@
 
     "clubes_profissionais": [
       {
-        "anos": "2021–",
+        "anos": "2021 –",
         "clube": "Norte44",
         "jogos_gols": "—"
       }
@@ -275,7 +275,7 @@
         "jogos_gols": "—"
       },
       {
-        "anos": "2023–",
+        "anos": "2023 –",
         "selecao": "Finlândia",
         "jogos_gols": "—"
       }
@@ -307,9 +307,9 @@
 
     "clubes_profissionais": [
       {
-        "anos": "2024–Presente",
+        "anos": "2024–",
         "clube": "Norte44",
-        "jogos_gols": ""
+        "jogos_gols": "21 (5)"
       },
       {
         "anos": "2025",
@@ -321,9 +321,9 @@
 
     "selecao_nacional": [
       {
-        "anos": "2022–Presente",
+        "anos": "2022–",
         "selecao": "Finlândia (Base)",
-        "jogos_gols": ""
+        "jogos_gols": "54 (43)"
       }
     ]
   },
@@ -416,20 +416,21 @@
 
     "apelido": "",
 
-    "clubes_juventude": ["FC Seoul (2009–2020)"],
+    "clubes_juventude": ["FC Seoul (2009–2019)"],
 
     "clubes_profissionais": [
-      { "anos": "2020–2021", "clube": "Tigers", "jogos_gols": "" },
-      { "anos": "2021–Presente", "clube": "Norte44", "jogos_gols": "" }
+      { "anos": "2019–2020", "clube": "FC Seoul", "jogos_gols": "32 (21)" },
+      { "anos": "2020–2021", "clube": "Tigers", "jogos_gols": "17 (11)" },
+      { "anos": "2021–", "clube": "Norte44", "jogos_gols": "313 (116)" }
     ],
 
     "selecao_nacional": [
       {
         "anos": "2015–2021",
         "selecao": "Coreia do Sul (base)",
-        "jogos_gols": ""
+        "jogos_gols": "53 (38)"
       },
-      { "anos": "2021–Presente", "selecao": "Coreia do Sul", "jogos_gols": "" }
+      { "anos": "2021–", "selecao": "Coreia do Sul", "jogos_gols": "38 (17)" }
     ]
   },
   {
@@ -569,11 +570,11 @@
     ],
 
     "clubes_profissionais": [
-      { "anos": "2011–Presente", "clube": "Norte44", "jogos_gols": "" }
+      { "anos": "2011–", "clube": "Norte44", "jogos_gols": "523 (285)" }
     ],
 
     "selecao_nacional": [
-      { "anos": "2012–Presente", "selecao": "Irlanda", "jogos_gols": "" }
+      { "anos": "2012–", "selecao": "Irlanda", "jogos_gols": "86 (64)" }
     ]
   },
   {
@@ -601,17 +602,17 @@
     "clubes_juventude": ["Norte44 (2016–2021)"],
 
     "clubes_profissionais": [
-      { "anos": "2021–Presente", "clube": "Norte44", "jogos_gols": "" },
+      { "anos": "2021–", "clube": "Norte44", "jogos_gols": "" },
       {
         "anos": "2025",
         "clube": "Tottenham",
-        "jogos_gols": "",
+        "jogos_gols": "19 (1)",
         "emprestimo": true
       }
     ],
 
     "selecao_nacional": [
-      { "anos": "2020–Presente", "selecao": "Estados Unidos", "jogos_gols": "" }
+      { "anos": "2020–", "selecao": "Estados Unidos", "jogos_gols": "38 (12)" }
     ]
   },
   {
@@ -639,12 +640,12 @@
     "clubes_juventude": ["Norte44 (2015–2021)"],
 
     "clubes_profissionais": [
-      { "anos": "2021–Presente", "clube": "Norte44", "jogos_gols": "-" }
+      { "anos": "2021–", "clube": "Norte44", "jogos_gols": "236 (76)" }
     ],
 
     "selecao_nacional": [
-      { "anos": "2017", "selecao": "Finlândia (base)", "jogos_gols": "-" },
-      { "anos": "2022–Presente", "selecao": "Finlândia", "jogos_gols": "—" }
+      { "anos": "2017", "selecao": "Finlândia (base)", "jogos_gols": "6 (0)" },
+      { "anos": "2022–", "selecao": "Finlândia", "jogos_gols": "56 (23)" }
     ]
   },
   {
@@ -676,12 +677,20 @@
     "clubes_juventude": ["Brtlty City (2000)", "Norte44 (2000–2008)"],
 
     "clubes_profissionais": [
-      { "anos": "2008–Presente", "clube": "Norte44", "jogos_gols": "" }
+      { "anos": "2008–", "clube": "Norte44", "jogos_gols": "1115 (1072)" }
     ],
 
     "selecao_nacional": [
-      { "anos": "2007–2010", "selecao": "Finlândia (base)", "jogos_gols": "" },
-      { "anos": "2010–Presente", "selecao": "Finlândia", "jogos_gols": "" }
+      {
+        "anos": "2007–2010",
+        "selecao": "Finlândia (base)",
+        "jogos_gols": "29 (11)"
+      },
+      {
+        "anos": "2010–",
+        "selecao": "Finlândia",
+        "jogos_gols": "168 (134)"
+      }
     ]
   },
   {
@@ -749,11 +758,15 @@
     "clubes_juventude": ["Tampere United (1990–1995)", "Norte44 (1995–1998)"],
 
     "clubes_profissionais": [
-      { "anos": "1998–Presente", "clube": "Norte44", "jogos_gols": "" }
+      { "anos": "1998–", "clube": "Norte44", "jogos_gols": "1201 (781)" }
     ],
 
     "selecao_nacional": [
-      { "anos": "1998–2021", "selecao": "Finlândia", "jogos_gols": "" }
+      {
+        "anos": "1998–2021",
+        "selecao": "Finlândia",
+        "jogos_gols": "209 (171)"
+      }
     ]
   },
   {
@@ -1225,15 +1238,15 @@
     "numero": 25,
     "posicao": "Zagueiro",
     "outras_posicoes": [],
-    "clubes_juventude": ["Vejle (2014 - 2017)", "Norte44 (2017 - 2022)"],
+    "clubes_juventude": ["Vejle (2014–2017)", "Norte44 (2017–2022)"],
     "clubes_profissionais": [
       {
-        "anos": "2022 - Presente",
+        "anos": "2022–",
         "clube": "Norte44",
         "jogos_gols": ""
       },
       {
-        "anos": "2022 - 2024",
+        "anos": "2022–2024",
         "clube": "Tampere United",
         "jogos_gols": "",
         "emprestimo": true
@@ -1241,20 +1254,20 @@
       {
         "anos": "2025",
         "clube": "Brighton & Hove Albion",
-        "jogos_gols": "",
+        "jogos_gols": "18 (0)",
         "emprestimo": true
       }
     ],
     "selecao_nacional": [
       {
-        "anos": "2021 - 2024",
+        "anos": "2021–2024",
         "selecao": "Finlândia (base)",
-        "jogos_gols": ""
+        "jogos_gols": "23 (3)"
       },
       {
-        "anos": "2024 - Presente",
+        "anos": "2024–",
         "selecao": "Finlândia",
-        "jogos_gols": ""
+        "jogos_gols": "9 (0)"
       }
     ],
     "legenda_imagem": "Arthur Skipper pelo Norte44."
@@ -1325,21 +1338,21 @@
     "numero": 19,
     "posicao": "Centroavante",
     "outras_posicoes": ["Atacante"],
-    "clubes_juventude": ["Norte44 (2012 - 2022)"],
+    "clubes_juventude": ["Norte44 (2012–2022)"],
     "clubes_profissionais": [
       {
-        "anos": "2022 - Presente",
+        "anos": "2022–",
         "clube": "Norte44",
-        "jogos_gols": ""
+        "jogos_gols": "102 (59)"
       },
       {
-        "anos": "2022 - 2023",
+        "anos": "2022–2023",
         "clube": "LC United",
         "jogos_gols": "11 (2)",
         "emprestimo": true
       },
       {
-        "anos": "2023 - 2024",
+        "anos": "2023–2024",
         "clube": "Tampere United",
         "jogos_gols": "35 (26)",
         "emprestimo": true
@@ -1347,12 +1360,12 @@
     ],
     "selecao_nacional": [
       {
-        "anos": "2020 - 2023",
+        "anos": "2020–2023",
         "selecao": "Finlândia (base)",
-        "jogos_gols": ""
+        "jogos_gols": "35 (13)"
       },
       {
-        "anos": "2023 - Presente",
+        "anos": "2023–",
         "selecao": "Finlândia",
         "jogos_gols": ""
       }
@@ -2355,7 +2368,7 @@
     "id": "isak_kosko",
     "nome_curto": "Isak Kosko",
     "nome_completo": "Isak Kosko",
-    "descricao_curta": "Isak Kosko é um futebolista finlandês que atua como ala e lateral-esquerdo pelo Barcelona, emprestado pelo Norte44.",
+    "descricao_curta": "Isak Kosko é um futebolista finlandês que atua como ala e lateral-esquerdo pelo Barcelona, emprestado pelo Norte44, e pela seleção da Finlândia.",
     "data_nascimento_iso": "2004-03-15",
     "data_nascimento_texto": "15 de março de 2004",
     "local_nascimento": "Oulu, Pohjois-Pohjanmaa, Finlândia",
@@ -2367,37 +2380,37 @@
     "numero": 2,
     "posicao": "Ala esquerdo",
     "outras_posicoes": ["Lateral esquerdo"],
-    "clubes_juventude": ["Norte44 (2014 - 2023)"],
+    "clubes_juventude": ["Norte44 (2014–2023)"],
     "clubes_profissionais": [
       {
-        "anos": "2023 - Presente",
+        "anos": "2023–",
         "clube": "Norte44",
         "jogos_gols": ""
       },
       {
-        "anos": "2023 - 2024",
+        "anos": "2023–2024",
         "clube": "Tampere United",
-        "jogos_gols": "",
+        "jogos_gols": "28 (2)",
         "emprestimo": true
       },
 
       {
         "anos": "2025",
         "clube": "Barcelona",
-        "jogos_gols": "",
+        "jogos_gols": "23 (7)",
         "emprestimo": true
       }
     ],
     "selecao_nacional": [
       {
-        "anos": "2020 - 2023",
+        "anos": "2020–2023",
         "selecao": "Finlândia (base)",
-        "jogos_gols": ""
+        "jogos_gols": "26 (2)"
       },
       {
-        "anos": "2023 - Presente",
+        "anos": "2023–",
         "selecao": "Finlândia",
-        "jogos_gols": ""
+        "jogos_gols": "3 (0)"
       }
     ],
     "legenda_imagem": "Isak Kosko em ação pelo Norte44."
@@ -2406,7 +2419,7 @@
     "id": "jamie_rasanen",
     "nome_curto": "Jamie Rasanen",
     "nome_completo": "Jamie Hass Rasanen Laitinen",
-    "descricao_curta": "Jamie Hass Rasanen Laitinen é um jovem futebolista finlandês que atua como meia pelo Stuttgart, emprestado pelo Norte44, e integra as categorias de base da seleção da Finlândia.",
+    "descricao_curta": "Jamie Hass Rasanen Laitinen, conhecido como Jamie Rass, é um jovem futebolista finlandês que atua como meia pelo Stuttgart, emprestado pelo Norte44, e integra as categorias de base da seleção da Finlândia.",
     "data_nascimento_iso": "2006-08-12",
     "data_nascimento_texto": "12 de agosto de 2006",
     "local_nascimento": "Kuopio, Savônia do Norte, Finlândia",
@@ -2415,28 +2428,28 @@
     "altura": "2,02 m",
     "apelido": "Jamie",
     "clube_atual": "Stuttgart",
-    "numero": 8,
+    "numero": 28,
     "posicao": "Meia e Meia Atacante",
     "outras_posicoes": [],
-    "clubes_juventude": ["Norte44 (2014 - 2024)"],
+    "clubes_juventude": ["Norte44 (2014–2024)"],
     "clubes_profissionais": [
       {
-        "anos": "2024 - Presente",
+        "anos": "2024–",
         "clube": "Norte44",
         "jogos_gols": ""
       },
       {
         "anos": "2025",
         "clube": "Stuttgart",
-        "jogos_gols": "",
+        "jogos_gols": "10 (0)",
         "emprestimo": true
       }
     ],
     "selecao_nacional": [
       {
-        "anos": "2023 - Presente",
+        "anos": "2023–",
         "selecao": "Finlândia (base)",
-        "jogos_gols": ""
+        "jogos_gols": "12 (2)"
       }
     ],
     "legenda_imagem": "Jamie Rasanen pelo Norte44."
@@ -2444,8 +2457,8 @@
   {
     "id": "emil_korpela",
     "nome_curto": "Emil Korpela",
-    "nome_completo": "Emil Korpela Heino",
-    "descricao_curta": "Emil Korpela Heino é um jovem futebolista finlandês que atua como zagueiro pelo Norte44 e pela seleção da Finlândia.",
+    "nome_completo": "Emil Heino Korpela",
+    "descricao_curta": "Emil Korpela é um jovem futebolista finlandês que atua como zagueiro pelo Norte44 e pela seleção da Finlândia.",
     "data_nascimento_iso": "2007-02-10",
     "data_nascimento_texto": "10 de fevereiro de 2007",
     "local_nascimento": "Jyvaskyla, Keski-Suomi, Finlândia",
@@ -2457,24 +2470,24 @@
     "numero": 32,
     "posicao": "Zagueiro",
     "outras_posicoes": [],
-    "clubes_juventude": ["Norte44 (2015 - 2024)"],
+    "clubes_juventude": ["Norte44 (2015–2024)"],
     "clubes_profissionais": [
       {
-        "anos": "2024 - Presente",
+        "anos": "2024–",
         "clube": "Norte44",
-        "jogos_gols": ""
+        "jogos_gols": "41 (0)"
       }
     ],
     "selecao_nacional": [
       {
-        "anos": "2023 - 2025",
+        "anos": "2023–2025",
         "selecao": "Finlândia (base)",
-        "jogos_gols": ""
+        "jogos_gols": "31 (1)"
       },
       {
-        "anos": "2025 - Presente",
+        "anos": "2025–",
         "selecao": "Finlândia",
-        "jogos_gols": ""
+        "jogos_gols": "5 (0)"
       }
     ],
     "legenda_imagem": "Emil Korpela pelo Norte44."
@@ -2495,19 +2508,19 @@
     "numero": 20,
     "posicao": "Ponta Direita",
     "outras_posicoes": [],
-    "clubes_juventude": ["Norte44 (2013 - 2025)"],
+    "clubes_juventude": ["Norte44 (2013–2025)"],
     "clubes_profissionais": [
       {
-        "anos": "2025 - Presente",
+        "anos": "2025–",
         "clube": "Norte44",
-        "jogos_gols": ""
+        "jogos_gols": "36 (8)"
       }
     ],
     "selecao_nacional": [
       {
-        "anos": "2022 - Presente",
+        "anos": "2022–",
         "selecao": "Finlândia (base)",
-        "jogos_gols": ""
+        "jogos_gols": "50 (11)"
       }
     ],
     "legenda_imagem": "Mita Järvinen pelo Norte44."
@@ -2607,7 +2620,7 @@
     "id": "benjamin_fur",
     "nome_curto": "Benjamin Fur",
     "nome_completo": "Benjamin Saarikko Fur",
-    "descricao_curta": "Benjamin Saarikko Fur é um futebolista finlandês que atua como ponta-esquerda pelo Norte44 e pela seleção da Finlândia.",
+    "descricao_curta": "Benjamin Fur é um futebolista finlandês que atua como ponta-esquerda pelo Norte44 e pela seleção da Finlândia.",
     "data_nascimento_iso": "2002-02-17",
     "data_nascimento_texto": "17 de fevereiro de 2002",
     "local_nascimento": "Central White, Uusimaa, Finlândia",
@@ -2620,37 +2633,37 @@
     "posicao": "Ponta Esquerda",
     "outras_posicoes": ["Meia Atacante", "Atacante"],
     "clubes_juventude": [
-      "FC Vaaranta Juniorit (2010 - 2012)",
-      "Central White (2012 - 2021)"
+      "FC Vaaranta Juniorit (2010–2012)",
+      "Central White (2012–2021)"
     ],
     "clubes_profissionais": [
       {
-        "anos": "2021 - 2025",
+        "anos": "2021–2024",
         "clube": "Central White",
-        "jogos_gols": ""
+        "jogos_gols": "113 (87)"
       },
       {
-        "anos": "2025",
+        "anos": "2024",
         "clube": "Norte44",
-        "jogos_gols": "",
+        "jogos_gols": "4 (0)",
         "emprestimo": true
       },
       {
-        "anos": "2025 - Presente",
+        "anos": "2025–",
         "clube": "Norte44",
-        "jogos_gols": ""
+        "jogos_gols": "30 (18)"
       }
     ],
     "selecao_nacional": [
       {
-        "anos": "2018 - 2023",
+        "anos": "2018–2023",
         "selecao": "Finlândia (base)",
-        "jogos_gols": ""
+        "jogos_gols": "38 (21)"
       },
       {
-        "anos": "2025 - Presente",
+        "anos": "2025–",
         "selecao": "Finlândia",
-        "jogos_gols": ""
+        "jogos_gols": "3 (1)"
       }
     ],
     "legenda_imagem": "Benjamin Fur pelo Norte44."
