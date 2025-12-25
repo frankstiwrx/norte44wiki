@@ -60,7 +60,7 @@
     "nacionalidade": "Sul-coreana",
     "pe": "Destro",
     "altura": "1,87 m",
-    "apelido": "Ninja",
+    "apelido": "",
 
     "clube_atual": "Norte44",
     "numero": "9",
@@ -113,11 +113,11 @@
     "posicao": "Goleiro",
     "outras_posicoes": [],
 
-    "clubes_juventude": ["2004–2006 — Arenas Club", "2007–2011 — Norte44"],
+    "clubes_juventude": ["2004 – 2006 — Arenas Club", "2007 – 2011 — Norte44"],
 
     "clubes_profissionais": [
       {
-        "anos": "2011–",
+        "anos": "2011 – ",
         "clube": "Norte44",
         "jogos_gols": "—"
       }
@@ -125,12 +125,12 @@
 
     "selecao_nacional": [
       {
-        "anos": "2012–2013",
+        "anos": "2012 – 2013",
         "selecao": "Espanha (base)",
         "jogos_gols": "—"
       },
       {
-        "anos": "2016–",
+        "anos": "2016 –",
         "selecao": "Espanha",
         "jogos_gols": "—"
       }
@@ -142,7 +142,7 @@
     "nome_curto": "Rair",
     "nome_completo": "Rair Silva Fernandes",
 
-    "descricao_curta": "Rair é um ex-futebolista português que atuava como lateral-direito. Defendeu clubes como União de Leiria, Braga, Real Sociedad e Norte44, além de representar a Seleção de Portugal entre 2012 e 2023. Seu último clube foi o Norte44.",
+    "descricao_curta": "Rair Silva Fernandes é um ex-futebolista português que atuava como lateral-direito. Defendeu clubes como União de Leiria, Braga, Real Sociedad e Norte44, além de representar a Seleção de Portugal entre 2012 e 2023. Seu último clube foi o Norte44.",
     "legenda_imagem": "Rair em sua última temporada pelo Norte44.",
 
     "data_nascimento_iso": "1991-01-15",
@@ -211,7 +211,7 @@
     "clube_atual": "Norte44",
     "numero": "3",
     "posicao": "Zagueiro",
-    "outras_posicoes": ["Volante", "Lateral-Direito"],
+    "outras_posicoes": ["Volante", "Lateral-direito"],
 
     "clubes_juventude": ["2004–2009 — Norte44"],
 
@@ -242,7 +242,7 @@
     "nome_curto": "Henrique",
     "nome_completo": "Henrique Silva Serafim",
 
-    "descricao_curta": "Henrique é um futebolista brasileiro naturalizado finlandês que atua como zagueiro pelo Norte44 e pela Seleção da Finlândia.",
+    "descricao_curta": "Henrique Silva Serafim é um futebolista brasileiro naturalizado finlandês que atua como zagueiro pelo Norte44 e pela Seleção da Finlândia.",
     "legenda_imagem": "Henrique em partida pelo Norte44 em 2024.",
 
     "data_nascimento_iso": "2003-04-09",
@@ -262,7 +262,7 @@
 
     "clubes_profissionais": [
       {
-        "anos": "2021–",
+        "anos": "2021 –",
         "clube": "Norte44",
         "jogos_gols": "—"
       }
@@ -275,7 +275,7 @@
         "jogos_gols": "—"
       },
       {
-        "anos": "2023–",
+        "anos": "2023 –",
         "selecao": "Finlândia",
         "jogos_gols": "—"
       }
@@ -303,7 +303,7 @@
 
     "apelido": "Heikki",
 
-    "clubes_juventude": ["Norte44 (2016–2024)"],
+    "clubes_juventude": ["Norte44 (2014–2024)"],
 
     "clubes_profissionais": [
       {
@@ -344,12 +344,12 @@
 
     "clube_atual": "Aposentado",
     "numero": "5",
-    "posicao": "Lateral-Esquerdo",
-    "outras_posicoes": ["Lateral-Direito"],
+    "posicao": "Lateral esquerdo",
+    "outras_posicoes": ["Lateral direito"],
 
     "apelido": "",
 
-    "clubes_juventude": ["Eibar (1997–2007)"],
+    "clubes_juventude": ["Eibar (2003–2007)"],
 
     "clubes_profissionais": [
       { "anos": "2007–2010", "clube": "Eibar", "jogos_gols": "" },
@@ -363,7 +363,7 @@
   },
   {
     "id": "roope",
-    "nome_curto": "Roope Caco",
+    "nome_curto": "Roope",
     "nome_completo": "Roope Tamminen",
 
     "descricao_curta": "Roope Tamminen é um futebolista finlandês que atua como meia e defende o Norte44 e a Seleção da Finlândia.",
@@ -379,19 +379,19 @@
     "clube_atual": "Norte44",
     "numero": "6",
     "posicao": "Meia",
-    "outras_posicoes": ["Meia-Atacante"],
+    "outras_posicoes": ["Meia atacante"],
 
-    "apelido": "Caco",
+    "apelido": "",
 
     "clubes_juventude": ["Norte44 (2007–2016)"],
 
     "clubes_profissionais": [
-      { "anos": "2016–", "clube": "Norte44", "jogos_gols": "" }
+      { "anos": "2016–Presente", "clube": "Norte44", "jogos_gols": "" }
     ],
 
     "selecao_nacional": [
       { "anos": "2014–2021", "selecao": "Finlândia (base)", "jogos_gols": "" },
-      { "anos": "2021–", "selecao": "Finlândia", "jogos_gols": "" }
+      { "anos": "2021–Presente", "selecao": "Finlândia", "jogos_gols": "" }
     ]
   },
   {
@@ -416,7 +416,7 @@
 
     "apelido": "",
 
-    "clubes_juventude": ["FC Seoul (2011–2019)"],
+    "clubes_juventude": ["FC Seoul (2009–2019)"],
 
     "clubes_profissionais": [
       { "anos": "2019–2020", "clube": "FC Seoul", "jogos_gols": "32 (21)" },
@@ -450,20 +450,20 @@
 
     "clube_atual": "Norte44",
     "numero": "8",
-    "posicao": "Meia e Volante",
-    "outras_posicoes": ["Meia-Atacante"],
+    "posicao": "Meia e volante",
+    "outras_posicoes": [],
 
     "apelido": "",
 
     "clubes_juventude": ["Norte44 (2009–2015)"],
 
     "clubes_profissionais": [
-      { "anos": "2015–", "clube": "Norte44", "jogos_gols": "" }
+      { "anos": "2015–Presente", "clube": "Norte44", "jogos_gols": "" }
     ],
 
     "selecao_nacional": [
       { "anos": "2013–2015", "selecao": "Finlândia (base)", "jogos_gols": "" },
-      { "anos": "2015–", "selecao": "Austrália", "jogos_gols": "" }
+      { "anos": "2015–Presente", "selecao": "Austrália", "jogos_gols": "" }
     ]
   },
   {
@@ -483,7 +483,7 @@
 
     "clube_atual": "Norte44",
     "numero": "12",
-    "posicao": "Meia e Volante",
+    "posicao": "Meia e volante",
     "outras_posicoes": [],
 
     "apelido": "",
@@ -491,17 +491,18 @@
     "clubes_juventude": ["Ulsan Hyundai (2006–2014)", "Norte44 (2014–2015)"],
 
     "clubes_profissionais": [
-      { "anos": "2015–", "clube": "Norte44", "jogos_gols": "" },
+      { "anos": "2015–2017", "clube": "Norte44", "jogos_gols": "" },
       {
         "anos": "2017–2019",
         "clube": "Ulsan Hyundai",
         "jogos_gols": "",
         "emprestimo": true
-      }
+      },
+      { "anos": "2019–Presente", "clube": "Norte44", "jogos_gols": "" }
     ],
 
     "selecao_nacional": [
-      { "anos": "2018–", "selecao": "Coreia do Sul", "jogos_gols": "" }
+      { "anos": "2018–Presente", "selecao": "Coreia do Sul", "jogos_gols": "" }
     ]
   },
   {
@@ -527,18 +528,18 @@
     "apelido": "",
 
     "clubes_juventude": [
-      "Tampere United (2007–2013)",
+      "Tampere United (2012–2013)",
       "Borussia Dortmund (2013–2014)",
       "Norte44 (2014–2017)"
     ],
 
     "clubes_profissionais": [
-      { "anos": "2017–", "clube": "Norte44", "jogos_gols": "" }
+      { "anos": "2017–Presente", "clube": "Norte44", "jogos_gols": "" }
     ],
 
     "selecao_nacional": [
       { "anos": "2012–2019", "selecao": "Finlândia (base)", "jogos_gols": "" },
-      { "anos": "2019–", "selecao": "Finlândia", "jogos_gols": "" }
+      { "anos": "2019–Presente", "selecao": "Finlândia", "jogos_gols": "" }
     ]
   },
   {
@@ -564,7 +565,7 @@
     "apelido": "",
 
     "clubes_juventude": [
-      "St. Patrick's Athletic (2001–2010)",
+      "St. Patrick's Athletic (2007–2010)",
       "Norte44 (2010–2011)"
     ],
 
@@ -593,7 +594,7 @@
 
     "clube_atual": "Tottenham",
     "numero": "27",
-    "posicao": "Lateral-Direito",
+    "posicao": "Lateral direito",
     "outras_posicoes": [],
 
     "apelido": "",
@@ -673,15 +674,15 @@
 
     "apelido": "",
 
-    "clubes_juventude": ["Brtlty City (2002)", "Norte44 (2002–2009)"],
+    "clubes_juventude": ["Brtlty City (2000)", "Norte44 (2000–2008)"],
 
     "clubes_profissionais": [
-      { "anos": "2009–", "clube": "Norte44", "jogos_gols": "1115 (1072)" }
+      { "anos": "2008–", "clube": "Norte44", "jogos_gols": "1115 (1072)" }
     ],
 
     "selecao_nacional": [
       {
-        "anos": "2008–2010",
+        "anos": "2007–2010",
         "selecao": "Finlândia (base)",
         "jogos_gols": "29 (11)"
       },
@@ -708,8 +709,8 @@
     "altura": "1,82 m",
 
     "clube_atual": "Manchester City",
-    "numero": "20",
-    "posicao": "Atacante e Ponta-Esquerda",
+    "numero": "24",
+    "posicao": "Atacante e ponta",
     "outras_posicoes": [],
 
     "apelido": "",
@@ -724,12 +725,12 @@
         "emprestimo": true
       },
       { "anos": "2018–2025", "clube": "Norte44", "jogos_gols": "" },
-      { "anos": "2025–", "clube": "Manchester City", "jogos_gols": "" }
+      { "anos": "2025–Presente", "clube": "Manchester City", "jogos_gols": "" }
     ],
 
     "selecao_nacional": [
       { "anos": "2014–2020", "selecao": "Espanha (base)", "jogos_gols": "" },
-      { "anos": "2020–", "selecao": "Espanha", "jogos_gols": "" }
+      { "anos": "2020–Presente", "selecao": "Espanha", "jogos_gols": "" }
     ]
   },
   {
@@ -750,9 +751,9 @@
     "clube_atual": "Norte44",
     "numero": "29",
     "posicao": "Atacante",
-    "outras_posicoes": ["Centroavante", "Meia-Atacante", "Ponta-Direita"],
+    "outras_posicoes": ["Centroavante", "Meia atacante"],
 
-    "apelido": "Sankari Nick",
+    "apelido": "",
 
     "clubes_juventude": ["Tampere United (1990–1995)", "Norte44 (1995–1998)"],
 
@@ -793,12 +794,12 @@
     "clubes_juventude": ["Norte44 (2012–2021)"],
 
     "clubes_profissionais": [
-      { "anos": "2021–", "clube": "Norte44", "jogos_gols": "" }
+      { "anos": "2021–Presente", "clube": "Norte44", "jogos_gols": "" }
     ],
 
     "selecao_nacional": [
       { "anos": "2020–2023", "selecao": "Finlândia (base)", "jogos_gols": "" },
-      { "anos": "2024–", "selecao": "Finlândia", "jogos_gols": "" }
+      { "anos": "2024–Presente", "selecao": "Finlândia", "jogos_gols": "" }
     ]
   },
   {
@@ -818,7 +819,7 @@
 
     "clube_atual": "Aposentado",
     "numero": "17",
-    "posicao": "Meia e Meia-Atacante",
+    "posicao": "Meia e meia atacante",
     "outras_posicoes": [],
 
     "apelido": "",
@@ -874,11 +875,11 @@
         "jogos_gols": "",
         "emprestimo": true
       },
-      { "anos": "2020–", "clube": "Norte44", "jogos_gols": "" }
+      { "anos": "2020–Presente", "clube": "Norte44", "jogos_gols": "" }
     ],
 
     "selecao_nacional": [
-      { "anos": "2007–", "selecao": "Finlândia", "jogos_gols": "" }
+      { "anos": "2007–Presente", "selecao": "Finlândia", "jogos_gols": "" }
     ]
   },
   {
@@ -898,8 +899,8 @@
 
     "clube_atual": "Aposentado",
     "numero": "21",
-    "posicao": "Meia-Atacante e Atacante",
-    "outras_posicoes": ["Ponta-Direita"],
+    "posicao": "Meia atacante e atacante",
+    "outras_posicoes": [],
 
     "apelido": "",
 
@@ -930,20 +931,20 @@
 
     "clube_atual": "Norte44",
     "numero": "2",
-    "posicao": "Lateral-Direito",
-    "outras_posicoes": ["Zagueiro"],
+    "posicao": "Lateral direito",
+    "outras_posicoes": ["zagueiro"],
 
     "apelido": "",
 
     "clubes_juventude": ["Norte44 (2010–2018)"],
 
     "clubes_profissionais": [
-      { "anos": "2018–", "clube": "Norte44", "jogos_gols": "" }
+      { "anos": "2018–Presente", "clube": "Norte44", "jogos_gols": "" }
     ],
 
     "selecao_nacional": [
       { "anos": "2010–2018", "selecao": "Finlândia (base)", "jogos_gols": "" },
-      { "anos": "2018–", "selecao": "Finlândia", "jogos_gols": "" }
+      { "anos": "2018–Presente", "selecao": "Finlândia", "jogos_gols": "" }
     ]
   },
   {
@@ -963,15 +964,15 @@
 
     "clube_atual": "Norte44",
     "numero": "22",
-    "posicao": "Meia-Direita",
-    "outras_posicoes": ["Ponta-Direita", "Lateral-Direito", "Lateral-Esquerdo"],
+    "posicao": "Meia direita",
+    "outras_posicoes": ["Lateral direito", "Lateral esquerdo"],
 
     "apelido": "Leo Nick",
 
     "clubes_juventude": ["Norte44 (2009–2017)"],
 
     "clubes_profissionais": [
-      { "anos": "2017–", "clube": "Norte44", "jogos_gols": "" },
+      { "anos": "2017–Presente", "clube": "Norte44", "jogos_gols": "" },
       {
         "anos": "2017–2018",
         "clube": "Real Madrid",
@@ -982,7 +983,7 @@
 
     "selecao_nacional": [
       { "anos": "2009–2017", "selecao": "Finlândia (base)", "jogos_gols": "" },
-      { "anos": "2021–", "selecao": "Finlândia", "jogos_gols": "" }
+      { "anos": "2021–Presente", "selecao": "Finlândia", "jogos_gols": "" }
     ]
   },
   {
@@ -990,8 +991,8 @@
     "nome_curto": "Lucas",
     "nome_completo": "Lucas Ferreira",
 
-    "descricao_curta": "Lucas foi um futebolista português que atuou como zagueiro por Braga e Norte44, além de ter defendido a seleção de Portugal entre 2015 e 2023.",
-    "legenda_imagem": "Lucas em sua passagem pelo Norte44",
+    "descricao_curta": "Lucas Ferreira foi um futebolista português que atuou como zagueiro por Braga e Norte44, além de ter defendido a seleção de Portugal entre 2015 e 2023.",
+    "legenda_imagem": "Lucas Ferreira em sua passagem pelo Norte44",
 
     "data_nascimento_iso": "1990-03-15",
     "data_nascimento_texto": "15 de março de 1990",
@@ -1025,34 +1026,34 @@
     "id": "javier_martinez",
     "nome_curto": "Javier Martínez",
     "nome_completo": "Javier Martinez Arrieta Larrañaga",
-    "descricao_curta": "Javi Martinez é um futebolista francês que atua como zagueiro pelo Norte44 e pela seleção da França.",
+    "descricao_curta": "Javier Martinez Arrieta Larrañaga é um futebolista francês que atua como zagueiro pelo Norte44 e pela seleção da França.",
     "data_nascimento_iso": "2005-04-10",
     "data_nascimento_texto": "10 de abril de 2005",
     "local_nascimento": "País Basco, Aquitânia, França",
     "nacionalidade": "Francês",
     "altura": "1,87 m",
     "pe": "Canhoto",
-    "apelido": "Javi",
+    "apelido": "",
     "clube_atual": "Norte44",
     "numero": 24,
     "posicao": "Zagueiro",
     "outras_posicoes": [],
-    "clubes_juventude": ["AS Bayonne (2016–2021)", "Norte44 (2021–2023)"],
+    "clubes_juventude": ["AS Bayonne (2016 - 2021)", "Norte44 (2021 - 2023)"],
     "clubes_profissionais": [
       {
-        "anos": "2023–",
+        "anos": "2023 - Presente",
         "clube": "Norte44",
         "jogos_gols": ""
       }
     ],
     "selecao_nacional": [
       {
-        "anos": "2021–2023",
+        "anos": "2021 - 2023",
         "selecao": "França (base)",
         "jogos_gols": ""
       },
       {
-        "anos": "2024–",
+        "anos": "2024 - Presente",
         "selecao": "França",
         "jogos_gols": ""
       }
@@ -1073,24 +1074,24 @@
     "apelido": "",
     "clube_atual": "Norte44",
     "numero": 5,
-    "posicao": "Lateral-Esquerdo",
+    "posicao": "Lateral Esquerdo",
     "outras_posicoes": ["Meia"],
-    "clubes_juventude": ["Norte44 (2010–2018)"],
+    "clubes_juventude": ["Norte44 (2010 - 2018)"],
     "clubes_profissionais": [
       {
-        "anos": "2018–",
+        "anos": "2018 - Presente",
         "clube": "Norte44",
         "jogos_gols": ""
       }
     ],
     "selecao_nacional": [
       {
-        "anos": "2017–2018",
+        "anos": "2017 - 2018",
         "selecao": "Finlândia (base)",
         "jogos_gols": ""
       },
       {
-        "anos": "2022",
+        "anos": "2022 - Presente",
         "selecao": "Finlândia",
         "jogos_gols": ""
       }
@@ -1111,24 +1112,27 @@
     "apelido": "",
     "clube_atual": "Norte44",
     "numero": 21,
-    "posicao": "Meia-Atacante",
-    "outras_posicoes": ["Meia"],
-    "clubes_juventude": ["Athletic Club (2013–2015)", "Norte44 (2015–2023)"],
+    "posicao": "Meia",
+    "outras_posicoes": [],
+    "clubes_juventude": [
+      "Atlético Bilbao (2010 - 2015)",
+      "Norte44 (2015 - 2023)"
+    ],
     "clubes_profissionais": [
       {
-        "anos": "2023–",
+        "anos": "2023 - Presente",
         "clube": "Norte44",
         "jogos_gols": ""
       }
     ],
     "selecao_nacional": [
       {
-        "anos": "2015–2018",
+        "anos": "2015 - 2018",
         "selecao": "Espanha (base)",
         "jogos_gols": ""
       },
       {
-        "anos": "2023–",
+        "anos": "2023 - Presente",
         "selecao": "Espanha",
         "jogos_gols": ""
       }
@@ -1151,15 +1155,15 @@
     "numero": 26,
     "posicao": "Volante",
     "outras_posicoes": ["Zagueiro"],
-    "clubes_juventude": ["Seoul FC (2011–2013)", "Norte44 (2013–2020)"],
+    "clubes_juventude": ["Seoul FC (2010 - 2013)", "Norte44 (2013 - 2020)"],
     "clubes_profissionais": [
       {
-        "anos": "2020–",
+        "anos": "2020 - Presente",
         "clube": "Norte44",
         "jogos_gols": ""
       },
       {
-        "anos": "2022–2023",
+        "anos": "2022 - 2023",
         "clube": "Finland Klubi",
         "jogos_gols": "",
         "emprestimo": true
@@ -1167,12 +1171,12 @@
     ],
     "selecao_nacional": [
       {
-        "anos": "2015–2018",
+        "anos": "2015 - 2018",
         "selecao": "Coreia do Sul (base)",
         "jogos_gols": ""
       },
       {
-        "anos": "2023–",
+        "anos": "2023 - Presente",
         "selecao": "Coreia do Sul",
         "jogos_gols": ""
       }
@@ -1195,22 +1199,22 @@
     "numero": 17,
     "posicao": "Meia Atacante",
     "outras_posicoes": ["Meia"],
-    "clubes_juventude": ["Brtlty City (2010–2020)"],
+    "clubes_juventude": ["Brtlty City (2010 - 2020)"],
     "clubes_profissionais": [
       {
-        "anos": "2020–2021",
+        "anos": "2020 - 2021",
         "clube": "Helsinki Rangers",
         "jogos_gols": ""
       },
       {
-        "anos": "2021–",
+        "anos": "2021 - Presente",
         "clube": "Norte44",
         "jogos_gols": ""
       }
     ],
     "selecao_nacional": [
       {
-        "anos": "2022",
+        "anos": "2022 - Presente",
         "selecao": "Finlândia",
         "jogos_gols": ""
       }
@@ -1228,7 +1232,7 @@
     "nacionalidade": "Finlandês e Dinamarquês",
     "altura": "1,94 m",
     "pe": "Destro",
-    "apelido": "Kips",
+    "apelido": "",
     "clube_atual": "Norte44",
     "numero": 25,
     "posicao": "Zagueiro",
@@ -1282,22 +1286,22 @@
     "clube_atual": "Norte44",
     "numero": 18,
     "posicao": "Meia",
-    "outras_posicoes": ["Volante", "Lateral-Esquerdo", "Zagueiro"],
-    "clubes_juventude": ["Norte44 (2011–2021)"],
+    "outras_posicoes": ["Volante", "Lateral Esquerdo", "Zagueiro"],
+    "clubes_juventude": ["Norte44 (2011 - 2021)"],
     "clubes_profissionais": [
       {
-        "anos": "2021–",
+        "anos": "2021 - Presente",
         "clube": "Norte44",
         "jogos_gols": ""
       },
       {
-        "anos": "2021–2022",
+        "anos": "2021 - 2022",
         "clube": "Pohjoinen Adidas",
         "jogos_gols": "",
         "emprestimo": true
       },
       {
-        "anos": "2022–2024",
+        "anos": "2022 - 2024",
         "clube": "Tampere United",
         "jogos_gols": "",
         "emprestimo": true
@@ -1305,12 +1309,12 @@
     ],
     "selecao_nacional": [
       {
-        "anos": "2018–2022",
+        "anos": "2018 - 2022",
         "selecao": "Finlândia (base)",
         "jogos_gols": ""
       },
       {
-        "anos": "2024–",
+        "anos": "2024 - Presente",
         "selecao": "Finlândia",
         "jogos_gols": ""
       }
@@ -1333,7 +1337,7 @@
     "numero": 19,
     "posicao": "Centroavante",
     "outras_posicoes": ["Atacante"],
-    "clubes_juventude": ["Central White (2013–2014)", "Norte44 (2014–2022)"],
+    "clubes_juventude": ["Central White (2010–2012)", "Norte44 (2012–2022)"],
     "clubes_profissionais": [
       {
         "anos": "2022–",
@@ -1383,27 +1387,27 @@
     "numero": 19,
     "posicao": "Centroavante",
     "outras_posicoes": [],
-    "clubes_juventude": ["Norte44 (2008–2021)"],
+    "clubes_juventude": ["Norte44 (2008 - 2021)"],
     "clubes_profissionais": [
       {
-        "anos": "2021–2025",
+        "anos": "2021 - 2025",
         "clube": "Norte44",
         "jogos_gols": ""
       },
       {
-        "anos": "2025–",
+        "anos": "2025 - Presente",
         "clube": "Tampere United",
         "jogos_gols": ""
       }
     ],
     "selecao_nacional": [
       {
-        "anos": "2016–2020",
+        "anos": "2016 - 2020",
         "selecao": "Finlândia (base)",
         "jogos_gols": ""
       },
       {
-        "anos": "2022–Presente",
+        "anos": "2022 - Presente",
         "selecao": "Finlândia",
         "jogos_gols": ""
       }
@@ -1424,12 +1428,15 @@
     "apelido": "",
     "clube_atual": "Norte44",
     "numero": 23,
-    "posicao": "Lateral-Esquerdo",
+    "posicao": "Lateral Esquerdo",
     "outras_posicoes": [],
-    "clubes_juventude": ["AEK Atenas (2005–2013)", "Schalke 04 (2013–2015)"],
+    "clubes_juventude": [
+      "AEK Atenas (2005 - 2013)",
+      "Schalke 04 (2013 - 2015)"
+    ],
     "clubes_profissionais": [
       {
-        "anos": "2015–2017",
+        "anos": "2015 - 2017",
         "clube": "Schalke 04",
         "jogos_gols": ""
       },
@@ -1439,19 +1446,19 @@
         "jogos_gols": ""
       },
       {
-        "anos": "2017–",
+        "anos": "2017 - Presente",
         "clube": "Norte44",
         "jogos_gols": ""
       }
     ],
     "selecao_nacional": [
       {
-        "anos": "2014–2017",
+        "anos": "2014 - 2017",
         "selecao": "Grécia (base)",
         "jogos_gols": ""
       },
       {
-        "anos": "2018–",
+        "anos": "2018 - Presente",
         "selecao": "Grécia",
         "jogos_gols": ""
       }
@@ -1469,32 +1476,32 @@
     "nacionalidade": "Italiano e Finlandês",
     "altura": "1,75 m",
     "pe": "Destro",
-    "apelido": "",
+    "apelido": "Bertinella",
     "clube_atual": "Tigers",
     "numero": 15,
     "posicao": "Meia-Atacante",
-    "outras_posicoes": ["Meia"],
-    "clubes_juventude": ["Brescia (2003–2007)", "Norte44 (2007–2012)"],
+    "outras_posicoes": [],
+    "clubes_juventude": ["Brescia (2003 - 2007)", "Norte44 (2007 - 2012)"],
     "clubes_profissionais": [
       {
-        "anos": "2012–2017",
+        "anos": "2012 - 2017",
         "clube": "Norte44",
         "jogos_gols": ""
       },
       {
-        "anos": "2017–",
+        "anos": "2017 - Presente",
         "clube": "Tigers",
         "jogos_gols": ""
       }
     ],
     "selecao_nacional": [
       {
-        "anos": "2010–2015",
+        "anos": "2010 - 2015",
         "selecao": "Itália (base)",
         "jogos_gols": ""
       },
       {
-        "anos": "2017–",
+        "anos": "2018 - Presente",
         "selecao": "Finlândia",
         "jogos_gols": ""
       }
@@ -1517,22 +1524,22 @@
     "numero": 8,
     "posicao": "Meia",
     "outras_posicoes": [],
-    "clubes_juventude": ["Norte44 (1991–2000)"],
+    "clubes_juventude": ["Norte44 (1994 - 2000)"],
     "clubes_profissionais": [
       {
-        "anos": "2000–2019",
+        "anos": "2000 - 2019",
         "clube": "Norte44",
         "jogos_gols": ""
       },
       {
-        "anos": "2019–",
+        "anos": "2019 - Presente",
         "clube": "Tigers",
         "jogos_gols": ""
       }
     ],
     "selecao_nacional": [
       {
-        "anos": "2003–2020",
+        "anos": "2003 - 2020",
         "selecao": "Finlândia",
         "jogos_gols": ""
       }
@@ -1555,27 +1562,27 @@
     "numero": 33,
     "posicao": "Zagueiro",
     "outras_posicoes": [],
-    "clubes_juventude": ["Estoril (2000–2005)"],
+    "clubes_juventude": ["Estoril (2000 - 2005)"],
     "clubes_profissionais": [
       {
-        "anos": "2005–2008",
+        "anos": "2005 - 2008",
         "clube": "Estoril",
         "jogos_gols": ""
       },
       {
-        "anos": "2008–2017",
+        "anos": "2008 - 2017",
         "clube": "Gogos Sport",
         "jogos_gols": ""
       },
       {
-        "anos": "2017–2024",
+        "anos": "2017 - 2024",
         "clube": "Norte44",
         "jogos_gols": ""
       }
     ],
     "selecao_nacional": [
       {
-        "anos": "2014–2021",
+        "anos": "2014 - 2021",
         "selecao": "Portugal",
         "jogos_gols": ""
       }
@@ -1593,37 +1600,37 @@
     "nacionalidade": "Finlandês",
     "altura": "1,88 m",
     "pe": "Destro",
-    "apelido": "",
+    "apelido": "Gebirge",
     "clube_atual": "Aposentado",
     "numero": 4,
     "posicao": "Zagueiro",
     "outras_posicoes": [],
-    "clubes_juventude": ["Norte44 (1990–2000)"],
+    "clubes_juventude": ["Norte44 (1990 - 2000)"],
     "clubes_profissionais": [
       {
-        "anos": "2000–2010",
+        "anos": "2000 - 2010",
         "clube": "Norte44",
         "jogos_gols": ""
       },
       {
-        "anos": "2010–2012",
+        "anos": "2010 - 2012",
         "clube": "Barcelona",
         "jogos_gols": ""
       },
       {
-        "anos": "2012–2016",
+        "anos": "2012 - 2016",
         "clube": "Chelsea",
         "jogos_gols": ""
       },
       {
-        "anos": "2016–2020",
+        "anos": "2016 - 2020",
         "clube": "Norte44",
         "jogos_gols": ""
       }
     ],
     "selecao_nacional": [
       {
-        "anos": "1999–2015",
+        "anos": "1999 - 2015",
         "selecao": "Finlândia",
         "jogos_gols": ""
       }
@@ -1641,32 +1648,32 @@
     "nacionalidade": "Finlandês",
     "altura": "1,87 m",
     "pe": "Canhoto",
-    "apelido": "",
+    "apelido": "Deeso",
     "clube_atual": "Tigers",
     "numero": 13,
     "posicao": "Goleiro",
     "outras_posicoes": [],
-    "clubes_juventude": ["Gogos Sport (1995–2003)"],
+    "clubes_juventude": ["Gogos Sport (1995 - 2003)"],
     "clubes_profissionais": [
       {
-        "anos": "2003–2010",
+        "anos": "2003 - 2010",
         "clube": "Gogos Sport",
         "jogos_gols": ""
       },
       {
-        "anos": "2010–2015",
+        "anos": "2010 - 2015",
         "clube": "Norte44",
         "jogos_gols": ""
       },
       {
-        "anos": "2015–",
+        "anos": "2015 - Presente",
         "clube": "Tigers",
         "jogos_gols": ""
       }
     ],
     "selecao_nacional": [
       {
-        "anos": "2012–2015",
+        "anos": "2012 - 2015",
         "selecao": "Finlândia",
         "jogos_gols": ""
       }
@@ -1684,37 +1691,37 @@
     "nacionalidade": "Finlandês",
     "altura": "1,80 m",
     "pe": "Destro",
-    "apelido": "The Little One",
+    "apelido": "Ganaz",
     "clube_atual": "Tigers",
     "numero": 3,
     "posicao": "Zagueiro",
-    "outras_posicoes": ["Volante"],
-    "clubes_juventude": ["Gogos Sport (1998–2005)"],
+    "outras_posicoes": [],
+    "clubes_juventude": ["Gogos Sport (1998 - 2005)"],
     "clubes_profissionais": [
       {
-        "anos": "2005–2008",
+        "anos": "2005 - 2008",
         "clube": "Tempere United",
         "jogos_gols": ""
       },
       {
-        "anos": "2008–2011",
+        "anos": "2008 - 2011",
         "clube": "Brtlty City",
         "jogos_gols": ""
       },
       {
-        "anos": "2011–2018",
+        "anos": "2011 - 2018",
         "clube": "Norte44",
         "jogos_gols": ""
       },
       {
-        "anos": "2018–",
+        "anos": "2018 - Atual",
         "clube": "Tigers",
         "jogos_gols": ""
       }
     ],
     "selecao_nacional": [
       {
-        "anos": "2012–2018",
+        "anos": "2012 - 2018",
         "selecao": "Finlândia",
         "jogos_gols": ""
       }
@@ -1732,37 +1739,37 @@
     "nacionalidade": "Finlandês",
     "altura": "1,74 m",
     "pe": "Destro",
-    "apelido": "",
+    "apelido": "Horacio",
     "clube_atual": "Aposentado",
     "numero": 11,
-    "posicao": "Meia-Atacante",
+    "posicao": "Meia Atacante",
     "outras_posicoes": [],
-    "clubes_juventude": ["Norte44 (1989–1998)"],
+    "clubes_juventude": ["Norte44 (1989 - 1998)"],
     "clubes_profissionais": [
       {
-        "anos": "1998–2018",
+        "anos": "1998 - 2018",
         "clube": "Norte44",
         "jogos_gols": ""
       },
       {
-        "anos": "2020–2021",
+        "anos": "2020 - 2021",
         "clube": "Helsinki Rangers",
         "jogos_gols": ""
       },
       {
-        "anos": "2022–2024",
+        "anos": "2022 - 2024",
         "clube": "Tampere United",
         "jogos_gols": ""
       }
     ],
     "selecao_nacional": [
       {
-        "anos": "1997–2007",
+        "anos": "1997 - 2007",
         "selecao": "Finlândia (base)",
         "jogos_gols": ""
       },
       {
-        "anos": "2008–2019",
+        "anos": "2008 - 2019",
         "selecao": "Finlândia",
         "jogos_gols": ""
       }
@@ -1780,42 +1787,42 @@
     "nacionalidade": "Sul-coreano",
     "altura": "1,83 m",
     "pe": "Destro",
-    "apelido": "",
+    "apelido": "Young",
     "clube_atual": "Tigers",
     "numero": 10,
     "posicao": "Atacante",
     "outras_posicoes": ["Ponta", "Centroavante"],
-    "clubes_juventude": ["HM Jeonbuk (2002–2011)"],
+    "clubes_juventude": ["HM Jeonbuk (2002 - 2011)"],
     "clubes_profissionais": [
       {
-        "anos": "2011–2013",
+        "anos": "2011 - 2013",
         "clube": "HM Jeonbuk",
         "jogos_gols": ""
       },
       {
-        "anos": "2013–2018",
+        "anos": "2013 - 2018",
         "clube": "Norte44",
         "jogos_gols": ""
       },
       {
-        "anos": "2018–2019",
+        "anos": "2018 - 2019",
         "clube": "Finland Club",
         "jogos_gols": ""
       },
       {
-        "anos": "2019–",
+        "anos": "2019 - Presente",
         "clube": "Tigers",
         "jogos_gols": ""
       }
     ],
     "selecao_nacional": [
       {
-        "anos": "2007–2012",
+        "anos": "2007 - 2012",
         "selecao": "Coreia do Sul (base)",
         "jogos_gols": ""
       },
       {
-        "anos": "2013–",
+        "anos": "2013 - Presente",
         "selecao": "Coreia do Sul",
         "jogos_gols": ""
       }
@@ -1838,37 +1845,37 @@
     "numero": 3,
     "posicao": "Zagueiro",
     "outras_posicoes": [],
-    "clubes_juventude": ["FC Kiisto (2000–2003)", "Norte44 (2003–2011)"],
+    "clubes_juventude": ["FC Kiisto (2000 - 2003)", "Norte44 (2003 - 2011)"],
     "clubes_profissionais": [
       {
-        "anos": "2011–2014",
+        "anos": "2011 - 2014",
         "clube": "FC Kiisto",
         "jogos_gols": ""
       },
       {
-        "anos": "2014–2019",
+        "anos": "2014 - 2019",
         "clube": "Norte44",
         "jogos_gols": ""
       },
       {
-        "anos": "2019–2023",
+        "anos": "2019 - 2023",
         "clube": "Tigers",
         "jogos_gols": ""
       },
       {
-        "anos": "2023–",
+        "anos": "2023 - Presente",
         "clube": "Tampere United",
         "jogos_gols": ""
       }
     ],
     "selecao_nacional": [
       {
-        "anos": "2008–2012",
+        "anos": "2008 - 2012",
         "selecao": "Finlândia (base)",
         "jogos_gols": ""
       },
       {
-        "anos": "2016–",
+        "anos": "2016 - Presente",
         "selecao": "Finlândia",
         "jogos_gols": ""
       }
@@ -1891,27 +1898,27 @@
     "numero": 9,
     "posicao": "Centroavante",
     "outras_posicoes": [],
-    "clubes_juventude": ["Norte44 (1994–2001)"],
+    "clubes_juventude": ["Norte44 (1994 - 2001)"],
     "clubes_profissionais": [
       {
-        "anos": "2001–2016",
+        "anos": "2001 - 2016",
         "clube": "Norte44",
         "jogos_gols": ""
       },
       {
-        "anos": "2016–2019",
+        "anos": "2016 - 2019",
         "clube": "Gogos Sport",
         "jogos_gols": ""
       },
       {
-        "anos": "2019–",
+        "anos": "2019 - Presente",
         "clube": "LC United",
         "jogos_gols": ""
       }
     ],
     "selecao_nacional": [
       {
-        "anos": "2002–2014",
+        "anos": "2002 - 2014",
         "selecao": "Finlândia",
         "jogos_gols": ""
       }
@@ -1934,32 +1941,32 @@
     "numero": 9,
     "posicao": "Centroavante",
     "outras_posicoes": [],
-    "clubes_juventude": ["Norte44 (1988–1998)"],
+    "clubes_juventude": ["Norte44 (1988 - 1998)"],
     "clubes_profissionais": [
       {
-        "anos": "1998–2017",
+        "anos": "1998 - 2017",
         "clube": "Norte44",
         "jogos_gols": ""
       },
       {
-        "anos": "2017–2020",
+        "anos": "2017 - 2020",
         "clube": "Tigers",
         "jogos_gols": ""
       },
       {
-        "anos": "2020–2022",
+        "anos": "2020 - 2022",
         "clube": "Brtlty City",
         "jogos_gols": ""
       },
       {
-        "anos": "2022–",
+        "anos": "2022 - Presente",
         "clube": "Tigers",
         "jogos_gols": ""
       }
     ],
     "selecao_nacional": [
       {
-        "anos": "1998–2016",
+        "anos": "1998 - 2016",
         "selecao": "Finlândia",
         "jogos_gols": ""
       }
@@ -1982,47 +1989,50 @@
     "numero": 8,
     "posicao": "Meia e Volante",
     "outras_posicoes": [],
-    "clubes_juventude": ["Real Sociedad (1997–2004)", "Norte44 (2004–2008)"],
+    "clubes_juventude": [
+      "Real Sociedad (1997 - 2004)",
+      "Norte44 (2004 - 2008)"
+    ],
     "clubes_profissionais": [
       {
-        "anos": "2008–2014",
+        "anos": "2008 - 2014",
         "clube": "Norte44",
         "jogos_gols": ""
       },
       {
-        "anos": "2014–2016",
+        "anos": "2014 - 2016",
         "clube": "Atlético Madrid",
         "jogos_gols": ""
       },
       {
-        "anos": "2016–2017",
+        "anos": "2016 - 2017",
         "clube": "Manchester City",
         "jogos_gols": ""
       },
       {
-        "anos": "2017–2018",
+        "anos": "2017 - 2018",
         "clube": "Real Sociedad",
         "jogos_gols": ""
       },
       {
-        "anos": "2018–2023",
+        "anos": "2018 - 2023",
         "clube": "LC United",
         "jogos_gols": ""
       },
       {
-        "anos": "2023–",
+        "anos": "2023 - Presente",
         "clube": "Tampere United",
         "jogos_gols": ""
       }
     ],
     "selecao_nacional": [
       {
-        "anos": "2004–2008",
+        "anos": "2004 - 2008",
         "selecao": "Espanha (base)",
         "jogos_gols": ""
       },
       {
-        "anos": "2019–",
+        "anos": "2019 - Presente",
         "selecao": "Finlândia",
         "jogos_gols": ""
       }
@@ -2043,23 +2053,23 @@
     "apelido": "",
     "clube_atual": "Tigers",
     "numero": 11,
-    "posicao": "Atacante e Ponta-Direita",
+    "posicao": "Atacante e Ponta direita",
     "outras_posicoes": [],
-    "clubes_juventude": ["Zenit (2007–2012)", "Tigers (2012–2015)"],
+    "clubes_juventude": ["Zenit (2007 - 2012)", "Tigers (2012 - 2015)"],
     "clubes_profissionais": [
       {
-        "anos": "2015–",
+        "anos": "2015 - Presente",
         "clube": "Tigers",
         "jogos_gols": ""
       },
       {
-        "anos": "2016–2017",
+        "anos": "2016 - 2017",
         "clube": "Zenit",
         "jogos_gols": "",
         "emprestimo": true
       },
       {
-        "anos": "2019",
+        "anos": "2018 - 2019",
         "clube": "Norte44",
         "jogos_gols": "",
         "emprestimo": true
@@ -2067,12 +2077,12 @@
     ],
     "selecao_nacional": [
       {
-        "anos": "2013–2017",
+        "anos": "2013 - 2017",
         "selecao": "Rússia (base)",
         "jogos_gols": ""
       },
       {
-        "anos": "2017–",
+        "anos": "2017 - Presente",
         "selecao": "Rússia",
         "jogos_gols": ""
       }
@@ -2090,37 +2100,37 @@
     "nacionalidade": "Finlandês",
     "pe": "Canhoto",
     "altura": "1,84 m",
-    "apelido": "",
+    "apelido": "Wisdom",
     "clube_atual": "Tampere United",
     "numero": 6,
-    "posicao": "Lateral-Esquerdo",
-    "outras_posicoes": ["Zagueiro"],
-    "clubes_juventude": ["Tampere United (2006–2015)"],
+    "posicao": "Lateral esquerdo",
+    "outras_posicoes": [],
+    "clubes_juventude": ["Tampere United (2006 - 2015)"],
     "clubes_profissionais": [
       {
-        "anos": "2015–2020",
+        "anos": "2015 - 2020",
         "clube": "Tampere United",
         "jogos_gols": ""
       },
       {
-        "anos": "2020–2023",
+        "anos": "2020 - 2023",
         "clube": "Finland Klubi",
         "jogos_gols": ""
       },
       {
-        "anos": "2023–",
+        "anos": "2023 - Presente",
         "clube": "Tampere United",
         "jogos_gols": ""
       }
     ],
     "selecao_nacional": [
       {
-        "anos": "2014–2015",
+        "anos": "2014 - 2015",
         "selecao": "Finlândia (base)",
         "jogos_gols": ""
       },
       {
-        "anos": "2017–",
+        "anos": "2017 - Presente",
         "selecao": "Finlândia",
         "jogos_gols": ""
       }
@@ -2143,22 +2153,22 @@
     "numero": 2,
     "posicao": "Lateral direito",
     "outras_posicoes": [],
-    "clubes_juventude": ["LC United (2002–2014)"],
+    "clubes_juventude": ["LC United (2002 - 2014)"],
     "clubes_profissionais": [
       {
-        "anos": "2014–",
+        "anos": "2014 - Presente",
         "clube": "LC United",
         "jogos_gols": ""
       }
     ],
     "selecao_nacional": [
       {
-        "anos": "2013–2017",
+        "anos": "2013 - 2017",
         "selecao": "Finlândia (base)",
         "jogos_gols": ""
       },
       {
-        "anos": "2017–",
+        "anos": "2017 - Presente",
         "selecao": "Finlândia",
         "jogos_gols": ""
       }
@@ -2181,25 +2191,25 @@
     "numero": 10,
     "posicao": "Atacante e Ponta-Esquerda",
     "outras_posicoes": ["Meia-Atacante"],
-    "clubes_juventude": ["Helsinki Rangers (1997–2005)"],
+    "clubes_juventude": ["Helsinki Rangers (1995 - 2005)"],
     "clubes_profissionais": [
       {
-        "anos": "2005–2007",
+        "anos": "2005 - 2007",
         "clube": "Helsinki Rangers",
         "jogos_gols": ""
       },
       {
-        "anos": "2007–2011",
+        "anos": "2007 - 2011",
         "clube": "Pohjoinen Adidas",
         "jogos_gols": ""
       },
       {
-        "anos": "2011–2023",
+        "anos": "2011 - 2023",
         "clube": "LC United",
         "jogos_gols": ""
       },
       {
-        "anos": "2023–2024",
+        "anos": "2023 - 2024",
         "clube": "Tampere United",
         "jogos_gols": ""
       },
@@ -2210,19 +2220,19 @@
         "emprestimo": true
       },
       {
-        "anos": "2024–",
+        "anos": "2024 - Presente",
         "clube": "Liverpool",
         "jogos_gols": ""
       }
     ],
     "selecao_nacional": [
       {
-        "anos": "2004–2007",
+        "anos": "2004 - 2007",
         "selecao": "Finlândia (base)",
         "jogos_gols": ""
       },
       {
-        "anos": "2007–",
+        "anos": "2007 - Presente",
         "selecao": "Finlândia",
         "jogos_gols": ""
       }
@@ -2245,37 +2255,40 @@
     "numero": 1,
     "posicao": "Goleiro",
     "outras_posicoes": [],
-    "clubes_juventude": ["Tampere United (2002–2009)", "LC United (2009–2012)"],
+    "clubes_juventude": [
+      "Tampere United (2002 - 2009)",
+      "LC United (2009 - 2012)"
+    ],
     "clubes_profissionais": [
       {
-        "anos": "2012–2016",
+        "anos": "2012 - 2016",
         "clube": "LC United",
         "jogos_gols": ""
       },
       {
-        "anos": "2016–2019",
+        "anos": "2016 - 2019",
         "clube": "Tampere United",
         "jogos_gols": ""
       },
       {
-        "anos": "2019–2022",
+        "anos": "2019 - 2022",
         "clube": "LC United",
         "jogos_gols": ""
       },
       {
-        "anos": "2022–",
+        "anos": "2022 - Presente",
         "clube": "Tampere United",
         "jogos_gols": ""
       }
     ],
     "selecao_nacional": [
       {
-        "anos": "2012–2014",
+        "anos": "2012 - 2014",
         "selecao": "Finlândia (base)",
         "jogos_gols": ""
       },
       {
-        "anos": "2016–",
+        "anos": "2016 - Presente",
         "selecao": "Finlândia",
         "jogos_gols": ""
       }
@@ -2296,54 +2309,54 @@
     "apelido": "Kazu",
     "clube_atual": "Tampere United",
     "numero": 22,
-    "posicao": "Ala-Direita",
-    "outras_posicoes": ["Lateral-Direito", "Ponta-Direita"],
-    "clubes_juventude": ["FC Tokyo (2002–2007)"],
+    "posicao": "Ala direita",
+    "outras_posicoes": ["Lateral e Ponta Direita"],
+    "clubes_juventude": ["FC Tokyo (2002 - 2007)"],
     "clubes_profissionais": [
       {
-        "anos": "2007–2008",
+        "anos": "2007 - 2008",
         "clube": "FC Tokyo",
         "jogos_gols": ""
       },
       {
-        "anos": "2008–2009",
+        "anos": "2008 - 2009",
         "clube": "Norte44",
         "jogos_gols": ""
       },
       {
-        "anos": "2009–2012",
+        "anos": "2009 - 2012",
         "clube": "Real Madrid",
         "jogos_gols": ""
       },
       {
-        "anos": "2012–2015",
+        "anos": "2012 - 2015",
         "clube": "FC Tokyo",
         "jogos_gols": ""
       },
       {
-        "anos": "2015–2016",
+        "anos": "2015 - 2016",
         "clube": "Tottenham",
         "jogos_gols": ""
       },
       {
-        "anos": "2016–2017",
+        "anos": "2016 - 2017",
         "clube": "Arsenal",
         "jogos_gols": ""
       },
       {
-        "anos": "2017–2022",
+        "anos": "2017 - 2022",
         "clube": "Tigers",
         "jogos_gols": ""
       },
       {
-        "anos": "2022–",
+        "anos": "2022 - Presente",
         "clube": "Tampere United",
         "jogos_gols": ""
       }
     ],
     "selecao_nacional": [
       {
-        "anos": "2016–",
+        "anos": "2016 - Presente",
         "selecao": "Japão",
         "jogos_gols": ""
       }
@@ -2364,8 +2377,8 @@
     "apelido": "",
     "clube_atual": "Barcelona",
     "numero": 2,
-    "posicao": "Ala-Esquerdo",
-    "outras_posicoes": ["Lateral-Esquerdo"],
+    "posicao": "Ala esquerdo",
+    "outras_posicoes": ["Lateral esquerdo"],
     "clubes_juventude": ["Norte44 (2014–2023)"],
     "clubes_profissionais": [
       {
@@ -2410,7 +2423,7 @@
     "data_nascimento_texto": "12 de agosto de 2006",
     "local_nascimento": "Kuopio, Savônia do Norte, Finlândia",
     "nacionalidade": "Finlandês",
-    "pe": "Canhoto",
+    "pe": "Direito",
     "altura": "2,02 m",
     "apelido": "Jamie",
     "clube_atual": "Stuttgart",
@@ -2492,7 +2505,7 @@
     "apelido": "Mita",
     "clube_atual": "Norte44",
     "numero": 20,
-    "posicao": "Ponta-Direita",
+    "posicao": "Ponta Direita",
     "outras_posicoes": [],
     "clubes_juventude": ["Norte44 (2013–2025)"],
     "clubes_profissionais": [
@@ -2526,22 +2539,22 @@
     "clube_atual": "FS Strikers FC",
     "numero": 9,
     "posicao": "Atacante",
-    "outras_posicoes": ["Meia-Atacante", "Ponta"],
-    "clubes_juventude": ["Brtlty City (2001–2003)", "Norte44 (2003–2015)"],
+    "outras_posicoes": [],
+    "clubes_juventude": ["Brtlty City (1996 – 1999)", "Norte44 (1999 – 2015)"],
     "clubes_profissionais": [
       {
-        "anos": "2015–2018",
+        "anos": "2015 – 2018",
         "clube": "Norte44",
         "jogos_gols": ""
       },
       {
-        "anos": "2015–2016",
+        "anos": "2015 – 2016",
         "clube": "Brtlty City",
         "jogos_gols": "",
         "emprestimo": true
       },
       {
-        "anos": "2016–2017",
+        "anos": "2016 – 2017",
         "clube": "Finland Klubi",
         "jogos_gols": "",
         "emprestimo": true
@@ -2553,18 +2566,18 @@
         "emprestimo": true
       },
       {
-        "anos": "2018–2021",
+        "anos": "2018 - 2021",
         "clube": "FC Kiisto",
         "jogos_gols": ""
       },
       {
-        "anos": "2019–2020",
+        "anos": "2019 – 2020",
         "clube": "SJK",
         "jogos_gols": "",
         "emprestimo": true
       },
       {
-        "anos": "2020–2021",
+        "anos": "2020 – 2021",
         "clube": "Varkaus Eagles",
         "jogos_gols": "",
         "emprestimo": true
@@ -2582,20 +2595,20 @@
         "emprestimo": true
       },
       {
-        "anos": "2021–2022",
+        "anos": "2021 – 2022",
         "clube": "FS Strikers FC",
         "jogos_gols": "",
         "emprestimo": true
       },
       {
-        "anos": "2022–",
+        "anos": "2022 – Presente",
         "clube": "FS Strikers FC",
         "jogos_gols": ""
       }
     ],
     "selecao_nacional": [
       {
-        "anos": "2003–2008",
+        "anos": "2003 – 2008",
         "selecao": "Finlândia (base)",
         "jogos_gols": ""
       }
@@ -2616,8 +2629,8 @@
     "apelido": "",
     "clube_atual": "Norte44",
     "numero": 27,
-    "posicao": "Ponta-Esquerda",
-    "outras_posicoes": ["Meia-Atacante", "Atacante"],
+    "posicao": "Ponta Esquerda",
+    "outras_posicoes": ["Meia Atacante", "Atacante"],
     "clubes_juventude": [
       "FC Vaaranta Juniorit (2010–2012)",
       "Central White (2012–2021)"
