@@ -622,9 +622,9 @@
   {
     "id": "kurzakov",
     "nome_curto": "Kurzakov",
-    "nome_completo": "Michael Kurzakov Hämäläinen",
+    "nome_completo": "Michael Kurzakov",
 
-    "descricao_curta": "Michael Kurzakov Hämäläinen é um futebolista finlandês com ascendência ucraniana que atua como atacante e ponta esquerda pelo Norte44 e pela seleção da Finlândia.",
+    "descricao_curta": "Michael Kurzakov é um futebolista finlandês com ascendência ucraniana que atua como atacante e ponta esquerda pelo Norte44 e pela seleção da Finlândia.",
     "legenda_imagem": "Kurzakov em partida pelo Norte44",
 
     "data_nascimento_iso": "2002-09-15",
@@ -1103,7 +1103,7 @@
         "jogos_gols": ""
       }
     ],
-    "legenda_imagem": "Raul Renoir pelo Norte44."
+    "legenda_imagem": "Raul Renoir pelo Norte44 em 2022."
   },
   {
     "id": "jokin_martinez",
@@ -1464,7 +1464,7 @@
         "jogos_gols": ""
       }
     ],
-    "legenda_imagem": "Alex Draki pelo Norte44."
+    "legenda_imagem": "Alex Draki pelo Norte44 em 2022."
   },
   {
     "id": "bertinella",
@@ -1588,7 +1588,7 @@
         "jogos_gols": ""
       }
     ],
-    "legenda_imagem": "Ciro em sua passagem pelo Norte44."
+    "legenda_imagem": "Ciro em sua passagem pelo Norte44 em 2016."
   },
   {
     "id": "gebirge",
@@ -1679,7 +1679,7 @@
         "jogos_gols": ""
       }
     ],
-    "legenda_imagem": "Deeso defendendo o Tigers."
+    "legenda_imagem": "Deeso defendendo o Tigers em 2019."
   },
   {
     "id": "ganaz",
@@ -1727,7 +1727,7 @@
         "jogos_gols": ""
       }
     ],
-    "legenda_imagem": "Ganaz pelo Tigers."
+    "legenda_imagem": "Ganaz pelo Norte44 em 2016."
   },
   {
     "id": "horacio",
@@ -1775,7 +1775,7 @@
         "jogos_gols": ""
       }
     ],
-    "legenda_imagem": "Horacio Valtonen em ação pelo Norte44."
+    "legenda_imagem": "Horacio Valtonen em 2014 pelo Norte44."
   },
   {
     "id": "young",
@@ -1924,7 +1924,7 @@
         "jogos_gols": ""
       }
     ],
-    "legenda_imagem": "Tiba pelo LC United."
+    "legenda_imagem": "Tiba pelo LC United em 2019."
   },
   {
     "id": "toto",
@@ -1972,7 +1972,7 @@
         "jogos_gols": ""
       }
     ],
-    "legenda_imagem": "Toto Laine em ação pelo Tigers."
+    "legenda_imagem": "Toto no Norte44 em 2008."
   },
   {
     "id": "silba",
