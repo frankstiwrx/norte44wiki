@@ -319,7 +319,7 @@
       {
         "anos": "2025",
         "clube": "Aston Villa",
-        "jogos_gols": "",
+        "jogos_gols": "46 (12)",
         "emprestimo": true
       }
     ],
@@ -603,10 +603,10 @@
 
     "apelido": "",
 
-    "clubes_juventude": ["Norte44 (2016–2021)"],
+    "clubes_juventude": ["Norte44 (2013–2021)"],
 
     "clubes_profissionais": [
-      { "anos": "2021–", "clube": "Norte44", "jogos_gols": "" },
+      { "anos": "2021–", "clube": "Norte44", "jogos_gols": "65 (3)" },
       {
         "anos": "2025",
         "clube": "Tottenham",
@@ -616,7 +616,7 @@
     ],
 
     "selecao_nacional": [
-      { "anos": "2020–", "selecao": "Estados Unidos", "jogos_gols": "38 (12)" }
+      { "anos": "2022–", "selecao": "Estados Unidos", "jogos_gols": "38 (12)" }
     ]
   },
   {
@@ -1995,44 +1995,44 @@
       {
         "anos": "2008–2014",
         "clube": "Norte44",
-        "jogos_gols": ""
+        "jogos_gols": "83 (5)"
       },
       {
         "anos": "2014–2016",
         "clube": "Atlético Madrid",
-        "jogos_gols": ""
+        "jogos_gols": "119 (7)"
       },
       {
         "anos": "2016–2017",
         "clube": "Manchester City",
-        "jogos_gols": ""
+        "jogos_gols": "48 (4)"
       },
       {
         "anos": "2017–2018",
         "clube": "Real Sociedad",
-        "jogos_gols": ""
+        "jogos_gols": "63 (5)"
       },
       {
         "anos": "2018–2023",
         "clube": "LC United",
-        "jogos_gols": ""
+        "jogos_gols": "338 (18)"
       },
       {
         "anos": "2023–",
         "clube": "Tampere United",
-        "jogos_gols": ""
+        "jogos_gols": "126 (4)"
       }
     ],
     "selecao_nacional": [
       {
         "anos": "2004–2008",
         "selecao": "Espanha (base)",
-        "jogos_gols": ""
+        "jogos_gols": "28 (2)"
       },
       {
         "anos": "2019–",
         "selecao": "Finlândia",
-        "jogos_gols": ""
+        "jogos_gols": "66 (9)"
       }
     ],
     "legenda_imagem": "Silba pelo Tampere United."
@@ -2058,18 +2058,18 @@
       {
         "anos": "2015–",
         "clube": "Tigers",
-        "jogos_gols": ""
+        "jogos_gols": "567 (246)"
       },
       {
         "anos": "2016–2017",
         "clube": "Zenit",
-        "jogos_gols": "",
+        "jogos_gols": "127 (72)",
         "emprestimo": true
       },
       {
         "anos": "2019",
         "clube": "Norte44",
-        "jogos_gols": "",
+        "jogos_gols": "32 (14)",
         "emprestimo": true
       }
     ],
@@ -2077,12 +2077,12 @@
       {
         "anos": "2013–2017",
         "selecao": "Rússia (base)",
-        "jogos_gols": ""
+        "jogos_gols": "50 (22)"
       },
       {
         "anos": "2017–",
         "selecao": "Rússia",
-        "jogos_gols": ""
+        "jogos_gols": "104 (46)"
       }
     ],
     "legenda_imagem": "Mikhail Ruslov pelo Tigers."
@@ -2108,29 +2108,29 @@
       {
         "anos": "2015–2020",
         "clube": "Tampere United",
-        "jogos_gols": ""
+        "jogos_gols": "463 (21)"
       },
       {
         "anos": "2020–2023",
         "clube": "Finland Klubi",
-        "jogos_gols": ""
+        "jogos_gols": "25 (2)"
       },
       {
         "anos": "2023–",
         "clube": "Tampere United",
-        "jogos_gols": ""
+        "jogos_gols": "85 (5)"
       }
     ],
     "selecao_nacional": [
       {
         "anos": "2014–2015",
         "selecao": "Finlândia (base)",
-        "jogos_gols": ""
+        "jogos_gols": "48 (0)"
       },
       {
         "anos": "2017–",
         "selecao": "Finlândia",
-        "jogos_gols": ""
+        "jogos_gols": "91 (3)"
       }
     ],
     "legenda_imagem": "Wisdom pela seleção da Finlândia."
@@ -2156,19 +2156,19 @@
       {
         "anos": "2014–",
         "clube": "LC United",
-        "jogos_gols": ""
+        "jogos_gols": "638 (37)"
       }
     ],
     "selecao_nacional": [
       {
         "anos": "2013–2017",
         "selecao": "Finlândia (base)",
-        "jogos_gols": ""
+        "jogos_gols": "43 (4)"
       },
       {
         "anos": "2017–",
         "selecao": "Finlândia",
-        "jogos_gols": ""
+        "jogos_gols": "113 (7)"
       }
     ],
     "legenda_imagem": "Andrea Matthisen pelo LC United."
@@ -2194,45 +2194,45 @@
       {
         "anos": "2005–2007",
         "clube": "Helsinki Rangers",
-        "jogos_gols": ""
+        "jogos_gols": "42 (12)"
       },
       {
         "anos": "2007–2011",
         "clube": "Pohjoinen Adidas",
-        "jogos_gols": ""
+        "jogos_gols": "230 (186)"
       },
       {
         "anos": "2011–2023",
         "clube": "LC United",
-        "jogos_gols": ""
+        "jogos_gols": "782 (638)"
       },
       {
         "anos": "2023–2024",
         "clube": "Tampere United",
-        "jogos_gols": ""
+        "jogos_gols": "62 (29)"
       },
       {
         "anos": "2024",
         "clube": "Norte44",
-        "jogos_gols": "",
+        "jogos_gols": "3 (0)",
         "emprestimo": true
       },
       {
         "anos": "2024–",
         "clube": "Liverpool",
-        "jogos_gols": ""
+        "jogos_gols": "54 (22)"
       }
     ],
     "selecao_nacional": [
       {
         "anos": "2004–2007",
         "selecao": "Finlândia (base)",
-        "jogos_gols": ""
+        "jogos_gols": "48 (24)"
       },
       {
         "anos": "2007–",
         "selecao": "Finlândia",
-        "jogos_gols": ""
+        "jogos_gols": "182 (119)"
       }
     ],
     "legenda_imagem": "Iversen pela seleção da Finlândia."
@@ -2248,7 +2248,7 @@
     "nacionalidade": "Finlandês",
     "pe": "Destro",
     "altura": "1,87 m",
-    "apelido": "Ljung",
+    "apelido": "",
     "clube_atual": "Tampere United",
     "numero": 1,
     "posicao": "Goleiro",
@@ -2258,34 +2258,34 @@
       {
         "anos": "2012–2016",
         "clube": "LC United",
-        "jogos_gols": ""
+        "jogos_gols": "127 (0)"
       },
       {
         "anos": "2016–2019",
         "clube": "Tampere United",
-        "jogos_gols": ""
+        "jogos_gols": "203 (0)"
       },
       {
         "anos": "2019–2022",
         "clube": "LC United",
-        "jogos_gols": ""
+        "jogos_gols": "221 (0)"
       },
       {
         "anos": "2022–",
         "clube": "Tampere United",
-        "jogos_gols": ""
+        "jogos_gols": "178 (0)"
       }
     ],
     "selecao_nacional": [
       {
         "anos": "2012–2014",
         "selecao": "Finlândia (base)",
-        "jogos_gols": ""
+        "jogos_gols": "18 (0)"
       },
       {
         "anos": "2016–",
         "selecao": "Finlândia",
-        "jogos_gols": ""
+        "jogos_gols": "148 (0)"
       }
     ],
     "legenda_imagem": "Jasper Ljung defendendo a seleção da Finlândia."
@@ -2311,49 +2311,49 @@
       {
         "anos": "2007–2008",
         "clube": "FC Tokyo",
-        "jogos_gols": ""
+        "jogos_gols": "48 (8)"
       },
       {
         "anos": "2008–2009",
         "clube": "Norte44",
-        "jogos_gols": ""
+        "jogos_gols": "16 (2)"
       },
       {
         "anos": "2009–2012",
         "clube": "Real Madrid",
-        "jogos_gols": ""
+        "jogos_gols": "21 (3)"
       },
       {
         "anos": "2012–2015",
         "clube": "FC Tokyo",
-        "jogos_gols": ""
+        "jogos_gols": "152 (37)"
       },
       {
         "anos": "2015–2016",
         "clube": "Tottenham",
-        "jogos_gols": ""
+        "jogos_gols": "58 (15)"
       },
       {
         "anos": "2016–2017",
         "clube": "Arsenal",
-        "jogos_gols": ""
+        "jogos_gols": "24 (4)"
       },
       {
         "anos": "2017–2022",
         "clube": "Tigers",
-        "jogos_gols": ""
+        "jogos_gols": "260 (38)"
       },
       {
         "anos": "2022–",
         "clube": "Tampere United",
-        "jogos_gols": ""
+        "jogos_gols": "92 (13)"
       }
     ],
     "selecao_nacional": [
       {
         "anos": "2016–",
         "selecao": "Japão",
-        "jogos_gols": ""
+        "jogos_gols": "92 (13)"
       }
     ],
     "legenda_imagem": "Kazemaru pelo Tampere United."
@@ -2379,7 +2379,7 @@
       {
         "anos": "2023–",
         "clube": "Norte44",
-        "jogos_gols": ""
+        "jogos_gols": "23 (1)"
       },
       {
         "anos": "2023–2024",
@@ -2540,72 +2540,72 @@
       {
         "anos": "2015–2018",
         "clube": "Norte44",
-        "jogos_gols": ""
+        "jogos_gols": "25 (3)"
       },
       {
         "anos": "2015–2016",
         "clube": "Brtlty City",
-        "jogos_gols": "",
+        "jogos_gols": "10 (1)",
         "emprestimo": true
       },
       {
         "anos": "2016–2017",
         "clube": "Finland Klubi",
-        "jogos_gols": "",
+        "jogos_gols": "15 (2)",
         "emprestimo": true
       },
       {
         "anos": "2018",
         "clube": "FC Kiisto",
-        "jogos_gols": "",
+        "jogos_gols": "18 (4)",
         "emprestimo": true
       },
       {
         "anos": "2018–2021",
         "clube": "FC Kiisto",
-        "jogos_gols": ""
+        "jogos_gols": "97 (17)"
       },
       {
         "anos": "2019–2020",
         "clube": "SJK",
-        "jogos_gols": "",
+        "jogos_gols": "28 (8)",
         "emprestimo": true
       },
       {
         "anos": "2020–2021",
         "clube": "Varkaus Eagles",
-        "jogos_gols": "",
+        "jogos_gols": "20 (4)",
         "emprestimo": true
       },
       {
         "anos": "2021",
         "clube": "HJK Helsinki",
-        "jogos_gols": "",
+        "jogos_gols": "10 (2)",
         "emprestimo": true
       },
       {
         "anos": "2021",
         "clube": "Norrporten 84",
-        "jogos_gols": "",
+        "jogos_gols": "26 (11)",
         "emprestimo": true
       },
       {
         "anos": "2021–2022",
         "clube": "FS Strikers FC",
-        "jogos_gols": "",
+        "jogos_gols": "46 (29)",
         "emprestimo": true
       },
       {
         "anos": "2022–",
         "clube": "FS Strikers FC",
-        "jogos_gols": ""
+        "jogos_gols": "243 (156)"
       }
     ],
     "selecao_nacional": [
       {
         "anos": "2003–2008",
         "selecao": "Finlândia (base)",
-        "jogos_gols": ""
+        "jogos_gols": "37 (15)"
       }
     ],
     "legenda_imagem": "Kristian Järvinen em partida pelo FS Strikers FC."
