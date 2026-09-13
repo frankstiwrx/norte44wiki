@@ -165,10 +165,6 @@
         "selecao": "Portugal",
         "jogos_gols": "83 (4)"
       }
-    ],
-    "bio_paragrafos": [
-      "Rair é considerado um dos maiores laterais-direitos da história do Norte44. Após construir uma carreira de destaque em diferentes clubes do futebol europeu, consolidou-se no Norte44 como uma das principais referências de sua posição, participando de um longo período da história do clube e tornando-se uma figura bastante identificada com a equipe.",
-      "Conhecido principalmente pela capacidade de apoiar o ataque, velocidade e participação na construção ofensiva, destacou-se também pela regularidade ao longo dos anos. Na parte final da carreira, com a perda natural de velocidade, passou a exercer uma função mais defensiva antes de encerrar sua trajetória como jogador."
     ]
   },
   {
@@ -207,10 +203,6 @@
         "selecao": "Coreia do Sul",
         "jogos_gols": "68 (2)"
       }
-    ],
-    "bio_paragrafos": [
-      "Shi-U é considerado um dos maiores zagueiros da história do Norte44 e uma das principais referências defensivas do clube. Após subir das categorias de base e passar seus primeiros anos disputando espaço no elenco, conquistou a titularidade e estabeleceu-se por um longo período como peça fundamental da defesa.",
-      "Zagueiro extremamente completo, destaca-se pela qualidade no passe, capacidade de construção desde o campo defensivo, velocidade, intensidade e leitura de jogo. Sua regularidade e versatilidade também fizeram dele um jogador capaz de atuar em diferentes funções defensivas, tornando-se uma das figuras mais importantes de sua geração no clube."
     ]
   },
   {
@@ -255,7 +247,7 @@
     "id": "heikki",
     "nome_curto": "Heikki",
     "nome_completo": "Kasper Heikkinen Rautio",
-    "descricao_curta": "Kasper Heikkinen Rautio, mais conhecido como Heikki, é um futebolista finlandês que atua como atacante pelo Norte44 e está emprestado ao Nice.",
+    "descricao_curta": "Kasper Heikkinen Rautio, mais conhecido como Heikki, é um futebolista finlandês que atua como atacante pelo Norte44 e está emprestado ao Aston Villa.",
     "legenda_imagem": "Heikki atuando pelo Norte44 em 2025",
     "data_nascimento_iso": "2007-04-05",
     "data_nascimento_texto": "5 de abril de 2007",
@@ -263,8 +255,8 @@
     "nacionalidade": "Finlandês",
     "pe": "Destro",
     "altura": "1,81 m",
-    "clube_atual": "Nice",
-    "numero": "20",
+    "clube_atual": "Aston Villa",
+    "numero": "10",
     "posicao": "Atacante",
     "outras_posicoes": [],
     "apelido": "Heikki",
@@ -279,12 +271,6 @@
         "anos": "2025",
         "clube": "Aston Villa",
         "jogos_gols": "46 (12)",
-        "emprestimo": true
-      },
-      {
-        "anos": "2025–2026",
-        "clube": "Nice",
-        "jogos_gols": "4 (0)",
         "emprestimo": true
       }
     ],
@@ -337,10 +323,6 @@
         "selecao": "Espanha",
         "jogos_gols": "33 (3)"
       }
-    ],
-    "bio_paragrafos": [
-      "Herrera é considerado um dos maiores laterais-esquerdos da história do Norte44. Durante sua longa passagem pelo clube, tornou-se uma das principais referências da posição, destacando-se principalmente pelo forte apoio ofensivo, velocidade e capacidade de participar diretamente da criação de jogadas e também da finalização.",
-      "Com o avanço da idade e a perda de parte de sua explosão física, passou a exercer uma função mais conservadora antes de encerrar a carreira. Sua longa permanência e o alto nível apresentado durante seu auge consolidaram seu nome entre os principais laterais da história do clube."
     ]
   },
   {
@@ -427,10 +409,6 @@
         "selecao": "Coreia do Sul",
         "jogos_gols": "38 (17)"
       }
-    ],
-    "bio_paragrafos": [
-      "Juri Heung Yoon é conhecido principalmente por sua enorme velocidade, intensidade e capacidade de atacar espaços, características que fazem dele um jogador extremamente agressivo no setor ofensivo. Sua versatilidade permite que atue em diferentes posições do ataque, sobretudo pelo lado direito.",
-      "Também é considerado um dos grandes talentos de sua geração na Coreia do Sul. Sua intensidade, capacidade física e participação constante nas ações ofensivas fizeram com que se estabelecesse como um nome importante tanto no Norte44 quanto no cenário da seleção sul-coreana."
     ]
   },
   {
@@ -556,7 +534,7 @@
     "id": "kenny",
     "nome_curto": "Kenny",
     "nome_completo": "Kenny O'Sullivan",
-    "descricao_curta": "Kenny O'Sullivan é um futebolista irlandês que atua como centroavante pela Juventus, emprestado pelo Norte44 e pela seleção da Irlanda.",
+    "descricao_curta": "Kenny O'Sullivan é um futebolista irlandês que atua como centroavante pelo Norte44 e pela seleção da Irlanda.",
     "legenda_imagem": "Kenny atuando pelo Norte44",
     "data_nascimento_iso": "1993-04-03",
     "data_nascimento_texto": "3 de abril de 1993",
@@ -564,8 +542,8 @@
     "nacionalidade": "Irlandesa",
     "pe": "Destro",
     "altura": "1,94 m",
-    "clube_atual": "Juventus",
-    "numero": "19",
+    "clube_atual": "Norte44",
+    "numero": "14",
     "posicao": "Centroavante",
     "outras_posicoes": [],
     "apelido": "",
@@ -578,12 +556,6 @@
         "anos": "2011–",
         "clube": "Norte44",
         "jogos_gols": "523 (285)"
-      },
-      {
-        "anos": "2026–2027",
-        "clube": "Juventus",
-        "jogos_gols": "0 (0)",
-        "emprestimo": true
       }
     ],
     "selecao_nacional": [
@@ -795,12 +767,6 @@
         "selecao": "Finlândia",
         "jogos_gols": "209 (171)"
       }
-    ],
-    "bio_paragrafos": [
-      "Nick Mäkinen é considerado o maior ídolo da história do Norte44 e uma das figuras mais representativas de toda a trajetória do clube. Extremamente identificado com a equipe, está entre os jogadores com maior número de partidas e gols pelo Norte44, além de também figurar entre os grandes artilheiros da história da seleção da Finlândia. Seu apelido, Sankari Nick, tornou-se diretamente associado à sua importância para o clube.",
-      "Chegou ao Norte44 ainda muito jovem e rapidamente assumiu um protagonismo incomum para um jogador de sua idade. Ao longo das décadas seguintes, transformou-se em uma das principais referências técnicas e de liderança da equipe, construindo uma relação extremamente forte com os torcedores e com a própria identidade do clube.",
-      "Dentro de campo, Nick ficou marcado por sua personalidade, criatividade, qualidade técnica e enorme capacidade de marcar gols. Capaz tanto de finalizar quanto de participar da construção das jogadas, tornou-se um atacante extremamente completo e decisivo durante seus melhores anos.",
-      "Sua importância ultrapassou os resultados esportivos. Nick tornou-se um verdadeiro símbolo institucional do Norte44, sendo reconhecido como a maior referência histórica do clube. Como homenagem à sua trajetória e importância para a equipe, o estádio do Norte44 leva seu nome."
     ]
   },
   {
@@ -942,11 +908,6 @@
         "selecao": "Finlândia",
         "jogos_gols": "123 (6)"
       }
-    ],
-    "bio_paragrafos": [
-      "Daniel Eero Burnainen, conhecido como Burn, é um dos grandes ídolos e símbolos históricos do Norte44. Apesar de ter desenvolvido parte importante de sua carreira fora do clube, retornou posteriormente muito mais experiente e consolidado, tornando-se uma das principais referências defensivas da equipe.",
-      "Ao longo de sua carreira, destacou-se pela enorme presença física, liderança e capacidade de comandar o sistema defensivo. Em seus melhores anos também apresentava forte presença ofensiva em bolas paradas, chegando a marcar uma quantidade considerável de gols para um zagueiro.",
-      "Sua longevidade e importância dentro do elenco fizeram com que Burn se tornasse muito mais do que apenas um defensor titular. É reconhecido como um dos grandes líderes de sua geração e um dos maiores jogadores da história do Norte44, mantendo forte identificação com o clube mesmo depois de ter construído importantes passagens por outras equipes."
     ]
   },
   {
@@ -980,11 +941,6 @@
         "selecao": "Finlândia",
         "jogos_gols": "124 (23)"
       }
-    ],
-    "bio_paragrafos": [
-      "Luis Henrique Järvinen é considerado um dos grandes jogadores e ídolos da história do Norte44. Integrante de uma família profundamente ligada à história do futebol finlandês e do próprio clube, é irmão de Hervisty Järvinen e de Kristian Järvinen.",
-      "Mais velho que Hervisty, Luis Henrique construiu sua própria trajetória de destaque no Norte44, ainda que tenha alcançado um patamar histórico ligeiramente inferior ao do irmão mais novo. Durante muitos anos foi uma peça importante do setor ofensivo, atuando principalmente como meia-atacante e atacante e participando de diferentes gerações da equipe.",
-      "Sua longevidade, identificação com o clube e importância durante seus melhores anos fizeram com que se consolidasse entre os grandes nomes da história do Norte44. Também teve participação relevante pela seleção da Finlândia, onde apresentou períodos de grande destaque ofensivo."
     ]
   },
   {
@@ -1190,7 +1146,7 @@
     "id": "jokin_martinez",
     "nome_curto": "Jokin Martinez",
     "nome_completo": "Jokin Martinez Garmendia Etxebarria",
-    "descricao_curta": "Jokin Martinez Garmendia Etxebarria é um futebolista espanhol que atua como meia pela Juventus, emprestado pelo Norte44, e pela seleção da Espanha.",
+    "descricao_curta": "Jokin Martinez Garmendia Etxebarria é um futebolista espanhol que atua como meia pelo Norte44 e pela seleção da Espanha.",
     "data_nascimento_iso": "2005-08-22",
     "data_nascimento_texto": "22 de agosto de 2005",
     "local_nascimento": "Bilbao, País Basco, Espanha",
@@ -1198,8 +1154,8 @@
     "altura": "1,73 m",
     "pe": "Destro",
     "apelido": "",
-    "clube_atual": "Juventus",
-    "numero": 18,
+    "clube_atual": "Norte44",
+    "numero": 21,
     "posicao": "Meia-Atacante",
     "outras_posicoes": ["Meia"],
     "clubes_juventude": ["Athletic Club (2013–2015)", "Norte44 (2015–2023)"],
@@ -1207,13 +1163,7 @@
       {
         "anos": "2023–",
         "clube": "Norte44",
-        "jogos_gols": "64 (11)"
-      },
-      {
-        "anos": "2025–2026",
-        "clube": "Juventus",
-        "jogos_gols": "40 (14)",
-        "emprestimo": true
+        "jogos_gols": "34 (11)"
       }
     ],
     "selecao_nacional": [
@@ -1234,7 +1184,7 @@
     "id": "ji_chiho",
     "nome_curto": "Ji Chi-Ho",
     "nome_completo": "Jung Ji Chi-Ho",
-    "descricao_curta": "Jung Ji Chi-Ho é um futebolista coreano que atua como volante e zagueiro pelo Real Madrid, emprestado pelo Norte44, e pela seleção da Coreia do Sul.",
+    "descricao_curta": "Jung Ji Chi-Ho é um futebolista coreano que atua como volante e zagueiro pelo Norte44 e pela seleção da Coreia do Sul.",
     "data_nascimento_iso": "2003-05-05",
     "data_nascimento_texto": "5 de maio de 2003",
     "local_nascimento": "Seul, Coreia do Sul",
@@ -1242,8 +1192,8 @@
     "altura": "1,88 m",
     "pe": "Destro",
     "apelido": "",
-    "clube_atual": "Real Madrid",
-    "numero": 3,
+    "clube_atual": "Norte44",
+    "numero": 26,
     "posicao": "Volante",
     "outras_posicoes": ["Zagueiro"],
     "clubes_juventude": ["Seoul FC (2011–2013)", "Norte44 (2013–2020)"],
@@ -1257,12 +1207,6 @@
         "anos": "2022–2023",
         "clube": "Finland Klubi",
         "jogos_gols": "28 (1)",
-        "emprestimo": true
-      },
-      {
-        "anos": "2025–2026",
-        "clube": "Real Madrid",
-        "jogos_gols": "16 (4)",
         "emprestimo": true
       }
     ],
@@ -1515,7 +1459,7 @@
     "id": "alex_draki",
     "nome_curto": "Alex Draki",
     "nome_completo": "Alexandros Draki",
-    "descricao_curta": "Alexandros Draki é um futebolista grego que atua como lateral esquerdo pelo Villarreal e pela seleção da Grécia.",
+    "descricao_curta": "Alexandros Draki é um futebolista grego que atua como lateral esquerdo pelo Norte44 e pela seleção da Grécia.",
     "data_nascimento_iso": "1997-04-12",
     "data_nascimento_texto": "12 de abril de 1997",
     "local_nascimento": "Atenas, Ática, Grécia",
@@ -1523,8 +1467,8 @@
     "altura": "1,78 m",
     "pe": "Canhoto",
     "apelido": "",
-    "clube_atual": "Villarreal",
-    "numero": 2,
+    "clube_atual": "Norte44",
+    "numero": 23,
     "posicao": "Lateral-Esquerdo",
     "outras_posicoes": [],
     "clubes_juventude": ["AEK Atenas (2005–2013)", "Schalke 04 (2013–2015)"],
@@ -1540,20 +1484,9 @@
         "jogos_gols": "2 (0)"
       },
       {
-        "anos": "2017–2025",
+        "anos": "2017–",
         "clube": "Norte44",
         "jogos_gols": "239 (4)"
-      },
-      {
-        "anos": "2025–2026",
-        "clube": "Villarreal",
-        "jogos_gols": "25 (0)",
-        "emprestimo": true
-      },
-      {
-        "anos": "2026–",
-        "clube": "Villarreal",
-        "jogos_gols": "0 (0)"
       }
     ],
     "selecao_nacional": [
@@ -1622,13 +1555,6 @@
     "data_nascimento_texto": "12 de abril de 1982",
     "local_nascimento": "Helsinki, Uusimaa, Finlândia",
     "nacionalidade": "Finlandês",
-    "bio_paragrafos": [
-      "Baird Koskinen, conhecido simplesmente como Baird, é considerado um dos maiores ídolos da história do Norte44. Formado nas categorias de base do clube, construiu praticamente toda a sua trajetória como uma das principais referências do meio-campo e tornou-se profundamente identificado com a equipe ao longo dos anos.",
-
-      "Conhecido pela inteligência com a bola, qualidade no passe, controle de ritmo e capacidade de organizar o jogo, Baird marcou uma geração do Norte44 mais pela influência coletiva do que pelos números ofensivos. Seu estilo técnico, cerebral e elegante fez com que recebesse o apelido de “Iniesta”, em referência à forma como conduzia o meio-campo e conectava os diferentes setores da equipe.",
-
-      "Durante sua longa passagem pelo clube, acumulou centenas de partidas e tornou-se uma das figuras mais reconhecidas e respeitadas pelos torcedores. Sua regularidade, longevidade e importância tática consolidaram seu nome entre os grandes jogadores da história do Norte44 e como um dos principais meio-campistas que já vestiram a camisa do clube."
-    ],
     "altura": "1,81 m",
     "pe": "Destro",
     "apelido": "Iniesta",
@@ -1939,12 +1865,7 @@
         "jogos_gols": "133 (86)"
       }
     ],
-    "legenda_imagem": "Young Park Ji pelo Tigers.",
-    "bio_paragrafos": [
-      "Young Park Ji é considerado um dos grandes jogadores sul-coreanos de sua geração. Ao longo de sua carreira, destacou-se principalmente pela capacidade de marcar gols, intensidade ofensiva e grande impacto pela seleção da Coreia do Sul, onde se consolidou como um dos principais nomes do ataque.",
-      "Sua maior identificação em nível de clubes ocorreu no Tigers. Após chegar à equipe, tornou-se uma das principais referências ofensivas do time e construiu uma trajetória marcada por muitos gols e grande importância esportiva. O desempenho e a longevidade fizeram com que se transformasse em um dos grandes ídolos da história do Tigers.",
-      "Além dos números, Young tornou-se um jogador extremamente querido pelos torcedores e muito identificado com o clube, sendo lembrado como uma das figuras mais importantes de uma das grandes gerações da equipe."
-    ]
+    "legenda_imagem": "Young Park Ji pelo Tigers."
   },
   {
     "id": "stearman",
@@ -2293,15 +2214,15 @@
     "id": "iversen",
     "nome_curto": "Iversen",
     "nome_completo": "Christopher Iversen",
-    "descricao_curta": "Christopher Iversen é um futebolista finlandês com ascendência dinamarquesa que atua como atacante e ponta pelo LC United e pela seleção da Finlândia.",
+    "descricao_curta": "Christopher Iversen é um futebolista finlandês com ascendência dinamarquesa que atua como atacante e ponta pelo Liverpool e pela seleção da Finlândia.",
     "data_nascimento_iso": "1989-09-05",
     "data_nascimento_texto": "5 de setembro de 1989",
     "local_nascimento": "Helsinki, Uusimaa, Finlândia",
     "nacionalidade": "Finlandês e Dinamarquês",
     "pe": "Destro",
     "altura": "1,83 m",
-    "apelido": "Iver",
-    "clube_atual": "LC United",
+    "apelido": "Iversen",
+    "clube_atual": "Liverpool",
     "numero": 10,
     "posicao": "Atacante e Ponta-Esquerda",
     "outras_posicoes": ["Meia-Atacante"],
@@ -2334,14 +2255,9 @@
         "emprestimo": true
       },
       {
-        "anos": "2024–2026",
+        "anos": "2024–",
         "clube": "Liverpool",
-        "jogos_gols": "85 (63)"
-      },
-      {
-        "anos": "2026–",
-        "clube": "LC United",
-        "jogos_gols": "37 (21)"
+        "jogos_gols": "54 (22)"
       }
     ],
     "selecao_nacional": [
@@ -2356,12 +2272,7 @@
         "jogos_gols": "182 (119)"
       }
     ],
-    "legenda_imagem": "Iversen pela seleção da Finlândia.",
-    "bio_paragrafos": [
-      "Christopher Iversen é considerado um dos maiores jogadores da história do futebol finlandês e uma das principais figuras de sua geração. Ao longo de uma carreira extremamente longa e produtiva, tornou-se referência em diferentes clubes e construiu números expressivos tanto em partidas quanto em gols.",
-      "Também possui enorme importância na história da seleção da Finlândia, figurando entre os jogadores mais representativos do país. Atacante versátil e tecnicamente refinado, destacou-se pela capacidade de marcar gols, criar jogadas e atuar em diferentes funções no setor ofensivo.",
-      "Sua longevidade em alto nível e o impacto produzido em diferentes equipes o consolidaram como uma das grandes figuras da história da liga finlandesa e do futebol nacional."
-    ]
+    "legenda_imagem": "Iversen pela seleção da Finlândia."
   },
   {
     "id": "ljung",
@@ -2488,7 +2399,7 @@
     "id": "isak_kosko",
     "nome_curto": "Isak Kosko",
     "nome_completo": "Isak Kosko",
-    "descricao_curta": "Isak Kosko é um futebolista finlandês que atua como ala e lateral-esquerdo pelo Bayern de Munique, e pela seleção da Finlândia.",
+    "descricao_curta": "Isak Kosko é um futebolista finlandês que atua como ala e lateral-esquerdo pelo Barcelona, emprestado pelo Norte44, e pela seleção da Finlândia.",
     "data_nascimento_iso": "2004-03-15",
     "data_nascimento_texto": "15 de março de 2004",
     "local_nascimento": "Oulu, Pohjois-Pohjanmaa, Finlândia",
@@ -2496,14 +2407,14 @@
     "pe": "Canhoto",
     "altura": "1,77 m",
     "apelido": "",
-    "clube_atual": "Bayern de Munique",
-    "numero": 17,
+    "clube_atual": "Barcelona",
+    "numero": 2,
     "posicao": "Ala-Esquerdo",
     "outras_posicoes": ["Lateral-Esquerdo"],
     "clubes_juventude": ["Norte44 (2014–2023)"],
     "clubes_profissionais": [
       {
-        "anos": "2023–2026",
+        "anos": "2023–",
         "clube": "Norte44",
         "jogos_gols": "23 (1)"
       },
@@ -2518,11 +2429,6 @@
         "clube": "Barcelona",
         "jogos_gols": "23 (7)",
         "emprestimo": true
-      },
-      {
-        "anos": "2026–",
-        "clube": "Bayern de Munique",
-        "jogos_gols": "0 (0)"
       }
     ],
     "selecao_nacional": [
@@ -2543,15 +2449,15 @@
     "id": "jamie_rasanen",
     "nome_curto": "Jamie Rasanen",
     "nome_completo": "Jamie Hass Rasanen",
-    "descricao_curta": "Jamie Hass Rasanen, conhecido como Jamie, é um jovem futebolista finlandês que atua como meia pelo Wolverhampton, emprestado pelo Norte44, e integra as categorias de base da seleção da Finlândia.",
+    "descricao_curta": "Jamie Hass Rasanen, conhecido como Jamie, é um jovem futebolista finlandês que atua como meia pelo Stuttgart, emprestado pelo Norte44, e integra as categorias de base da seleção da Finlândia.",
     "data_nascimento_iso": "2006-08-12",
     "data_nascimento_texto": "12 de agosto de 2006",
     "local_nascimento": "Kuopio, Savônia do Norte, Finlândia",
     "nacionalidade": "Finlandês",
-    "pe": "Destro",
+    "pe": "Canhoto",
     "altura": "2,02 m",
     "apelido": "Jamie",
-    "clube_atual": "Wolverhampton",
+    "clube_atual": "Stuttgart",
     "numero": 28,
     "posicao": "Meia e Meia Atacante",
     "outras_posicoes": [],
@@ -2566,12 +2472,6 @@
         "anos": "2025",
         "clube": "Stuttgart",
         "jogos_gols": "10 (0)",
-        "emprestimo": true
-      },
-      {
-        "anos": "2025–2026",
-        "clube": "Wolverhampton",
-        "jogos_gols": "9 (0)",
         "emprestimo": true
       }
     ],
